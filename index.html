@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Parkville Biomedical Seminars</title>
+  <meta name="description" content="Curated research seminars from Parkville Biomedical Precinct institutions — WEHI, Doherty, Peter Mac, MCRI, Bio21, Florey and more." />
+  <link rel="stylesheet" href="styles.css" />
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🔬</text></svg>" />
+</head>
+<body>
+
+<!-- ── Header ──────────────────────────────────────────── -->
+<header class="header">
+  <div class="header-inner">
+    <div class="header-title">
+      <div class="header-logo">🔬</div>
+      <div>
+        <h1>Parkville <span>Biomedical</span> Seminars</h1>
+        <div class="header-sub">Melbourne's research precinct — curated in one place</div>
+      </div>
+    </div>
+    <div class="header-meta">
+      <div class="status-badge">
+        <span class="status-dot"></span>
+        <span id="status-text">Live</span>
+      </div>
+      <span class="update-time" id="update-time"></span>
+    </div>
+  </div>
+</header>
+
+<!-- ── Layout ──────────────────────────────────────────── -->
+<div class="layout">
+
+  <!-- ── Sidebar ─────────────────────────────────────── -->
+  <aside class="sidebar">
+
+    <!-- Search -->
+    <div class="filter-section">
+      <div class="filter-label">Search</div>
+      <div class="search-wrap">
+        <svg class="search-icon" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/>
+        </svg>
+        <input type="text" id="search" placeholder="Speaker, topic, keyword…" autocomplete="off" />
+      </div>
+    </div>
+
+    <!-- Date range -->
+    <div class="filter-section">
+      <div class="filter-label">Date Range</div>
+      <div class="date-inputs">
+        <input type="date" id="date-from" title="From" />
+        <input type="date" id="date-to" title="To" />
+      </div>
+    </div>
+
+    <!-- Institutions -->
+    <div class="filter-section">
+      <div class="filter-label">Institutions</div>
+      <div class="institution-list" id="institution-list">
+        <!-- populated by JS -->
+      </div>
+    </div>
+
+    <!-- Clear -->
+    <button class="clear-btn" id="clear-btn" onclick="clearFilters()">Clear all filters</button>
+
+    <!-- Scraper status -->
+    <div class="status-panel" id="status-panel" style="display:none">
+      <div class="status-panel-title">Scraper Status</div>
+      <div class="status-grid" id="status-grid"></div>
+    </div>
+
+  </aside>
+
+  <!-- ── Main ──────────────────────────────────────────── -->
+  <main class="main">
+
+    <div class="results-header">
+      <div class="results-count">
+        <strong id="count-display">—</strong>
+        <span id="count-label"> upcoming seminars</span>
+      </div>
+      <select class="sort-select" id="sort-select" onchange="render()">
+        <option value="date-asc">Date: Earliest first</option>
+        <option value="date-desc">Date: Latest first</option>
+        <option value="institution">By institution</option>
+      </select>
+    </div>
+
+    <div id="seminars-container">
+      <div class="loading-state">
+        <div class="spinner"></div>
+        <div class="state-title">Loading seminars…</div>
+        <div class="state-sub">Fetching latest data from all institutions</div>
+      </div>
+    </div>
+
+  </main>
+</div>
+
+<!-- Footer -->
+<footer class="footer">
+  Data scraped daily from WEHI, Doherty Institute, Peter MacCallum, MCRI, Bio21, Florey, Orygen,
+  Melbourne Bioinformatics, Melbourne Brain Centre, Royal Melbourne Hospital, CERA, Bionics Institute.
+  <br>All seminar details are owned by respective institutions.
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>

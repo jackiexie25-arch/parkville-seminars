@@ -1,0 +1,85 @@
+name: Scrape Parkville Seminars
+
+on:
+  # Run daily at 7:00 AM Melbourne time (AEST = UTC+10 = 21:00 UTC)
+  schedule:
+    - cron: '0 21 * * *'
+
+  # Allow manual trigger from GitHub Actions UI or API
+  workflow_dispatch:
+    inputs:
+      institutions:
+        description: 'Comma-separated institution keys to scrape (leave blank for all)'
+        required: false
+        default: ''
+      keep_past:
+        description: 'Keep past events in output'
+        required: false
+        default: 'false'
+        type: choice
+        options:
+          - 'false'
+          - 'true'
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    permissions:
+      contents: write  # needed to push seminars.json
+
+    steps:
+      # 1 — Checkout repo
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      # 2 — Set up Python
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      # 3 — Install dependencies
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt
+
+      # 4 — Install Playwright browsers (Chromium only)
+      - name: Install Playwright browsers
+        run: playwright install chromium --with-deps
+
+      # 5 — Run scrapers
+      - name: Run scrapers
+        run: |
+          if [ -n "${{ github.event.inputs.institutions }}" ]; then
+            python run_scrapers.py --institutions "${{ github.event.inputs.institutions }}"
+          elif [ "${{ github.event.inputs.keep_past }}" = "true" ]; then
+            python run_scrapers.py --keep-past
+          else
+            python run_scrapers.py
+          fi
+
+      # 6 — Commit and push if data changed
+      - name: Commit updated data
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add seminars.json scraper_status.json
+          if git diff --staged --quiet; then
+            echo "No changes to seminars data, skipping commit."
+          else
+            TIMESTAMP=$(date -u '+%Y-%m-%d %H:%M UTC')
+            git commit -m "🔬 Update seminars — ${TIMESTAMP}"
+            git push
+          fi
+
+      # 7 — Summary
+      - name: Print summary
+        run: |
+          if [ -f seminars.json ]; then
+            TOTAL=$(python -c "import json; d=json.load(open('seminars.json')); print(d['total'])")
+            echo "✓ ${TOTAL} upcoming seminars written to seminars.json"
+          else
+            echo "⚠ seminars.json not found"
+          fi
