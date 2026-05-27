@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-27T11:08:57.045498Z",
-  "total": 13,
+  "generated_at": "2026-05-27T22:42:48.780060Z",
+  "total": 9,
   "seminars": [
     {
       "id": "f3544f69e331",
@@ -15,37 +15,7 @@
       "abstract": null,
       "url": "https://www.doherty.edu.au/event/tracking-australias-progress-towards-hepatitis-b-elimination-national-surveillance-for-hepatitis-b-indicators-project-2024-national-report-launch/",
       "online": true,
-      "scraped_at": "2026-05-27T11:08:34.081522Z"
-    },
-    {
-      "id": "74865bf587e4",
-      "institution": "WEHI",
-      "institution_color": "#003087",
-      "title": "AnneMarie Welch – Blood Cells and Blood Cancer division",
-      "date": "2026-05-27",
-      "time": "13:00",
-      "speaker": "AnneMarie Welch",
-      "affiliation": "Blood Cells and Blood Cancer division",
-      "location": "Davis Auditorium",
-      "abstract": null,
-      "url": "https://www.wehi.edu.au/event/annemarie-welch-blood-cells-and-blood-cancer-division/",
-      "online": true,
-      "scraped_at": "2026-05-27T11:08:29.784894Z"
-    },
-    {
-      "id": "95b4fbb65855",
-      "institution": "Melbourne Brain Centre",
-      "institution_color": "#9B2335",
-      "title": "Using MEG to measure the dynamics of visual perception",
-      "date": "2026-05-28",
-      "time": "12:00",
-      "speaker": null,
-      "affiliation": null,
-      "location": "1201, Level 12 Tea Room, Redmond Barry Building, Parkville",
-      "abstract": "Visual perception depends not only on stimulus-driven input, but also on ‘top-down’ factors such as attention, task, and prior experience. In this talk I will present a few recent projects where we measured the interaction between stimulus-driven and top-down factors using magnetoencephalography (MEG) combined with measures of stimulus-related information exchange between regions. Most recently, we used this approach to investigate binocular rivalry (BR), where conflicting images presented to each eye cannot be fused into a stable percept, and perception spontaneously oscillates between the two images. While BR has been studied extensively, the role of attention in the neural dynamics of BR remains unclear. We used MEG to compare the neural information about a dominant BR percept and the associated suppressed stimulus, and how attention modulates this relationship. Participants (N = 20) viewed a stimulus with a rivalrous and non-rivalrous component, alternating whether their attention was directed to the rivalrous or non-rivalrous component. We used classification analyses to quantify the amount of information about each stimulus component contained in the MEG signal over time. As expected, classifier accuracy is greater for the attended than the unattended non-rivalrous stimulus, from ~200ms post stimulus presentation. For the BR stimulus, we decoded the image content of both dominant and suppressed stimuli, finding that information about the suppressed stimulus was surprisingly robust. Information about the suppressed stimulus was lower than the dominant stimulus, but was less attenuated than the unattended non-rivalrous stimulus. Overall, the decoding dynamics are consistent with the onset of BR involving similar processes to engaging covert spatial attention.",
-      "url": "https://psychologicalsciences.unimelb.edu.au/cognitive-neuroscience-hub/events/cnh-roundtable-talk-by-dr-erin-goddard",
-      "online": false,
-      "scraped_at": "2026-05-27T11:08:49.603747Z"
+      "scraped_at": "2026-05-27T22:41:57.579666Z"
     },
     {
       "id": "50cd9bcf4d0b",
@@ -60,7 +30,7 @@
       "abstract": null,
       "url": "https://www.doherty.edu.au/event/ncas-seminar-series-environmental/",
       "online": true,
-      "scraped_at": "2026-05-27T11:08:33.910063Z"
+      "scraped_at": "2026-05-27T22:41:56.489422Z"
     },
     {
       "id": "cadb891d7582",
@@ -75,7 +45,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-bekky-feltham-a-prof-bernhard-lechtenberg-ubiquitin-signalling-division/",
       "online": true,
-      "scraped_at": "2026-05-27T11:08:30.258622Z"
+      "scraped_at": "2026-05-27T22:41:51.605466Z"
     },
     {
       "id": "95384aedfaee",
@@ -90,7 +60,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-andreas-strasser-blood-cells-and-blood-cancer-division/",
       "online": true,
-      "scraped_at": "2026-05-27T11:08:30.785608Z"
+      "scraped_at": "2026-05-27T22:41:51.892287Z"
     },
     {
       "id": "d07cdddebb2c",
@@ -105,7 +75,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-john-silke-inflammation-division-2/",
       "online": true,
-      "scraped_at": "2026-05-27T11:08:30.928583Z"
+      "scraped_at": "2026-05-27T22:41:53.039304Z"
     },
     {
       "id": "54bff4b8733a",
@@ -120,7 +90,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/kelly-chibale-university-of-cape-town/",
       "online": true,
-      "scraped_at": "2026-05-27T11:08:31.375587Z"
+      "scraped_at": "2026-05-27T22:41:54.168899Z"
     },
     {
       "id": "d8d5f6403a0b",
@@ -135,37 +105,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-melanie-bahlo-genetics-and-gene-regulation-division/",
       "online": true,
-      "scraped_at": "2026-05-27T11:08:31.905589Z"
-    },
-    {
-      "id": "cc282516efb5",
-      "institution": "Melbourne Brain Centre",
-      "institution_color": "#9B2335",
-      "title": "Neuroscientific Evaluation of Risk in Early Childhood Psychopathology: Integrating Proximal and Distal Factors",
-      "date": "2026-08-13",
-      "time": null,
-      "speaker": null,
-      "affiliation": null,
-      "location": "Lowe Theatre, Redmond Barry Building, Parkville",
-      "abstract": null,
-      "url": "https://psychologicalsciences.unimelb.edu.au/cognitive-neuroscience-hub/events/special-seminar-by-aprof-eric-reavis2",
-      "online": false,
-      "scraped_at": "2026-05-27T11:08:49.971400Z"
-    },
-    {
-      "id": "bf6fbbf5d2cc",
-      "institution": "Melbourne Brain Centre",
-      "institution_color": "#9B2335",
-      "title": "CNH Roundtable Talk by Prof Ben Colagiuri",
-      "date": "2026-08-27",
-      "time": "12:00",
-      "speaker": null,
-      "affiliation": null,
-      "location": "1201, Level 12 Tea Room, Redmond Barry Building, Parkville",
-      "abstract": null,
-      "url": "https://psychologicalsciences.unimelb.edu.au/cognitive-neuroscience-hub/events/cnh-roundtable-talk-by-prof-ben-colagiuri",
-      "online": false,
-      "scraped_at": "2026-05-27T11:08:50.446397Z"
+      "scraped_at": "2026-05-27T22:41:54.631802Z"
     },
     {
       "id": "ea8c48030eb0",
@@ -180,7 +120,7 @@
       "abstract": "Date: Friday 1 November 2024 Time: 4.00-5.00pm Location: in person and online via Teams Contact: [email protected] About the seminar Developmental and epileptic encephalopathies or DEEs are predominantly monogenic disorders which are individually rare but collectively occur in 1 in 590 births, equating to >500 newly diagnosed children in Australia per year. DEE are characterised by severe refractory seizures and a range of comorbidities including significant developmental delay. With a genetic cause now identified in over 50% of individuals with a DEE, the era of precision medicine has begun. Pathogenic HCN1 variants have emerged as an important cause of DEE. In this talk Professor Chris Reid will update you on the progress we have had in understanding HCN1 epilepsy. This will include how human variants in HCN1 have informed how the channel works, identifying an unrecognised retinal comorbidity and a promising small molecule that provides proof in principle that both seizures and comorbidities can be treated. Professor Reid will also present work on new genetic mouse models of Sudden Unexpected Death in Epilepsy (SUDEP) based on a human genetic underpinning. Physiological studies in the mice suggest that cardiac factors play an important part in the pathological cascade leading to premature death. We show that β-blockers can prevent premature death suggesting that ‘protecting the heart from the brain’ could reduce the incidence of SUDEP.",
       "url": "https://www.bionicsinstitute.org/news-and-events/our-seminars/",
       "online": true,
-      "scraped_at": "2026-05-27T11:08:57.045019Z"
+      "scraped_at": "2026-05-27T22:42:48.779616Z"
     },
     {
       "id": "7002a129542d",
@@ -195,7 +135,7 @@
       "abstract": "Date: Friday 18 October 2024 Time: 4.00-5.00pm Location: in person and online via Teams Contact: [email protected] About the Seminar Join Dr Hamish MacDougall as he presents a seminar that will explore how VR technology can be used to conduct neurological assessment both subjectively and objectively, in local or remote settings. Dr. MacDougall will discuss the latest advancements in VR-driven tools, highlighting their potential for improving diagnostic precision and therapeutic outcomes in patients with neurological conditions.",
       "url": "https://www.bionicsinstitute.org/news-and-events/our-seminars/",
       "online": true,
-      "scraped_at": "2026-05-27T11:08:57.044720Z"
+      "scraped_at": "2026-05-27T22:42:48.779200Z"
     }
   ]
 }
