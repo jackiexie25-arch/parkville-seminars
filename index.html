@@ -10,102 +10,103 @@
 </head>
 <body>
 
-<!-- ── Header ──────────────────────────────────────────── -->
-<header class="header">
-  <div class="header-inner">
-    <div class="header-title">
-      <div class="header-logo">🔬</div>
-      <div>
-        <h1>Parkville <span>Biomedical</span> Seminars</h1>
-        <div class="header-sub">Melbourne's research precinct — curated in one place</div>
+<!-- ── Navigation ──────────────────────────────────────── -->
+<nav class="nav">
+  <div class="nav-inner">
+    <a class="nav-brand" href="#">
+      <span class="nav-icon">🔬</span>
+      <span class="nav-title">Parkville Seminars</span>
+    </a>
+    <div class="nav-meta">
+      <div class="live-badge">
+        <span class="live-dot"></span>
+        <span>Live</span>
       </div>
-    </div>
-    <div class="header-meta">
-      <div class="status-badge">
-        <span class="status-dot"></span>
-        <span id="status-text">Live</span>
-      </div>
-      <span class="update-time" id="update-time"></span>
+      <span class="nav-updated" id="update-time"></span>
     </div>
   </div>
-</header>
+</nav>
 
-<!-- ── Layout ──────────────────────────────────────────── -->
-<div class="layout">
+<!-- ── Hero ───────────────────────────────────────────── -->
+<section class="hero">
+  <div class="hero-eyebrow">Parkville Biomedical Precinct · Melbourne</div>
+  <h1>Research Seminars</h1>
+  <p class="hero-sub">12 institutions, one place. Updated every morning.</p>
+  <div class="search-container">
+    <div class="search-icon-wrap">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none"
+           stroke="currentColor" stroke-width="2"
+           stroke-linecap="round" stroke-linejoin="round">
+        <circle cx="11" cy="11" r="8"/>
+        <path d="m21 21-4.35-4.35"/>
+      </svg>
+    </div>
+    <input type="text" id="search"
+           placeholder="Speaker, topic, keyword…"
+           autocomplete="off" spellcheck="false" />
+  </div>
+</section>
 
-  <!-- ── Sidebar ─────────────────────────────────────── -->
-  <aside class="sidebar">
+<!-- ── Filter bar ─────────────────────────────────────── -->
+<div class="filter-bar">
+  <div class="filter-bar-inner">
 
-    <!-- Search -->
-    <div class="filter-section">
-      <div class="filter-label">Search</div>
-      <div class="search-wrap">
-        <svg class="search-icon" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-          <circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/>
-        </svg>
-        <input type="text" id="search" placeholder="Speaker, topic, keyword…" autocomplete="off" />
+    <!-- Institution pills -->
+    <div class="pills-scroll" id="institution-pills">
+      <!-- populated by JS -->
+    </div>
+
+    <!-- Date range row -->
+    <div class="date-row">
+      <span class="date-label">From</span>
+      <div class="date-input-wrap">
+        <input type="date" id="date-from" title="From date" />
       </div>
-    </div>
-
-    <!-- Date range -->
-    <div class="filter-section">
-      <div class="filter-label">Date Range</div>
-      <div class="date-inputs">
-        <input type="date" id="date-from" title="From" />
-        <input type="date" id="date-to" title="To" />
+      <span class="date-label">To</span>
+      <div class="date-input-wrap">
+        <input type="date" id="date-to" title="To date" />
       </div>
+      <button class="clear-btn" id="clear-btn" onclick="clearFilters()">Clear</button>
     </div>
 
-    <!-- Institutions -->
-    <div class="filter-section">
-      <div class="filter-label">Institutions</div>
-      <div class="institution-list" id="institution-list">
-        <!-- populated by JS -->
-      </div>
-    </div>
-
-    <!-- Clear -->
-    <button class="clear-btn" id="clear-btn" onclick="clearFilters()">Clear all filters</button>
-
-    <!-- Scraper status -->
-    <div class="status-panel" id="status-panel" style="display:none">
-      <div class="status-panel-title">Scraper Status</div>
-      <div class="status-grid" id="status-grid"></div>
-    </div>
-
-  </aside>
-
-  <!-- ── Main ──────────────────────────────────────────── -->
-  <main class="main">
-
-    <div class="results-header">
-      <div class="results-count">
-        <strong id="count-display">—</strong>
-        <span id="count-label"> upcoming seminars</span>
-      </div>
-      <select class="sort-select" id="sort-select" onchange="render()">
-        <option value="date-asc">Date: Earliest first</option>
-        <option value="date-desc">Date: Latest first</option>
-        <option value="institution">By institution</option>
-      </select>
-    </div>
-
-    <div id="seminars-container">
-      <div class="loading-state">
-        <div class="spinner"></div>
-        <div class="state-title">Loading seminars…</div>
-        <div class="state-sub">Fetching latest data from all institutions</div>
-      </div>
-    </div>
-
-  </main>
+  </div>
 </div>
 
-<!-- Footer -->
+<!-- ── Main ───────────────────────────────────────────── -->
+<main class="main">
+
+  <div class="results-bar">
+    <div class="results-count">
+      <strong id="count-display">—</strong><span id="count-label"> upcoming seminars</span>
+    </div>
+    <select class="sort-select" id="sort-select" onchange="render()">
+      <option value="date-asc">Earliest first</option>
+      <option value="date-desc">Latest first</option>
+      <option value="institution">By institution</option>
+    </select>
+  </div>
+
+  <div id="seminars-container">
+    <div class="loading-state">
+      <div class="spinner"></div>
+      <div class="state-title">Loading seminars…</div>
+      <div class="state-sub">Fetching latest data from all institutions</div>
+    </div>
+  </div>
+
+  <!-- Scraper status (shown after data loads) -->
+  <div class="scraper-status-section" id="status-section" style="display:none">
+    <div class="scraper-status-title">Data Sources</div>
+    <div class="scraper-grid" id="scraper-grid"></div>
+  </div>
+
+</main>
+
+<!-- ── Footer ─────────────────────────────────────────── -->
 <footer class="footer">
-  Data scraped daily from WEHI, Doherty Institute, Peter MacCallum, MCRI, Bio21, Florey, Orygen,
-  Melbourne Bioinformatics, Melbourne Brain Centre, Royal Melbourne Hospital, CERA, Bionics Institute.
-  <br>All seminar details are owned by respective institutions.
+  Data scraped daily from WEHI, Doherty Institute, Peter MacCallum, MCRI, Bio21, Florey,
+  Orygen, Melbourne Bioinformatics, Melbourne Brain Centre, Royal Melbourne Hospital, CERA,
+  Bionics Institute. All seminar details are owned by respective institutions.
 </footer>
 
 <script src="app.js"></script>
