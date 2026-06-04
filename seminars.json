@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-03T23:07:23.982969Z",
+  "generated_at": "2026-06-04T22:23:28.285535Z",
   "total": 8,
   "seminars": [
     {
@@ -15,7 +15,7 @@
       "abstract": null,
       "url": "https://www.doherty.edu.au/event/ncas-seminar-series-environmental/",
       "online": true,
-      "scraped_at": "2026-06-03T23:06:17.875385Z"
+      "scraped_at": "2026-06-04T22:22:22.193189Z"
     },
     {
       "id": "cadb891d7582",
@@ -30,7 +30,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-bekky-feltham-a-prof-bernhard-lechtenberg-ubiquitin-signalling-division/",
       "online": true,
-      "scraped_at": "2026-06-03T23:06:09.868281Z"
+      "scraped_at": "2026-06-04T22:22:12.013384Z"
     },
     {
       "id": "95384aedfaee",
@@ -45,7 +45,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-andreas-strasser-blood-cells-and-blood-cancer-division/",
       "online": true,
-      "scraped_at": "2026-06-03T23:06:10.174940Z"
+      "scraped_at": "2026-06-04T22:22:13.274745Z"
     },
     {
       "id": "d07cdddebb2c",
@@ -60,7 +60,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-john-silke-inflammation-division-2/",
       "online": true,
-      "scraped_at": "2026-06-03T23:06:11.300338Z"
+      "scraped_at": "2026-06-04T22:22:14.549150Z"
     },
     {
       "id": "54bff4b8733a",
@@ -75,7 +75,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/kelly-chibale-university-of-cape-town/",
       "online": true,
-      "scraped_at": "2026-06-03T23:06:12.415905Z"
+      "scraped_at": "2026-06-04T22:22:15.783534Z"
     },
     {
       "id": "d8d5f6403a0b",
@@ -90,7 +90,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-melanie-bahlo-genetics-and-gene-regulation-division/",
       "online": true,
-      "scraped_at": "2026-06-03T23:06:12.726305Z"
+      "scraped_at": "2026-06-04T22:22:16.984463Z"
     },
     {
       "id": "ea8c48030eb0",
@@ -105,7 +105,7 @@
       "abstract": "Date: Friday 1 November 2024 Time: 4.00-5.00pm Location: in person and online via Teams Contact: [email protected] About the seminar Developmental and epileptic encephalopathies or DEEs are predominantly monogenic disorders which are individually rare but collectively occur in 1 in 590 births, equating to >500 newly diagnosed children in Australia per year. DEE are characterised by severe refractory seizures and a range of comorbidities including significant developmental delay. With a genetic cause now identified in over 50% of individuals with a DEE, the era of precision medicine has begun. Pathogenic HCN1 variants have emerged as an important cause of DEE. In this talk Professor Chris Reid will update you on the progress we have had in understanding HCN1 epilepsy. This will include how human variants in HCN1 have informed how the channel works, identifying an unrecognised retinal comorbidity and a promising small molecule that provides proof in principle that both seizures and comorbidities can be treated. Professor Reid will also present work on new genetic mouse models of Sudden Unexpected Death in Epilepsy (SUDEP) based on a human genetic underpinning. Physiological studies in the mice suggest that cardiac factors play an important part in the pathological cascade leading to premature death. We show that β-blockers can prevent premature death suggesting that ‘protecting the heart from the brain’ could reduce the incidence of SUDEP.",
       "url": "https://www.bionicsinstitute.org/news-and-events/our-seminars/",
       "online": true,
-      "scraped_at": "2026-06-03T23:07:23.982419Z"
+      "scraped_at": "2026-06-04T22:23:28.284766Z"
     },
     {
       "id": "7002a129542d",
@@ -120,7 +120,7 @@
       "abstract": "Date: Friday 18 October 2024 Time: 4.00-5.00pm Location: in person and online via Teams Contact: [email protected] About the Seminar Join Dr Hamish MacDougall as he presents a seminar that will explore how VR technology can be used to conduct neurological assessment both subjectively and objectively, in local or remote settings. Dr. MacDougall will discuss the latest advancements in VR-driven tools, highlighting their potential for improving diagnostic precision and therapeutic outcomes in patients with neurological conditions.",
       "url": "https://www.bionicsinstitute.org/news-and-events/our-seminars/",
       "online": true,
-      "scraped_at": "2026-06-03T23:07:23.981875Z"
+      "scraped_at": "2026-06-04T22:23:28.284148Z"
     }
   ]
 }
