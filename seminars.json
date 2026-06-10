@@ -1,7 +1,37 @@
 {
-  "generated_at": "2026-06-09T22:26:18.679866Z",
-  "total": 8,
+  "generated_at": "2026-06-10T22:53:08.800764Z",
+  "total": 10,
   "seminars": [
+    {
+      "id": "6deb392dc428",
+      "institution": "Royal Melbourne Hospital",
+      "institution_color": "#0066CC",
+      "title": "Have you signed up for Health Hub?",
+      "date": "2026-06-10",
+      "time": null,
+      "speaker": null,
+      "affiliation": null,
+      "location": null,
+      "abstract": null,
+      "url": "https://www.thermh.org.au",
+      "online": false,
+      "scraped_at": "2026-06-10T22:52:58.217590Z"
+    },
+    {
+      "id": "7aa89a0a684c",
+      "institution": "Royal Melbourne Hospital",
+      "institution_color": "#0066CC",
+      "title": "News and events",
+      "date": "2026-06-11",
+      "time": null,
+      "speaker": null,
+      "affiliation": null,
+      "location": null,
+      "abstract": null,
+      "url": "https://www.thermh.org.au/news",
+      "online": false,
+      "scraped_at": "2026-06-10T22:52:58.575296Z"
+    },
     {
       "id": "50cd9bcf4d0b",
       "institution": "Doherty Institute",
@@ -15,7 +45,7 @@
       "abstract": null,
       "url": "https://www.doherty.edu.au/event/ncas-seminar-series-environmental/",
       "online": true,
-      "scraped_at": "2026-06-09T22:24:46.564454Z"
+      "scraped_at": "2026-06-10T22:51:55.546917Z"
     },
     {
       "id": "cadb891d7582",
@@ -30,7 +60,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-bekky-feltham-a-prof-bernhard-lechtenberg-ubiquitin-signalling-division/",
       "online": true,
-      "scraped_at": "2026-06-09T22:24:35.961948Z"
+      "scraped_at": "2026-06-10T22:51:47.345745Z"
     },
     {
       "id": "95384aedfaee",
@@ -45,7 +75,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-andreas-strasser-blood-cells-and-blood-cancer-division/",
       "online": true,
-      "scraped_at": "2026-06-09T22:24:37.104874Z"
+      "scraped_at": "2026-06-10T22:51:47.654792Z"
     },
     {
       "id": "d07cdddebb2c",
@@ -60,7 +90,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-john-silke-inflammation-division-2/",
       "online": true,
-      "scraped_at": "2026-06-09T22:24:38.258388Z"
+      "scraped_at": "2026-06-10T22:51:48.740989Z"
     },
     {
       "id": "54bff4b8733a",
@@ -75,7 +105,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/kelly-chibale-university-of-cape-town/",
       "online": true,
-      "scraped_at": "2026-06-09T22:24:39.576169Z"
+      "scraped_at": "2026-06-10T22:51:49.901402Z"
     },
     {
       "id": "d8d5f6403a0b",
@@ -90,7 +120,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-melanie-bahlo-genetics-and-gene-regulation-division/",
       "online": true,
-      "scraped_at": "2026-06-09T22:24:40.736768Z"
+      "scraped_at": "2026-06-10T22:51:50.937737Z"
     },
     {
       "id": "ea8c48030eb0",
@@ -105,7 +135,7 @@
       "abstract": "Date: Friday 1 November 2024 Time: 4.00-5.00pm Location: in person and online via Teams Contact: [email protected] About the seminar Developmental and epileptic encephalopathies or DEEs are predominantly monogenic disorders which are individually rare but collectively occur in 1 in 590 births, equating to >500 newly diagnosed children in Australia per year. DEE are characterised by severe refractory seizures and a range of comorbidities including significant developmental delay. With a genetic cause now identified in over 50% of individuals with a DEE, the era of precision medicine has begun. Pathogenic HCN1 variants have emerged as an important cause of DEE. In this talk Professor Chris Reid will update you on the progress we have had in understanding HCN1 epilepsy. This will include how human variants in HCN1 have informed how the channel works, identifying an unrecognised retinal comorbidity and a promising small molecule that provides proof in principle that both seizures and comorbidities can be treated. Professor Reid will also present work on new genetic mouse models of Sudden Unexpected Death in Epilepsy (SUDEP) based on a human genetic underpinning. Physiological studies in the mice suggest that cardiac factors play an important part in the pathological cascade leading to premature death. We show that β-blockers can prevent premature death suggesting that ‘protecting the heart from the brain’ could reduce the incidence of SUDEP.",
       "url": "https://www.bionicsinstitute.org/news-and-events/our-seminars/",
       "online": true,
-      "scraped_at": "2026-06-09T22:26:18.679266Z"
+      "scraped_at": "2026-06-10T22:53:08.800049Z"
     },
     {
       "id": "7002a129542d",
@@ -120,7 +150,7 @@
       "abstract": "Date: Friday 18 October 2024 Time: 4.00-5.00pm Location: in person and online via Teams Contact: [email protected] About the Seminar Join Dr Hamish MacDougall as he presents a seminar that will explore how VR technology can be used to conduct neurological assessment both subjectively and objectively, in local or remote settings. Dr. MacDougall will discuss the latest advancements in VR-driven tools, highlighting their potential for improving diagnostic precision and therapeutic outcomes in patients with neurological conditions.",
       "url": "https://www.bionicsinstitute.org/news-and-events/our-seminars/",
       "online": true,
-      "scraped_at": "2026-06-09T22:26:18.678728Z"
+      "scraped_at": "2026-06-10T22:53:08.799451Z"
     }
   ]
 }
