@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-15T23:04:55.740774Z",
-  "total": 8,
+  "generated_at": "2026-06-16T22:54:59.787137Z",
+  "total": 16,
   "seminars": [
     {
       "id": "50cd9bcf4d0b",
@@ -15,7 +15,52 @@
       "abstract": null,
       "url": "https://www.doherty.edu.au/event/ncas-seminar-series-environmental/",
       "online": true,
-      "scraped_at": "2026-06-15T23:03:36.827256Z"
+      "scraped_at": "2026-06-16T22:53:48.503930Z"
+    },
+    {
+      "id": "821e37c10385",
+      "institution": "WEHI",
+      "institution_color": "#003087",
+      "title": "Seahorse XF Group Meeting",
+      "date": "2026-06-17",
+      "time": "10:00",
+      "speaker": null,
+      "affiliation": null,
+      "location": "L7W Seminar Room",
+      "abstract": null,
+      "url": "https://www.wehi.edu.au/event/seahorse-xf-group-meeting/",
+      "online": true,
+      "scraped_at": "2026-06-16T22:53:32.395060Z"
+    },
+    {
+      "id": "e05a44f808a7",
+      "institution": "WEHI",
+      "institution_color": "#003087",
+      "title": "Professor Matt Ritchie – Genetics and Gene Regulation division",
+      "date": "2026-06-17",
+      "time": "13:00",
+      "speaker": "Professor Matt Ritchie",
+      "affiliation": "Genetics and Gene Regulation division",
+      "location": "Davis Auditorium",
+      "abstract": null,
+      "url": "https://www.wehi.edu.au/event/professor-matt-ritchie-genetics-and-gene-regulation-division-2/",
+      "online": true,
+      "scraped_at": "2026-06-16T22:53:33.730315Z"
+    },
+    {
+      "id": "7e4131b490fd",
+      "institution": "WEHI",
+      "institution_color": "#003087",
+      "title": "WEHI’s 3 Minute Thesis (3MT) Competition",
+      "date": "2026-06-18",
+      "time": "14:15",
+      "speaker": null,
+      "affiliation": null,
+      "location": "Davis Auditorium",
+      "abstract": null,
+      "url": "https://www.wehi.edu.au/event/wehis-3-minute-thesis-3mt-competition-2/",
+      "online": true,
+      "scraped_at": "2026-06-16T22:53:34.970978Z"
     },
     {
       "id": "cadb891d7582",
@@ -30,7 +75,52 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-bekky-feltham-a-prof-bernhard-lechtenberg-ubiquitin-signalling-division/",
       "online": true,
-      "scraped_at": "2026-06-15T23:03:28.661135Z"
+      "scraped_at": "2026-06-16T22:53:36.128288Z"
+    },
+    {
+      "id": "e0009cf23179",
+      "institution": "WEHI",
+      "institution_color": "#003087",
+      "title": "Abdulrahman Alammar – Infection and Global Health division",
+      "date": "2026-06-23",
+      "time": "15:00",
+      "speaker": "Abdulrahman Alammar",
+      "affiliation": "Infection and Global Health division",
+      "location": "Davis Auditorium",
+      "abstract": null,
+      "url": "https://www.wehi.edu.au/event/abdulrahman-alammar-infection-and-global-health-division/",
+      "online": true,
+      "scraped_at": "2026-06-16T22:53:37.274201Z"
+    },
+    {
+      "id": "ab50e177139a",
+      "institution": "WEHI",
+      "institution_color": "#003087",
+      "title": "Gabriel Victora – The Rockefeller University",
+      "date": "2026-06-24",
+      "time": "13:00",
+      "speaker": "Gabriel Victora",
+      "affiliation": "The Rockefeller University",
+      "location": "Davis Auditorium",
+      "abstract": null,
+      "url": "https://www.wehi.edu.au/event/gabriel-victora-the-rockefeller-university/",
+      "online": true,
+      "scraped_at": "2026-06-16T22:53:37.652392Z"
+    },
+    {
+      "id": "02e44ffbc5ef",
+      "institution": "WEHI",
+      "institution_color": "#003087",
+      "title": "Rohin Kumar – Microsoft | Healthcare, Monash University",
+      "date": "2026-06-25",
+      "time": "12:00",
+      "speaker": "Rohin Kumar",
+      "affiliation": "Microsoft | Healthcare, Monash University",
+      "location": "Davis Auditorium",
+      "abstract": null,
+      "url": "https://www.wehi.edu.au/event/rohin-kumar-microsoft-healthcare-monash-university/",
+      "online": true,
+      "scraped_at": "2026-06-16T22:53:38.038297Z"
     },
     {
       "id": "95384aedfaee",
@@ -45,7 +135,37 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-andreas-strasser-blood-cells-and-blood-cancer-division/",
       "online": true,
-      "scraped_at": "2026-06-15T23:03:29.860963Z"
+      "scraped_at": "2026-06-16T22:53:38.928135Z"
+    },
+    {
+      "id": "d25123967072",
+      "institution": "WEHI",
+      "institution_color": "#003087",
+      "title": "Dr Dáire Gannon – Genetics and Gene Regulation division",
+      "date": "2026-07-01",
+      "time": "13:00",
+      "speaker": "Dr Dáire Gannon",
+      "affiliation": "Genetics and Gene Regulation division",
+      "location": "Davis Auditorium",
+      "abstract": null,
+      "url": "https://www.wehi.edu.au/event/dr-daire-gannon-genetics-and-gene-regulation-division/",
+      "online": true,
+      "scraped_at": "2026-06-16T22:53:39.302775Z"
+    },
+    {
+      "id": "88aeac40026c",
+      "institution": "WEHI",
+      "institution_color": "#003087",
+      "title": "Professor Arun Shukla – Indian Institute of Technology",
+      "date": "2026-07-07",
+      "time": "12:00",
+      "speaker": "Professor Arun Shukla",
+      "affiliation": "Indian Institute of Technology",
+      "location": "L7W Seminar Room",
+      "abstract": null,
+      "url": "https://www.wehi.edu.au/event/professor-arun-shukla-indian-institute-of-technology/",
+      "online": true,
+      "scraped_at": "2026-06-16T22:53:39.675363Z"
     },
     {
       "id": "d07cdddebb2c",
@@ -60,7 +180,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-john-silke-inflammation-division-2/",
       "online": true,
-      "scraped_at": "2026-06-15T23:03:30.315252Z"
+      "scraped_at": "2026-06-16T22:53:40.565647Z"
     },
     {
       "id": "54bff4b8733a",
@@ -75,7 +195,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/kelly-chibale-university-of-cape-town/",
       "online": true,
-      "scraped_at": "2026-06-15T23:03:31.360206Z"
+      "scraped_at": "2026-06-16T22:53:41.462122Z"
     },
     {
       "id": "d8d5f6403a0b",
@@ -90,7 +210,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-melanie-bahlo-genetics-and-gene-regulation-division/",
       "online": true,
-      "scraped_at": "2026-06-15T23:03:32.587939Z"
+      "scraped_at": "2026-06-16T22:53:42.717520Z"
     },
     {
       "id": "ea8c48030eb0",
@@ -105,7 +225,7 @@
       "abstract": "Date: Friday 1 November 2024 Time: 4.00-5.00pm Location: in person and online via Teams Contact: [email protected] About the seminar Developmental and epileptic encephalopathies or DEEs are predominantly monogenic disorders which are individually rare but collectively occur in 1 in 590 births, equating to >500 newly diagnosed children in Australia per year. DEE are characterised by severe refractory seizures and a range of comorbidities including significant developmental delay. With a genetic cause now identified in over 50% of individuals with a DEE, the era of precision medicine has begun. Pathogenic HCN1 variants have emerged as an important cause of DEE. In this talk Professor Chris Reid will update you on the progress we have had in understanding HCN1 epilepsy. This will include how human variants in HCN1 have informed how the channel works, identifying an unrecognised retinal comorbidity and a promising small molecule that provides proof in principle that both seizures and comorbidities can be treated. Professor Reid will also present work on new genetic mouse models of Sudden Unexpected Death in Epilepsy (SUDEP) based on a human genetic underpinning. Physiological studies in the mice suggest that cardiac factors play an important part in the pathological cascade leading to premature death. We show that β-blockers can prevent premature death suggesting that ‘protecting the heart from the brain’ could reduce the incidence of SUDEP.",
       "url": "https://www.bionicsinstitute.org/news-and-events/our-seminars/",
       "online": true,
-      "scraped_at": "2026-06-15T23:04:55.740153Z"
+      "scraped_at": "2026-06-16T22:54:59.786429Z"
     },
     {
       "id": "7002a129542d",
@@ -120,7 +240,7 @@
       "abstract": "Date: Friday 18 October 2024 Time: 4.00-5.00pm Location: in person and online via Teams Contact: [email protected] About the Seminar Join Dr Hamish MacDougall as he presents a seminar that will explore how VR technology can be used to conduct neurological assessment both subjectively and objectively, in local or remote settings. Dr. MacDougall will discuss the latest advancements in VR-driven tools, highlighting their potential for improving diagnostic precision and therapeutic outcomes in patients with neurological conditions.",
       "url": "https://www.bionicsinstitute.org/news-and-events/our-seminars/",
       "online": true,
-      "scraped_at": "2026-06-15T23:04:55.739565Z"
+      "scraped_at": "2026-06-16T22:54:59.785860Z"
     }
   ]
 }
