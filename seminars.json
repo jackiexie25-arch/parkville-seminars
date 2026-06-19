@@ -1,21 +1,36 @@
 {
-  "generated_at": "2026-06-18T23:00:08.793884Z",
-  "total": 15,
+  "generated_at": "2026-06-19T22:05:56.341864Z",
+  "total": 17,
   "seminars": [
     {
-      "id": "50cd9bcf4d0b",
-      "institution": "Doherty Institute",
-      "institution_color": "#00539B",
-      "title": "NCAS Seminar Series: Environmental",
-      "date": "2026-06-17",
+      "id": "1aa41bb85eac",
+      "institution": "Royal Melbourne Hospital",
+      "institution_color": "#0066CC",
+      "title": "Have you signed up for Health Hub?",
+      "date": "2026-06-19",
       "time": null,
       "speaker": null,
       "affiliation": null,
-      "location": "Online",
+      "location": null,
       "abstract": null,
-      "url": "https://www.doherty.edu.au/event/ncas-seminar-series-environmental/",
-      "online": true,
-      "scraped_at": "2026-06-18T22:58:57.878274Z"
+      "url": "https://www.thermh.org.au",
+      "online": false,
+      "scraped_at": "2026-06-19T22:05:40.352836Z"
+    },
+    {
+      "id": "c11480b1b565",
+      "institution": "Royal Melbourne Hospital",
+      "institution_color": "#0066CC",
+      "title": "News and events",
+      "date": "2026-06-19",
+      "time": null,
+      "speaker": null,
+      "affiliation": null,
+      "location": null,
+      "abstract": null,
+      "url": "https://www.thermh.org.au/news",
+      "online": false,
+      "scraped_at": "2026-06-19T22:05:44.761050Z"
     },
     {
       "id": "cadb891d7582",
@@ -30,7 +45,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-bekky-feltham-a-prof-bernhard-lechtenberg-ubiquitin-signalling-division/",
       "online": true,
-      "scraped_at": "2026-06-18T22:58:42.207089Z"
+      "scraped_at": "2026-06-19T22:04:26.583008Z"
     },
     {
       "id": "e0009cf23179",
@@ -45,7 +60,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/abdulrahman-alammar-infection-and-global-health-division/",
       "online": true,
-      "scraped_at": "2026-06-18T22:58:43.230366Z"
+      "scraped_at": "2026-06-19T22:04:27.717582Z"
     },
     {
       "id": "ab50e177139a",
@@ -60,7 +75,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/gabriel-victora-the-rockefeller-university/",
       "online": true,
-      "scraped_at": "2026-06-18T22:58:44.603069Z"
+      "scraped_at": "2026-06-19T22:04:29.053899Z"
     },
     {
       "id": "02e44ffbc5ef",
@@ -75,7 +90,22 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/rohin-kumar-microsoft-healthcare-monash-university/",
       "online": true,
-      "scraped_at": "2026-06-18T22:58:45.619650Z"
+      "scraped_at": "2026-06-19T22:04:29.543039Z"
+    },
+    {
+      "id": "19bc8682152f",
+      "institution": "WEHI",
+      "institution_color": "#003087",
+      "title": "Dr Jiaying Chen – AtlasXomics",
+      "date": "2026-06-26",
+      "time": "10:00",
+      "speaker": "Dr Jiaying Chen",
+      "affiliation": "AtlasXomics",
+      "location": "L7W Seminar Room",
+      "abstract": null,
+      "url": "https://www.wehi.edu.au/event/dr-jiaying-chen-atlasxomics/",
+      "online": true,
+      "scraped_at": "2026-06-19T22:04:29.857931Z"
     },
     {
       "id": "95384aedfaee",
@@ -90,7 +120,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-andreas-strasser-blood-cells-and-blood-cancer-division/",
       "online": true,
-      "scraped_at": "2026-06-18T22:58:46.634580Z"
+      "scraped_at": "2026-06-19T22:04:30.170991Z"
     },
     {
       "id": "d25123967072",
@@ -105,7 +135,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-daire-gannon-genetics-and-gene-regulation-division/",
       "online": true,
-      "scraped_at": "2026-06-18T22:58:47.645157Z"
+      "scraped_at": "2026-06-19T22:04:30.486371Z"
     },
     {
       "id": "88aeac40026c",
@@ -120,7 +150,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-arun-shukla-indian-institute-of-technology/",
       "online": true,
-      "scraped_at": "2026-06-18T22:58:48.728377Z"
+      "scraped_at": "2026-06-19T22:04:30.813129Z"
     },
     {
       "id": "7e051e69f9f6",
@@ -135,7 +165,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-james-vince-inflammation-division/",
       "online": true,
-      "scraped_at": "2026-06-18T22:58:49.170704Z"
+      "scraped_at": "2026-06-19T22:04:32.124343Z"
     },
     {
       "id": "d07cdddebb2c",
@@ -150,7 +180,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-john-silke-inflammation-division-2/",
       "online": true,
-      "scraped_at": "2026-06-18T22:58:50.249633Z"
+      "scraped_at": "2026-06-19T22:04:33.230427Z"
     },
     {
       "id": "d0cfbf8883a5",
@@ -165,7 +195,7 @@
       "abstract": null,
       "url": "https://www.doherty.edu.au/event/ncas-seminar-series-local-to-global-ams/",
       "online": true,
-      "scraped_at": "2026-06-18T22:58:57.155660Z"
+      "scraped_at": "2026-06-19T22:04:42.553221Z"
     },
     {
       "id": "54bff4b8733a",
@@ -180,7 +210,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/kelly-chibale-university-of-cape-town/",
       "online": true,
-      "scraped_at": "2026-06-18T22:58:51.267778Z"
+      "scraped_at": "2026-06-19T22:04:34.445902Z"
     },
     {
       "id": "d8d5f6403a0b",
@@ -195,7 +225,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-melanie-bahlo-genetics-and-gene-regulation-division/",
       "online": true,
-      "scraped_at": "2026-06-18T22:58:52.377397Z"
+      "scraped_at": "2026-06-19T22:04:35.715101Z"
     },
     {
       "id": "ea8c48030eb0",
@@ -210,7 +240,7 @@
       "abstract": "Date: Friday 1 November 2024 Time: 4.00-5.00pm Location: in person and online via Teams Contact: [email protected] About the seminar Developmental and epileptic encephalopathies or DEEs are predominantly monogenic disorders which are individually rare but collectively occur in 1 in 590 births, equating to >500 newly diagnosed children in Australia per year. DEE are characterised by severe refractory seizures and a range of comorbidities including significant developmental delay. With a genetic cause now identified in over 50% of individuals with a DEE, the era of precision medicine has begun. Pathogenic HCN1 variants have emerged as an important cause of DEE. In this talk Professor Chris Reid will update you on the progress we have had in understanding HCN1 epilepsy. This will include how human variants in HCN1 have informed how the channel works, identifying an unrecognised retinal comorbidity and a promising small molecule that provides proof in principle that both seizures and comorbidities can be treated. Professor Reid will also present work on new genetic mouse models of Sudden Unexpected Death in Epilepsy (SUDEP) based on a human genetic underpinning. Physiological studies in the mice suggest that cardiac factors play an important part in the pathological cascade leading to premature death. We show that β-blockers can prevent premature death suggesting that ‘protecting the heart from the brain’ could reduce the incidence of SUDEP.",
       "url": "https://www.bionicsinstitute.org/news-and-events/our-seminars/",
       "online": true,
-      "scraped_at": "2026-06-18T23:00:08.793201Z"
+      "scraped_at": "2026-06-19T22:05:56.341097Z"
     },
     {
       "id": "7002a129542d",
@@ -225,7 +255,7 @@
       "abstract": "Date: Friday 18 October 2024 Time: 4.00-5.00pm Location: in person and online via Teams Contact: [email protected] About the Seminar Join Dr Hamish MacDougall as he presents a seminar that will explore how VR technology can be used to conduct neurological assessment both subjectively and objectively, in local or remote settings. Dr. MacDougall will discuss the latest advancements in VR-driven tools, highlighting their potential for improving diagnostic precision and therapeutic outcomes in patients with neurological conditions.",
       "url": "https://www.bionicsinstitute.org/news-and-events/our-seminars/",
       "online": true,
-      "scraped_at": "2026-06-18T23:00:08.792656Z"
+      "scraped_at": "2026-06-19T22:05:56.340533Z"
     }
   ]
 }
