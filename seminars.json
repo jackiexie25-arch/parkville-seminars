@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T22:05:33.348624Z",
+  "generated_at": "2026-07-04T22:00:04.770631Z",
   "total": 17,
   "seminars": [
     {
@@ -15,7 +15,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-rory-bowden-advanced-genomics-facility/",
       "online": true,
-      "scraped_at": "2026-07-03T22:04:34.187353Z"
+      "scraped_at": "2026-07-04T21:58:47.932819Z"
     },
     {
       "id": "2e12ec23c1be",
@@ -30,7 +30,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/associate-professor-uri-keich-university-of-sydney/",
       "online": true,
-      "scraped_at": "2026-07-03T22:04:35.352328Z"
+      "scraped_at": "2026-07-04T21:58:48.364985Z"
     },
     {
       "id": "88aeac40026c",
@@ -45,7 +45,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-arun-shukla-indian-institute-of-technology/",
       "online": true,
-      "scraped_at": "2026-07-03T22:04:36.666485Z"
+      "scraped_at": "2026-07-04T21:58:49.496303Z"
     },
     {
       "id": "7e051e69f9f6",
@@ -60,7 +60,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-james-vince-inflammation-division/",
       "online": true,
-      "scraped_at": "2026-07-03T22:04:37.912740Z"
+      "scraped_at": "2026-07-04T21:58:50.510787Z"
     },
     {
       "id": "d07cdddebb2c",
@@ -75,7 +75,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-john-silke-inflammation-division-2/",
       "online": true,
-      "scraped_at": "2026-07-03T22:04:38.423589Z"
+      "scraped_at": "2026-07-04T21:58:50.928143Z"
     },
     {
       "id": "d0cfbf8883a5",
@@ -90,7 +90,7 @@
       "abstract": null,
       "url": "https://www.doherty.edu.au/event/ncas-seminar-series-local-to-global-ams/",
       "online": true,
-      "scraped_at": "2026-07-03T22:04:52.655953Z"
+      "scraped_at": "2026-07-04T21:59:00.826316Z"
     },
     {
       "id": "48f132393d27",
@@ -105,7 +105,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-holly-anderton-inflammation-division/",
       "online": true,
-      "scraped_at": "2026-07-03T22:04:39.535211Z"
+      "scraped_at": "2026-07-04T21:58:51.194658Z"
     },
     {
       "id": "54bff4b8733a",
@@ -120,7 +120,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/kelly-chibale-university-of-cape-town/",
       "online": true,
-      "scraped_at": "2026-07-03T22:04:39.848123Z"
+      "scraped_at": "2026-07-04T21:58:52.262482Z"
     },
     {
       "id": "820d466ce378",
@@ -135,7 +135,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/sara-berent-immunity-division/",
       "online": true,
-      "scraped_at": "2026-07-03T22:04:41.075019Z"
+      "scraped_at": "2026-07-04T21:58:53.299313Z"
     },
     {
       "id": "d8d5f6403a0b",
@@ -150,7 +150,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-melanie-bahlo-genetics-and-gene-regulation-division/",
       "online": true,
-      "scraped_at": "2026-07-03T22:04:42.262493Z"
+      "scraped_at": "2026-07-04T21:58:54.331770Z"
     },
     {
       "id": "afb5ff0d4b83",
@@ -165,7 +165,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-niall-geoghegan-centre-for-dynamic-imaging/",
       "online": true,
-      "scraped_at": "2026-07-03T22:04:42.577026Z"
+      "scraped_at": "2026-07-04T21:58:54.753196Z"
     },
     {
       "id": "447ba6afb310",
@@ -180,7 +180,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/lily-kenchington-evans-uq-institute-for-molecular-bioscience/",
       "online": true,
-      "scraped_at": "2026-07-03T22:04:43.803626Z"
+      "scraped_at": "2026-07-04T21:58:55.020716Z"
     },
     {
       "id": "12c991799dfd",
@@ -195,7 +195,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/hugo-macdermott-opeskin-open-molecular-software-foundation/",
       "online": true,
-      "scraped_at": "2026-07-03T22:04:45.014660Z"
+      "scraped_at": "2026-07-04T21:58:55.288651Z"
     },
     {
       "id": "dee43843e438",
@@ -210,7 +210,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/a-prof-jong-eun-park-korea-advanced-institute-of-science-technology/",
       "online": true,
-      "scraped_at": "2026-07-03T22:04:46.287417Z"
+      "scraped_at": "2026-07-04T21:58:55.587947Z"
     },
     {
       "id": "ea8c48030eb0",
@@ -225,7 +225,7 @@
       "abstract": "Date: Friday 1 November 2024 Time: 4.00-5.00pm Location: in person and online via Teams Contact: [email protected] About the seminar Developmental and epileptic encephalopathies or DEEs are predominantly monogenic disorders which are individually rare but collectively occur in 1 in 590 births, equating to >500 newly diagnosed children in Australia per year. DEE are characterised by severe refractory seizures and a range of comorbidities including significant developmental delay. With a genetic cause now identified in over 50% of individuals with a DEE, the era of precision medicine has begun. Pathogenic HCN1 variants have emerged as an important cause of DEE. In this talk Professor Chris Reid will update you on the progress we have had in understanding HCN1 epilepsy. This will include how human variants in HCN1 have informed how the channel works, identifying an unrecognised retinal comorbidity and a promising small molecule that provides proof in principle that both seizures and comorbidities can be treated. Professor Reid will also present work on new genetic mouse models of Sudden Unexpected Death in Epilepsy (SUDEP) based on a human genetic underpinning. Physiological studies in the mice suggest that cardiac factors play an important part in the pathological cascade leading to premature death. We show that β-blockers can prevent premature death suggesting that ‘protecting the heart from the brain’ could reduce the incidence of SUDEP.",
       "url": "https://www.bionicsinstitute.org/news-and-events/our-seminars/",
       "online": true,
-      "scraped_at": "2026-07-03T22:05:33.347782Z"
+      "scraped_at": "2026-07-04T22:00:04.769964Z"
     },
     {
       "id": "7002a129542d",
@@ -240,7 +240,7 @@
       "abstract": "Date: Friday 18 October 2024 Time: 4.00-5.00pm Location: in person and online via Teams Contact: [email protected] About the Seminar Join Dr Hamish MacDougall as he presents a seminar that will explore how VR technology can be used to conduct neurological assessment both subjectively and objectively, in local or remote settings. Dr. MacDougall will discuss the latest advancements in VR-driven tools, highlighting their potential for improving diagnostic precision and therapeutic outcomes in patients with neurological conditions.",
       "url": "https://www.bionicsinstitute.org/news-and-events/our-seminars/",
       "online": true,
-      "scraped_at": "2026-07-03T22:05:33.347187Z"
+      "scraped_at": "2026-07-04T22:00:04.769362Z"
     },
     {
       "id": "dc4462745d9c",
@@ -255,7 +255,7 @@
       "abstract": null,
       "url": "https://www.doherty.edu.au/event/world-flu-day-2026-symposium/",
       "online": true,
-      "scraped_at": "2026-07-03T22:04:51.619614Z"
+      "scraped_at": "2026-07-04T21:59:00.096319Z"
     }
   ]
 }
