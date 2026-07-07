@@ -1,22 +1,7 @@
 {
-  "generated_at": "2026-07-06T22:15:00.946545Z",
-  "total": 12,
+  "generated_at": "2026-07-07T22:12:37.828940Z",
+  "total": 11,
   "seminars": [
-    {
-      "id": "7e051e69f9f6",
-      "institution": "WEHI",
-      "institution_color": "#003087",
-      "title": "Professor James Vince – Inflammation division",
-      "date": "2026-07-08",
-      "time": "13:00",
-      "speaker": "Professor James Vince",
-      "affiliation": "Inflammation division",
-      "location": "Davis Auditorium",
-      "abstract": null,
-      "url": "https://www.wehi.edu.au/event/professor-james-vince-inflammation-division/",
-      "online": true,
-      "scraped_at": "2026-07-06T22:13:47.386881Z"
-    },
     {
       "id": "d07cdddebb2c",
       "institution": "WEHI",
@@ -30,7 +15,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-john-silke-inflammation-division-2/",
       "online": true,
-      "scraped_at": "2026-07-06T22:13:47.663881Z"
+      "scraped_at": "2026-07-07T22:11:18.769881Z"
     },
     {
       "id": "d0cfbf8883a5",
@@ -45,7 +30,7 @@
       "abstract": null,
       "url": "https://www.doherty.edu.au/event/ncas-seminar-series-local-to-global-ams/",
       "online": true,
-      "scraped_at": "2026-07-06T22:14:00.612183Z"
+      "scraped_at": "2026-07-07T22:11:32.571039Z"
     },
     {
       "id": "48f132393d27",
@@ -60,7 +45,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-holly-anderton-inflammation-division/",
       "online": true,
-      "scraped_at": "2026-07-06T22:13:47.939371Z"
+      "scraped_at": "2026-07-07T22:11:19.788496Z"
     },
     {
       "id": "54bff4b8733a",
@@ -75,7 +60,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/kelly-chibale-university-of-cape-town/",
       "online": true,
-      "scraped_at": "2026-07-06T22:13:49.092832Z"
+      "scraped_at": "2026-07-07T22:11:20.843974Z"
     },
     {
       "id": "820d466ce378",
@@ -90,7 +75,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/sara-berent-immunity-division/",
       "online": true,
-      "scraped_at": "2026-07-06T22:13:50.068113Z"
+      "scraped_at": "2026-07-07T22:11:21.782837Z"
     },
     {
       "id": "d8d5f6403a0b",
@@ -105,7 +90,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-melanie-bahlo-genetics-and-gene-regulation-division/",
       "online": true,
-      "scraped_at": "2026-07-06T22:13:51.004842Z"
+      "scraped_at": "2026-07-07T22:11:22.726289Z"
     },
     {
       "id": "afb5ff0d4b83",
@@ -120,7 +105,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-niall-geoghegan-centre-for-dynamic-imaging/",
       "online": true,
-      "scraped_at": "2026-07-06T22:13:51.921745Z"
+      "scraped_at": "2026-07-07T22:11:23.808126Z"
     },
     {
       "id": "447ba6afb310",
@@ -135,7 +120,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/lily-kenchington-evans-uq-institute-for-molecular-bioscience/",
       "online": true,
-      "scraped_at": "2026-07-06T22:13:52.824125Z"
+      "scraped_at": "2026-07-07T22:11:24.236939Z"
     },
     {
       "id": "12c991799dfd",
@@ -150,7 +135,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/hugo-macdermott-opeskin-open-molecular-software-foundation/",
       "online": true,
-      "scraped_at": "2026-07-06T22:13:53.759896Z"
+      "scraped_at": "2026-07-07T22:11:25.119037Z"
     },
     {
       "id": "dee43843e438",
@@ -165,7 +150,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/a-prof-jong-eun-park-korea-advanced-institute-of-science-technology/",
       "online": true,
-      "scraped_at": "2026-07-06T22:13:54.670688Z"
+      "scraped_at": "2026-07-07T22:11:26.114442Z"
     },
     {
       "id": "dc4462745d9c",
@@ -180,7 +165,7 @@
       "abstract": null,
       "url": "https://www.doherty.edu.au/event/world-flu-day-2026-symposium/",
       "online": true,
-      "scraped_at": "2026-07-06T22:13:59.660915Z"
+      "scraped_at": "2026-07-07T22:11:31.629810Z"
     }
   ]
 }
