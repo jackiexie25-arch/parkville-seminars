@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-08T22:07:36.300378Z",
-  "total": 13,
+  "generated_at": "2026-07-09T22:29:04.432959Z",
+  "total": 11,
   "seminars": [
     {
       "id": "d07cdddebb2c",
@@ -15,7 +15,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-john-silke-inflammation-division-2/",
       "online": true,
-      "scraped_at": "2026-07-08T22:06:04.286316Z"
+      "scraped_at": "2026-07-09T22:27:52.605122Z"
     },
     {
       "id": "d0cfbf8883a5",
@@ -30,7 +30,7 @@
       "abstract": null,
       "url": "https://www.doherty.edu.au/event/ncas-seminar-series-local-to-global-ams/",
       "online": true,
-      "scraped_at": "2026-07-08T22:06:18.492335Z"
+      "scraped_at": "2026-07-09T22:28:02.945799Z"
     },
     {
       "id": "48f132393d27",
@@ -45,7 +45,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-holly-anderton-inflammation-division/",
       "online": true,
-      "scraped_at": "2026-07-08T22:06:04.672652Z"
+      "scraped_at": "2026-07-09T22:27:52.867850Z"
     },
     {
       "id": "54bff4b8733a",
@@ -60,7 +60,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/kelly-chibale-university-of-cape-town/",
       "online": true,
-      "scraped_at": "2026-07-08T22:06:05.973031Z"
+      "scraped_at": "2026-07-09T22:27:54.190971Z"
     },
     {
       "id": "820d466ce378",
@@ -75,7 +75,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/sara-berent-immunity-division/",
       "online": true,
-      "scraped_at": "2026-07-08T22:06:07.063430Z"
+      "scraped_at": "2026-07-09T22:27:55.556019Z"
     },
     {
       "id": "d8d5f6403a0b",
@@ -90,7 +90,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-melanie-bahlo-genetics-and-gene-regulation-division/",
       "online": true,
-      "scraped_at": "2026-07-08T22:06:08.171997Z"
+      "scraped_at": "2026-07-09T22:27:55.994147Z"
     },
     {
       "id": "afb5ff0d4b83",
@@ -105,7 +105,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-niall-geoghegan-centre-for-dynamic-imaging/",
       "online": true,
-      "scraped_at": "2026-07-08T22:06:09.010704Z"
+      "scraped_at": "2026-07-09T22:27:56.280267Z"
     },
     {
       "id": "447ba6afb310",
@@ -120,7 +120,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/lily-kenchington-evans-uq-institute-for-molecular-bioscience/",
       "online": true,
-      "scraped_at": "2026-07-08T22:06:09.397098Z"
+      "scraped_at": "2026-07-09T22:27:56.550312Z"
     },
     {
       "id": "12c991799dfd",
@@ -135,7 +135,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/hugo-macdermott-opeskin-open-molecular-software-foundation/",
       "online": true,
-      "scraped_at": "2026-07-08T22:06:10.350143Z"
+      "scraped_at": "2026-07-09T22:27:56.886973Z"
     },
     {
       "id": "dee43843e438",
@@ -150,37 +150,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/a-prof-jong-eun-park-korea-advanced-institute-of-science-technology/",
       "online": true,
-      "scraped_at": "2026-07-08T22:06:11.286870Z"
-    },
-    {
-      "id": "ea8c48030eb0",
-      "institution": "Bionics Institute",
-      "institution_color": "#E31B23",
-      "title": "How to design precise medicines for genetic epilepsy",
-      "date": "2026-10-11",
-      "time": null,
-      "speaker": "Professor Chris Reid",
-      "affiliation": null,
-      "location": "In person & Online",
-      "abstract": "Date: Friday 1 November 2024 Time: 4.00-5.00pm Location: in person and online via Teams Contact: [email protected] About the seminar Developmental and epileptic encephalopathies or DEEs are predominantly monogenic disorders which are individually rare but collectively occur in 1 in 590 births, equating to >500 newly diagnosed children in Australia per year. DEE are characterised by severe refractory seizures and a range of comorbidities including significant developmental delay. With a genetic cause now identified in over 50% of individuals with a DEE, the era of precision medicine has begun. Pathogenic HCN1 variants have emerged as an important cause of DEE. In this talk Professor Chris Reid will update you on the progress we have had in understanding HCN1 epilepsy. This will include how human variants in HCN1 have informed how the channel works, identifying an unrecognised retinal comorbidity and a promising small molecule that provides proof in principle that both seizures and comorbidities can be treated. Professor Reid will also present work on new genetic mouse models of Sudden Unexpected Death in Epilepsy (SUDEP) based on a human genetic underpinning. Physiological studies in the mice suggest that cardiac factors play an important part in the pathological cascade leading to premature death. We show that β-blockers can prevent premature death suggesting that ‘protecting the heart from the brain’ could reduce the incidence of SUDEP.",
-      "url": "https://www.bionicsinstitute.org/news-and-events/our-seminars/",
-      "online": true,
-      "scraped_at": "2026-07-08T22:07:36.299710Z"
-    },
-    {
-      "id": "7002a129542d",
-      "institution": "Bionics Institute",
-      "institution_color": "#E31B23",
-      "title": "Neurological Assessment using Virtual Reality",
-      "date": "2026-10-18",
-      "time": null,
-      "speaker": "Dr Hamish MacDougall",
-      "affiliation": null,
-      "location": "In person & Online",
-      "abstract": "Date: Friday 18 October 2024 Time: 4.00-5.00pm Location: in person and online via Teams Contact: [email protected] About the Seminar Join Dr Hamish MacDougall as he presents a seminar that will explore how VR technology can be used to conduct neurological assessment both subjectively and objectively, in local or remote settings. Dr. MacDougall will discuss the latest advancements in VR-driven tools, highlighting their potential for improving diagnostic precision and therapeutic outcomes in patients with neurological conditions.",
-      "url": "https://www.bionicsinstitute.org/news-and-events/our-seminars/",
-      "online": true,
-      "scraped_at": "2026-07-08T22:07:36.299087Z"
+      "scraped_at": "2026-07-09T22:27:57.152444Z"
     },
     {
       "id": "dc4462745d9c",
@@ -195,7 +165,7 @@
       "abstract": null,
       "url": "https://www.doherty.edu.au/event/world-flu-day-2026-symposium/",
       "online": true,
-      "scraped_at": "2026-07-08T22:06:17.476089Z"
+      "scraped_at": "2026-07-09T22:28:02.119411Z"
     }
   ]
 }
