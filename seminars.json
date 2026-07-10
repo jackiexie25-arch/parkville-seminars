@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-09T22:29:04.432959Z",
-  "total": 11,
+  "generated_at": "2026-07-10T22:04:40.786373Z",
+  "total": 12,
   "seminars": [
     {
       "id": "d07cdddebb2c",
@@ -15,22 +15,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-john-silke-inflammation-division-2/",
       "online": true,
-      "scraped_at": "2026-07-09T22:27:52.605122Z"
-    },
-    {
-      "id": "d0cfbf8883a5",
-      "institution": "Doherty Institute",
-      "institution_color": "#00539B",
-      "title": "NCAS Seminar Series: Local to global AMS",
-      "date": "2026-07-15",
-      "time": null,
-      "speaker": null,
-      "affiliation": null,
-      "location": "Online",
-      "abstract": null,
-      "url": "https://www.doherty.edu.au/event/ncas-seminar-series-local-to-global-ams/",
-      "online": true,
-      "scraped_at": "2026-07-09T22:28:02.945799Z"
+      "scraped_at": "2026-07-10T22:03:11.308328Z"
     },
     {
       "id": "48f132393d27",
@@ -45,7 +30,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-holly-anderton-inflammation-division/",
       "online": true,
-      "scraped_at": "2026-07-09T22:27:52.867850Z"
+      "scraped_at": "2026-07-10T22:03:12.270725Z"
     },
     {
       "id": "54bff4b8733a",
@@ -60,7 +45,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/kelly-chibale-university-of-cape-town/",
       "online": true,
-      "scraped_at": "2026-07-09T22:27:54.190971Z"
+      "scraped_at": "2026-07-10T22:03:13.263755Z"
     },
     {
       "id": "820d466ce378",
@@ -75,7 +60,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/sara-berent-immunity-division/",
       "online": true,
-      "scraped_at": "2026-07-09T22:27:55.556019Z"
+      "scraped_at": "2026-07-10T22:03:14.323848Z"
     },
     {
       "id": "d8d5f6403a0b",
@@ -90,7 +75,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-melanie-bahlo-genetics-and-gene-regulation-division/",
       "online": true,
-      "scraped_at": "2026-07-09T22:27:55.994147Z"
+      "scraped_at": "2026-07-10T22:03:14.634349Z"
     },
     {
       "id": "afb5ff0d4b83",
@@ -105,7 +90,22 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-niall-geoghegan-centre-for-dynamic-imaging/",
       "online": true,
-      "scraped_at": "2026-07-09T22:27:56.280267Z"
+      "scraped_at": "2026-07-10T22:03:14.948890Z"
+    },
+    {
+      "id": "5b5c73434662",
+      "institution": "Doherty Institute",
+      "institution_color": "#00539B",
+      "title": "Cure for Hepatitis B — hoax, hype, or hope?",
+      "date": "2026-07-28",
+      "time": null,
+      "speaker": null,
+      "affiliation": null,
+      "location": null,
+      "abstract": null,
+      "url": "https://www.doherty.edu.au/event/cure-for-hepatitis-b-hoax-hype-or-hope/",
+      "online": false,
+      "scraped_at": "2026-07-10T22:03:23.274175Z"
     },
     {
       "id": "447ba6afb310",
@@ -120,7 +120,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/lily-kenchington-evans-uq-institute-for-molecular-bioscience/",
       "online": true,
-      "scraped_at": "2026-07-09T22:27:56.550312Z"
+      "scraped_at": "2026-07-10T22:03:15.340610Z"
     },
     {
       "id": "12c991799dfd",
@@ -135,7 +135,22 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/hugo-macdermott-opeskin-open-molecular-software-foundation/",
       "online": true,
-      "scraped_at": "2026-07-09T22:27:56.886973Z"
+      "scraped_at": "2026-07-10T22:03:16.412264Z"
+    },
+    {
+      "id": "c90abfe676e1",
+      "institution": "Doherty Institute",
+      "institution_color": "#00539B",
+      "title": "NCAS Seminar Series: Audit and Feedback",
+      "date": "2026-08-19",
+      "time": null,
+      "speaker": null,
+      "affiliation": null,
+      "location": "Online",
+      "abstract": null,
+      "url": "https://www.doherty.edu.au/event/ncas-seminar-series-audit-and-feedback/",
+      "online": true,
+      "scraped_at": "2026-07-10T22:03:25.193209Z"
     },
     {
       "id": "dee43843e438",
@@ -150,7 +165,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/a-prof-jong-eun-park-korea-advanced-institute-of-science-technology/",
       "online": true,
-      "scraped_at": "2026-07-09T22:27:57.152444Z"
+      "scraped_at": "2026-07-10T22:03:17.581479Z"
     },
     {
       "id": "dc4462745d9c",
@@ -165,7 +180,7 @@
       "abstract": null,
       "url": "https://www.doherty.edu.au/event/world-flu-day-2026-symposium/",
       "online": true,
-      "scraped_at": "2026-07-09T22:28:02.119411Z"
+      "scraped_at": "2026-07-10T22:03:24.216942Z"
     }
   ]
 }
