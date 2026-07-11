@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-10T22:04:40.786373Z",
-  "total": 12,
+  "generated_at": "2026-07-11T21:51:42.244593Z",
+  "total": 14,
   "seminars": [
     {
       "id": "d07cdddebb2c",
@@ -15,7 +15,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-john-silke-inflammation-division-2/",
       "online": true,
-      "scraped_at": "2026-07-10T22:03:11.308328Z"
+      "scraped_at": "2026-07-11T21:50:20.193158Z"
     },
     {
       "id": "48f132393d27",
@@ -30,7 +30,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-holly-anderton-inflammation-division/",
       "online": true,
-      "scraped_at": "2026-07-10T22:03:12.270725Z"
+      "scraped_at": "2026-07-11T21:50:20.562260Z"
     },
     {
       "id": "54bff4b8733a",
@@ -45,7 +45,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/kelly-chibale-university-of-cape-town/",
       "online": true,
-      "scraped_at": "2026-07-10T22:03:13.263755Z"
+      "scraped_at": "2026-07-11T21:50:20.944460Z"
     },
     {
       "id": "820d466ce378",
@@ -60,7 +60,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/sara-berent-immunity-division/",
       "online": true,
-      "scraped_at": "2026-07-10T22:03:14.323848Z"
+      "scraped_at": "2026-07-11T21:50:21.314238Z"
     },
     {
       "id": "d8d5f6403a0b",
@@ -75,7 +75,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-melanie-bahlo-genetics-and-gene-regulation-division/",
       "online": true,
-      "scraped_at": "2026-07-10T22:03:14.634349Z"
+      "scraped_at": "2026-07-11T21:50:21.688754Z"
     },
     {
       "id": "afb5ff0d4b83",
@@ -90,7 +90,22 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-niall-geoghegan-centre-for-dynamic-imaging/",
       "online": true,
-      "scraped_at": "2026-07-10T22:03:14.948890Z"
+      "scraped_at": "2026-07-11T21:50:22.063931Z"
+    },
+    {
+      "id": "d2e2466f5db1",
+      "institution": "WEHI",
+      "institution_color": "#003087",
+      "title": "Wenxin (Wendy) Jia – Immunology division",
+      "date": "2026-07-23",
+      "time": "13:00",
+      "speaker": "Wenxin (Wendy) Jia",
+      "affiliation": "Immunology division",
+      "location": "Davis Auditorium",
+      "abstract": null,
+      "url": "https://www.wehi.edu.au/event/wenxin-wendy-jia-immunology-division/",
+      "online": true,
+      "scraped_at": "2026-07-11T21:50:22.445738Z"
     },
     {
       "id": "5b5c73434662",
@@ -105,7 +120,7 @@
       "abstract": null,
       "url": "https://www.doherty.edu.au/event/cure-for-hepatitis-b-hoax-hype-or-hope/",
       "online": false,
-      "scraped_at": "2026-07-10T22:03:23.274175Z"
+      "scraped_at": "2026-07-11T21:50:31.874110Z"
     },
     {
       "id": "447ba6afb310",
@@ -120,7 +135,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/lily-kenchington-evans-uq-institute-for-molecular-bioscience/",
       "online": true,
-      "scraped_at": "2026-07-10T22:03:15.340610Z"
+      "scraped_at": "2026-07-11T21:50:22.815466Z"
     },
     {
       "id": "12c991799dfd",
@@ -135,7 +150,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/hugo-macdermott-opeskin-open-molecular-software-foundation/",
       "online": true,
-      "scraped_at": "2026-07-10T22:03:16.412264Z"
+      "scraped_at": "2026-07-11T21:50:24.161162Z"
     },
     {
       "id": "c90abfe676e1",
@@ -150,7 +165,7 @@
       "abstract": null,
       "url": "https://www.doherty.edu.au/event/ncas-seminar-series-audit-and-feedback/",
       "online": true,
-      "scraped_at": "2026-07-10T22:03:25.193209Z"
+      "scraped_at": "2026-07-11T21:50:34.101664Z"
     },
     {
       "id": "dee43843e438",
@@ -165,7 +180,22 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/a-prof-jong-eun-park-korea-advanced-institute-of-science-technology/",
       "online": true,
-      "scraped_at": "2026-07-10T22:03:17.581479Z"
+      "scraped_at": "2026-07-11T21:50:25.366993Z"
+    },
+    {
+      "id": "c24206f08be9",
+      "institution": "WEHI",
+      "institution_color": "#003087",
+      "title": "Dr John McCauley – Merck Sharp and Dohme, USA",
+      "date": "2026-09-07",
+      "time": "13:00",
+      "speaker": "Dr John McCauley",
+      "affiliation": "Merck Sharp and Dohme, USA",
+      "location": "Davis Auditorium",
+      "abstract": null,
+      "url": "https://www.wehi.edu.au/event/dr-john-mccauley-merck-sharp-and-dohme-usa/",
+      "online": true,
+      "scraped_at": "2026-07-11T21:50:25.737358Z"
     },
     {
       "id": "dc4462745d9c",
@@ -180,7 +210,7 @@
       "abstract": null,
       "url": "https://www.doherty.edu.au/event/world-flu-day-2026-symposium/",
       "online": true,
-      "scraped_at": "2026-07-10T22:03:24.216942Z"
+      "scraped_at": "2026-07-11T21:50:33.123442Z"
     }
   ]
 }
