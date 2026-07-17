@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-16T22:05:33.472553Z",
+  "generated_at": "2026-07-17T21:55:42.237641Z",
   "total": 18,
   "seminars": [
     {
-      "id": "01faa75dba30",
+      "id": "83ada3e07278",
       "institution": "Royal Melbourne Hospital",
       "institution_color": "#0066CC",
       "title": "Please, don't fall for scams",
-      "date": "2026-07-16",
+      "date": "2026-07-17",
       "time": null,
       "speaker": null,
       "affiliation": null,
@@ -15,14 +15,14 @@
       "abstract": null,
       "url": "https://www.thermh.org.au",
       "online": false,
-      "scraped_at": "2026-07-16T22:05:23.890754Z"
+      "scraped_at": "2026-07-17T21:55:32.970839Z"
     },
     {
-      "id": "c47613276bc9",
+      "id": "c78bf8add10a",
       "institution": "Royal Melbourne Hospital",
       "institution_color": "#0066CC",
       "title": "News and events",
-      "date": "2026-07-16",
+      "date": "2026-07-17",
       "time": null,
       "speaker": null,
       "affiliation": null,
@@ -30,7 +30,7 @@
       "abstract": null,
       "url": "https://www.thermh.org.au/news",
       "online": false,
-      "scraped_at": "2026-07-16T22:05:24.172778Z"
+      "scraped_at": "2026-07-17T21:55:33.274964Z"
     },
     {
       "id": "d8d5f6403a0b",
@@ -45,7 +45,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-melanie-bahlo-genetics-and-gene-regulation-division/",
       "online": true,
-      "scraped_at": "2026-07-16T22:04:06.335163Z"
+      "scraped_at": "2026-07-17T21:54:18.524686Z"
     },
     {
       "id": "afb5ff0d4b83",
@@ -60,7 +60,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-niall-geoghegan-centre-for-dynamic-imaging/",
       "online": true,
-      "scraped_at": "2026-07-16T22:04:07.765229Z"
+      "scraped_at": "2026-07-17T21:54:18.902576Z"
     },
     {
       "id": "591cab6d3cbc",
@@ -75,7 +75,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-paul-donnelly-bio21-institute/",
       "online": true,
-      "scraped_at": "2026-07-16T22:04:08.450676Z"
+      "scraped_at": "2026-07-17T21:54:19.295850Z"
     },
     {
       "id": "d2e2466f5db1",
@@ -90,7 +90,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/wenxin-wendy-jia-immunology-division/",
       "online": true,
-      "scraped_at": "2026-07-16T22:04:08.844024Z"
+      "scraped_at": "2026-07-17T21:54:20.535067Z"
     },
     {
       "id": "fc9126e239a6",
@@ -105,7 +105,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/han-ding-immunity-division/",
       "online": true,
-      "scraped_at": "2026-07-16T22:04:09.831244Z"
+      "scraped_at": "2026-07-17T21:54:20.905622Z"
     },
     {
       "id": "ceccf848772f",
@@ -120,7 +120,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-ivo-mueller-immunity-division/",
       "online": true,
-      "scraped_at": "2026-07-16T22:04:10.745887Z"
+      "scraped_at": "2026-07-17T21:54:21.293175Z"
     },
     {
       "id": "5b5c73434662",
@@ -135,7 +135,7 @@
       "abstract": null,
       "url": "https://www.doherty.edu.au/event/cure-for-hepatitis-b-hoax-hype-or-hope/",
       "online": false,
-      "scraped_at": "2026-07-16T22:04:23.769517Z"
+      "scraped_at": "2026-07-17T21:54:33.298170Z"
     },
     {
       "id": "447ba6afb310",
@@ -150,7 +150,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/lily-kenchington-evans-uq-institute-for-molecular-bioscience/",
       "online": true,
-      "scraped_at": "2026-07-16T22:04:11.164601Z"
+      "scraped_at": "2026-07-17T21:54:21.667012Z"
     },
     {
       "id": "1b4d5d7f2dbe",
@@ -165,7 +165,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/glen-charlton-intersect-australia/",
       "online": true,
-      "scraped_at": "2026-07-16T22:04:12.415509Z"
+      "scraped_at": "2026-07-17T21:54:22.604360Z"
     },
     {
       "id": "52b556816e3b",
@@ -180,7 +180,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/associate-professor-michelle-boyle-burnet-institute-2/",
       "online": true,
-      "scraped_at": "2026-07-16T22:04:12.809426Z"
+      "scraped_at": "2026-07-17T21:54:22.980105Z"
     },
     {
       "id": "12c991799dfd",
@@ -195,7 +195,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/hugo-macdermott-opeskin-open-molecular-software-foundation/",
       "online": true,
-      "scraped_at": "2026-07-16T22:04:13.677647Z"
+      "scraped_at": "2026-07-17T21:54:23.355274Z"
     },
     {
       "id": "c90abfe676e1",
@@ -210,7 +210,7 @@
       "abstract": null,
       "url": "https://www.doherty.edu.au/event/ncas-seminar-series-audit-and-feedback/",
       "online": true,
-      "scraped_at": "2026-07-16T22:04:25.893117Z"
+      "scraped_at": "2026-07-17T21:54:37.887207Z"
     },
     {
       "id": "dee43843e438",
@@ -225,7 +225,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/a-prof-jong-eun-park-korea-advanced-institute-of-science-technology/",
       "online": true,
-      "scraped_at": "2026-07-16T22:04:14.576654Z"
+      "scraped_at": "2026-07-17T21:54:24.256336Z"
     },
     {
       "id": "8bb4d88133c1",
@@ -240,7 +240,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-rory-bowden-advanced-genomics-facility/",
       "online": true,
-      "scraped_at": "2026-07-16T22:04:15.838223Z"
+      "scraped_at": "2026-07-17T21:54:25.134866Z"
     },
     {
       "id": "c24206f08be9",
@@ -255,7 +255,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-john-mccauley-merck-sharp-and-dohme-usa/",
       "online": true,
-      "scraped_at": "2026-07-16T22:04:17.069051Z"
+      "scraped_at": "2026-07-17T21:54:25.549238Z"
     },
     {
       "id": "dc4462745d9c",
@@ -270,7 +270,7 @@
       "abstract": null,
       "url": "https://www.doherty.edu.au/event/world-flu-day-2026-symposium/",
       "online": true,
-      "scraped_at": "2026-07-16T22:04:24.809995Z"
+      "scraped_at": "2026-07-17T21:54:35.427308Z"
     }
   ]
 }
