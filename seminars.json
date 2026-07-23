@@ -1,22 +1,7 @@
 {
-  "generated_at": "2026-07-22T22:05:05.989821Z",
+  "generated_at": "2026-07-23T22:05:10.778184Z",
   "total": 14,
   "seminars": [
-    {
-      "id": "fc9126e239a6",
-      "institution": "WEHI",
-      "institution_color": "#003087",
-      "title": "Han Ding – Immunity division",
-      "date": "2026-07-24",
-      "time": "12:00",
-      "speaker": "Han Ding",
-      "affiliation": "Immunity division",
-      "location": "Davis Auditorium",
-      "abstract": null,
-      "url": "https://www.wehi.edu.au/event/han-ding-immunity-division/",
-      "online": true,
-      "scraped_at": "2026-07-22T22:03:38.604320Z"
-    },
     {
       "id": "ceccf848772f",
       "institution": "WEHI",
@@ -30,7 +15,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-ivo-mueller-immunity-division/",
       "online": true,
-      "scraped_at": "2026-07-22T22:03:39.591851Z"
+      "scraped_at": "2026-07-23T22:03:43.379310Z"
     },
     {
       "id": "5b5c73434662",
@@ -45,7 +30,22 @@
       "abstract": null,
       "url": "https://www.doherty.edu.au/event/cure-for-hepatitis-b-hoax-hype-or-hope/",
       "online": false,
-      "scraped_at": "2026-07-22T22:03:53.071334Z"
+      "scraped_at": "2026-07-23T22:03:57.221834Z"
+    },
+    {
+      "id": "ae493e973099",
+      "institution": "WEHI",
+      "institution_color": "#003087",
+      "title": "Professor Aaron Jex – Immunity division",
+      "date": "2026-07-29",
+      "time": "13:00",
+      "speaker": "Professor Aaron Jex",
+      "affiliation": "Immunity division",
+      "location": "Davis Auditorium",
+      "abstract": null,
+      "url": "https://www.wehi.edu.au/event/professor-aaron-jex-immunity-division/",
+      "online": true,
+      "scraped_at": "2026-07-23T22:03:44.537106Z"
     },
     {
       "id": "447ba6afb310",
@@ -60,7 +60,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/lily-kenchington-evans-uq-institute-for-molecular-bioscience/",
       "online": true,
-      "scraped_at": "2026-07-22T22:03:40.578857Z"
+      "scraped_at": "2026-07-23T22:03:45.705232Z"
     },
     {
       "id": "1b4d5d7f2dbe",
@@ -75,7 +75,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/glen-charlton-intersect-australia/",
       "online": true,
-      "scraped_at": "2026-07-22T22:03:41.560974Z"
+      "scraped_at": "2026-07-23T22:03:46.180257Z"
     },
     {
       "id": "d5779f841873",
@@ -90,7 +90,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/associate-professor-naiyang-fu-cancer-division/",
       "online": true,
-      "scraped_at": "2026-07-22T22:03:42.520157Z"
+      "scraped_at": "2026-07-23T22:03:46.482289Z"
     },
     {
       "id": "52b556816e3b",
@@ -105,7 +105,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/associate-professor-michelle-boyle-burnet-institute-2/",
       "online": true,
-      "scraped_at": "2026-07-22T22:03:43.521788Z"
+      "scraped_at": "2026-07-23T22:03:47.596383Z"
     },
     {
       "id": "12c991799dfd",
@@ -120,7 +120,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/hugo-macdermott-opeskin-open-molecular-software-foundation/",
       "online": true,
-      "scraped_at": "2026-07-22T22:03:44.585383Z"
+      "scraped_at": "2026-07-23T22:03:48.633560Z"
     },
     {
       "id": "c90abfe676e1",
@@ -135,7 +135,7 @@
       "abstract": null,
       "url": "https://www.doherty.edu.au/event/ncas-seminar-series-audit-and-feedback/",
       "online": true,
-      "scraped_at": "2026-07-22T22:03:54.684961Z"
+      "scraped_at": "2026-07-23T22:03:58.917600Z"
     },
     {
       "id": "cd3e788c66e9",
@@ -150,7 +150,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/mms-wehi-partner-for-impact-series/",
       "online": true,
-      "scraped_at": "2026-07-22T22:03:44.997755Z"
+      "scraped_at": "2026-07-23T22:03:49.715703Z"
     },
     {
       "id": "dee43843e438",
@@ -165,7 +165,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/a-prof-jong-eun-park-korea-advanced-institute-of-science-technology/",
       "online": true,
-      "scraped_at": "2026-07-22T22:03:46.042574Z"
+      "scraped_at": "2026-07-23T22:03:50.715625Z"
     },
     {
       "id": "8bb4d88133c1",
@@ -180,7 +180,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-rory-bowden-advanced-genomics-facility/",
       "online": true,
-      "scraped_at": "2026-07-22T22:03:47.082384Z"
+      "scraped_at": "2026-07-23T22:03:51.713621Z"
     },
     {
       "id": "c24206f08be9",
@@ -195,7 +195,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-john-mccauley-merck-sharp-and-dohme-usa/",
       "online": true,
-      "scraped_at": "2026-07-22T22:03:48.064028Z"
+      "scraped_at": "2026-07-23T22:03:52.187818Z"
     },
     {
       "id": "dc4462745d9c",
@@ -210,7 +210,7 @@
       "abstract": null,
       "url": "https://www.doherty.edu.au/event/world-flu-day-2026-symposium/",
       "online": true,
-      "scraped_at": "2026-07-22T22:03:53.796747Z"
+      "scraped_at": "2026-07-23T22:03:58.093227Z"
     }
   ]
 }
