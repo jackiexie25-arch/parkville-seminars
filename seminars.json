@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-02T21:57:43.367320Z",
-  "total": 16,
+  "generated_at": "2026-08-03T22:09:57.042311Z",
+  "total": 18,
   "seminars": [
     {
       "id": "931b13a92a1c",
@@ -15,7 +15,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-sandra-nicholson-immunity-division/",
       "online": true,
-      "scraped_at": "2026-08-02T21:56:48.059369Z"
+      "scraped_at": "2026-08-03T22:08:58.789310Z"
     },
     {
       "id": "52b556816e3b",
@@ -30,7 +30,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/associate-professor-michelle-boyle-burnet-institute-2/",
       "online": true,
-      "scraped_at": "2026-08-02T21:56:48.329063Z"
+      "scraped_at": "2026-08-03T22:08:59.181127Z"
     },
     {
       "id": "725093cdbff1",
@@ -45,7 +45,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-sylvie-callegari-molecular-sciences-division/",
       "online": true,
-      "scraped_at": "2026-08-02T21:56:49.311140Z"
+      "scraped_at": "2026-08-03T22:09:00.256103Z"
     },
     {
       "id": "46e212c7ced4",
@@ -60,7 +60,7 @@
       "abstract": null,
       "url": "https://www.doherty.edu.au/event/student-information-day/",
       "online": true,
-      "scraped_at": "2026-08-02T21:57:01.673518Z"
+      "scraped_at": "2026-08-03T22:09:14.735864Z"
     },
     {
       "id": "53077134c9f5",
@@ -75,7 +75,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-bekky-feltham-molecular-sciences-division/",
       "online": true,
-      "scraped_at": "2026-08-02T21:56:50.268602Z"
+      "scraped_at": "2026-08-03T22:09:00.493643Z"
     },
     {
       "id": "12c991799dfd",
@@ -90,7 +90,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/hugo-macdermott-opeskin-open-molecular-software-foundation/",
       "online": true,
-      "scraped_at": "2026-08-02T21:56:51.239856Z"
+      "scraped_at": "2026-08-03T22:09:01.505527Z"
     },
     {
       "id": "c90abfe676e1",
@@ -105,7 +105,7 @@
       "abstract": null,
       "url": "https://www.doherty.edu.au/event/ncas-seminar-series-audit-and-feedback/",
       "online": true,
-      "scraped_at": "2026-08-02T21:57:04.301258Z"
+      "scraped_at": "2026-08-03T22:09:17.431692Z"
     },
     {
       "id": "ca70ec337bbd",
@@ -120,7 +120,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/joel-moffet-brain-cancer-research-laboratory/",
       "online": true,
-      "scraped_at": "2026-08-02T21:56:51.640635Z"
+      "scraped_at": "2026-08-03T22:09:02.955832Z"
     },
     {
       "id": "cd3e788c66e9",
@@ -135,7 +135,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/mms-wehi-partner-for-impact-series/",
       "online": true,
-      "scraped_at": "2026-08-02T21:56:52.579279Z"
+      "scraped_at": "2026-08-03T22:09:04.048434Z"
     },
     {
       "id": "3d4af83cfc90",
@@ -150,7 +150,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/wenyi-li-la-trobe-institute-for-molecular-science-2/",
       "online": true,
-      "scraped_at": "2026-08-02T21:56:53.574489Z"
+      "scraped_at": "2026-08-03T22:09:05.063451Z"
     },
     {
       "id": "d4466a6118e2",
@@ -165,7 +165,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/william-hutchison-technological-sciences-division/",
       "online": true,
-      "scraped_at": "2026-08-02T21:56:54.533335Z"
+      "scraped_at": "2026-08-03T22:09:06.124829Z"
     },
     {
       "id": "dee43843e438",
@@ -180,7 +180,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/a-prof-jong-eun-park-korea-advanced-institute-of-science-technology/",
       "online": true,
-      "scraped_at": "2026-08-02T21:56:55.533202Z"
+      "scraped_at": "2026-08-03T22:09:07.274188Z"
     },
     {
       "id": "8bb4d88133c1",
@@ -195,7 +195,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-rory-bowden-advanced-genomics-facility/",
       "online": true,
-      "scraped_at": "2026-08-02T21:56:56.538113Z"
+      "scraped_at": "2026-08-03T22:09:08.353014Z"
     },
     {
       "id": "94ae91b6d08a",
@@ -210,7 +210,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-matthew-dixon-immunity-division/",
       "online": true,
-      "scraped_at": "2026-08-02T21:56:57.567201Z"
+      "scraped_at": "2026-08-03T22:09:09.299414Z"
     },
     {
       "id": "c24206f08be9",
@@ -225,7 +225,37 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-john-mccauley-merck-sharp-and-dohme-usa/",
       "online": true,
-      "scraped_at": "2026-08-02T21:56:58.529547Z"
+      "scraped_at": "2026-08-03T22:09:10.302456Z"
+    },
+    {
+      "id": "134170468b7e",
+      "institution": "WEHI",
+      "institution_color": "#003087",
+      "title": "Gabrielle White – Molecular Sciences division",
+      "date": "2026-09-23",
+      "time": "13:00",
+      "speaker": "Gabrielle White",
+      "affiliation": "Molecular Sciences division",
+      "location": "Davis Auditorium",
+      "abstract": null,
+      "url": "https://www.wehi.edu.au/event/gabrielle-white-molecular-sciences-division/",
+      "online": true,
+      "scraped_at": "2026-08-03T22:09:11.281950Z"
+    },
+    {
+      "id": "cb3005dfb0f2",
+      "institution": "WEHI",
+      "institution_color": "#003087",
+      "title": "Professor Tony Cesare – Children’s Medical Research Institute",
+      "date": "2026-09-30",
+      "time": "13:00",
+      "speaker": "Professor Tony Cesare",
+      "affiliation": "Children’s Medical Research Institute",
+      "location": "Davis Auditorium",
+      "abstract": null,
+      "url": "https://www.wehi.edu.au/event/professor-tony-cesare-childrens-medical-research-institute/",
+      "online": true,
+      "scraped_at": "2026-08-03T22:09:11.716228Z"
     },
     {
       "id": "dc4462745d9c",
@@ -240,7 +270,7 @@
       "abstract": null,
       "url": "https://www.doherty.edu.au/event/world-flu-day-2026-symposium/",
       "online": true,
-      "scraped_at": "2026-08-02T21:57:03.441047Z"
+      "scraped_at": "2026-08-03T22:09:16.667615Z"
     }
   ]
 }
