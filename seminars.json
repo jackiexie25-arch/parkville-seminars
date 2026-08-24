@@ -1,37 +1,7 @@
 {
-  "generated_at": "2026-08-23T21:22:35.251693Z",
+  "generated_at": "2026-08-24T21:29:55.021625Z",
   "total": 17,
   "seminars": [
-    {
-      "id": "d4466a6118e2",
-      "institution": "WEHI",
-      "institution_color": "#003087",
-      "title": "William Hutchison – Technological Sciences division",
-      "date": "2026-08-25",
-      "time": "11:00",
-      "speaker": "William Hutchison",
-      "affiliation": "Technological Sciences division",
-      "location": "Davis Auditorium",
-      "abstract": null,
-      "url": "https://www.wehi.edu.au/event/william-hutchison-technological-sciences-division/",
-      "online": true,
-      "scraped_at": "2026-08-23T21:21:19.607539Z"
-    },
-    {
-      "id": "b87d32928428",
-      "institution": "WEHI",
-      "institution_color": "#003087",
-      "title": "Xiaomin Wang – Molecular Sciences division",
-      "date": "2026-08-25",
-      "time": "12:00",
-      "speaker": "Xiaomin Wang",
-      "affiliation": "Molecular Sciences division",
-      "location": "L7W Seminar Room",
-      "abstract": null,
-      "url": "https://www.wehi.edu.au/event/xiaomin-wang-molecular-sciences-division/",
-      "online": true,
-      "scraped_at": "2026-08-23T21:21:19.955206Z"
-    },
     {
       "id": "dee43843e438",
       "institution": "WEHI",
@@ -45,7 +15,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/a-prof-jong-eun-park-korea-advanced-institute-of-science-technology/",
       "online": true,
-      "scraped_at": "2026-08-23T21:21:21.004362Z"
+      "scraped_at": "2026-08-24T21:28:54.194960Z"
     },
     {
       "id": "c443cc6d52ba",
@@ -60,7 +30,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/associate-professor-shabih-shakeel-molecular-sciences-division/",
       "online": true,
-      "scraped_at": "2026-08-23T21:21:22.792326Z"
+      "scraped_at": "2026-08-24T21:28:55.134284Z"
     },
     {
       "id": "7a9acf0eff00",
@@ -75,7 +45,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-kerry-mullan-snow-centre-for-immune-health/",
       "online": true,
-      "scraped_at": "2026-08-23T21:21:24.969895Z"
+      "scraped_at": "2026-08-24T21:28:56.162541Z"
     },
     {
       "id": "331bb0ca3d8f",
@@ -90,22 +60,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-eizo-takashima-ehime-university/",
       "online": true,
-      "scraped_at": "2026-08-23T21:21:26.130628Z"
-    },
-    {
-      "id": "8bb4d88133c1",
-      "institution": "WEHI",
-      "institution_color": "#003087",
-      "title": "Professor Rory Bowden – Advanced Genomics Facility",
-      "date": "2026-08-31",
-      "time": "14:00",
-      "speaker": "Professor Rory Bowden",
-      "affiliation": "Advanced Genomics Facility",
-      "location": "Davis Auditorium",
-      "abstract": null,
-      "url": "https://www.wehi.edu.au/event/professor-rory-bowden-advanced-genomics-facility/",
-      "online": true,
-      "scraped_at": "2026-08-23T21:21:26.478491Z"
+      "scraped_at": "2026-08-24T21:28:57.241675Z"
     },
     {
       "id": "94ae91b6d08a",
@@ -120,7 +75,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-matthew-dixon-immunity-division/",
       "online": true,
-      "scraped_at": "2026-08-23T21:21:27.854833Z"
+      "scraped_at": "2026-08-24T21:28:58.192295Z"
     },
     {
       "id": "a1675de921a5",
@@ -135,7 +90,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-katherine-knight-loyola-university-chicago/",
       "online": true,
-      "scraped_at": "2026-08-23T21:21:29.158349Z"
+      "scraped_at": "2026-08-24T21:28:59.115407Z"
     },
     {
       "id": "c24206f08be9",
@@ -150,7 +105,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-john-mccauley-merck-sharp-and-dohme-usa/",
       "online": true,
-      "scraped_at": "2026-08-23T21:21:30.322520Z"
+      "scraped_at": "2026-08-24T21:29:00.062194Z"
     },
     {
       "id": "e64a688e03e5",
@@ -165,7 +120,22 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-indu-raman-immunity-division/",
       "online": true,
-      "scraped_at": "2026-08-23T21:21:31.521837Z"
+      "scraped_at": "2026-08-24T21:29:01.017436Z"
+    },
+    {
+      "id": "e3156aaa9999",
+      "institution": "WEHI",
+      "institution_color": "#003087",
+      "title": "Dr Miles Horton – Immunity division",
+      "date": "2026-09-09",
+      "time": "13:00",
+      "speaker": "Dr Miles Horton",
+      "affiliation": "Immunity division",
+      "location": "Davis Auditorium",
+      "abstract": null,
+      "url": "https://www.wehi.edu.au/event/dr-miles-horton-immunity-division/",
+      "online": true,
+      "scraped_at": "2026-08-24T21:29:02.173353Z"
     },
     {
       "id": "6e6a189519b9",
@@ -180,7 +150,22 @@
       "abstract": null,
       "url": "https://www.doherty.edu.au/event/hiv-cure-research-science-for-community-2/",
       "online": false,
-      "scraped_at": "2026-08-23T21:21:41.426991Z"
+      "scraped_at": "2026-08-24T21:29:11.876145Z"
+    },
+    {
+      "id": "0b7a68c3e572",
+      "institution": "WEHI",
+      "institution_color": "#003087",
+      "title": "Dr Brent Ryan – University of Oxford",
+      "date": "2026-09-15",
+      "time": "16:00",
+      "speaker": "Dr Brent Ryan",
+      "affiliation": "University of Oxford",
+      "location": "L7W Seminar Room",
+      "abstract": null,
+      "url": "https://www.wehi.edu.au/event/dr-brent-ryan-university-of-oxford/",
+      "online": true,
+      "scraped_at": "2026-08-24T21:29:03.130110Z"
     },
     {
       "id": "1ce089d00669",
@@ -195,7 +180,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/annelise-quig-molecular-sciences-division/",
       "online": true,
-      "scraped_at": "2026-08-23T21:21:32.899603Z"
+      "scraped_at": "2026-08-24T21:29:04.080040Z"
     },
     {
       "id": "134170468b7e",
@@ -210,7 +195,22 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/gabrielle-white-molecular-sciences-division/",
       "online": true,
-      "scraped_at": "2026-08-23T21:21:34.123014Z"
+      "scraped_at": "2026-08-24T21:29:05.028600Z"
+    },
+    {
+      "id": "87bc1245e362",
+      "institution": "WEHI",
+      "institution_color": "#003087",
+      "title": "Professor Bas Bloem – Radboudumc Center of Expertise for Parkinson & Movement Disorders",
+      "date": "2026-09-24",
+      "time": "16:00",
+      "speaker": "Professor Bas Bloem",
+      "affiliation": "Radboudumc Center of Expertise for Parkinson & Movement Disorders",
+      "location": "L7W Seminar Room",
+      "abstract": null,
+      "url": "https://www.wehi.edu.au/event/professor-bas-bloem-radboudumc-center-of-expertise-for-parkinson-movement-disorders/",
+      "online": true,
+      "scraped_at": "2026-08-24T21:29:06.038408Z"
     },
     {
       "id": "cb3005dfb0f2",
@@ -225,7 +225,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-tony-cesare-childrens-medical-research-institute/",
       "online": true,
-      "scraped_at": "2026-08-23T21:21:35.317644Z"
+      "scraped_at": "2026-08-24T21:29:06.466588Z"
     },
     {
       "id": "37a0fd206472",
@@ -240,7 +240,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/twist-bioscience-technical-and-networking-seminar/",
       "online": true,
-      "scraped_at": "2026-08-23T21:21:36.437333Z"
+      "scraped_at": "2026-08-24T21:29:07.635648Z"
     },
     {
       "id": "dc4462745d9c",
@@ -255,7 +255,7 @@
       "abstract": null,
       "url": "https://www.doherty.edu.au/event/world-flu-day-2026-symposium/",
       "online": true,
-      "scraped_at": "2026-08-23T21:21:43.525108Z"
+      "scraped_at": "2026-08-24T21:29:13.543387Z"
     }
   ]
 }
