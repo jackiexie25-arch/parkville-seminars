@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T05:09:04.994957Z",
+  "generated_at": "2026-08-29T03:06:32.285664Z",
   "total": 15,
   "seminars": [
     {
@@ -15,7 +15,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-matthew-dixon-immunity-division/",
       "online": true,
-      "scraped_at": "2026-08-28T05:07:49.352947Z"
+      "scraped_at": "2026-08-29T03:05:30.543625Z"
     },
     {
       "id": "7a675e983fcc",
@@ -30,7 +30,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-anna-le-fevre-molecular-sciences-division/",
       "online": true,
-      "scraped_at": "2026-08-28T05:07:50.553536Z"
+      "scraped_at": "2026-08-29T03:05:30.849440Z"
     },
     {
       "id": "a1675de921a5",
@@ -45,7 +45,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-katherine-knight-loyola-university-chicago/",
       "online": true,
-      "scraped_at": "2026-08-28T05:07:51.806705Z"
+      "scraped_at": "2026-08-29T03:05:31.159347Z"
     },
     {
       "id": "c24206f08be9",
@@ -60,7 +60,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-john-mccauley-merck-sharp-and-dohme-usa/",
       "online": true,
-      "scraped_at": "2026-08-28T05:07:52.968288Z"
+      "scraped_at": "2026-08-29T03:05:31.462146Z"
     },
     {
       "id": "e64a688e03e5",
@@ -75,7 +75,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-indu-raman-immunity-division/",
       "online": true,
-      "scraped_at": "2026-08-28T05:07:54.204904Z"
+      "scraped_at": "2026-08-29T03:05:31.766993Z"
     },
     {
       "id": "e3156aaa9999",
@@ -90,7 +90,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-miles-horton-immunity-division/",
       "online": true,
-      "scraped_at": "2026-08-28T05:07:55.466247Z"
+      "scraped_at": "2026-08-29T03:05:32.071866Z"
     },
     {
       "id": "6e6a189519b9",
@@ -105,7 +105,7 @@
       "abstract": null,
       "url": "https://www.doherty.edu.au/event/hiv-cure-research-science-for-community-2/",
       "online": false,
-      "scraped_at": "2026-08-28T05:08:08.894497Z"
+      "scraped_at": "2026-08-29T03:05:45.507374Z"
     },
     {
       "id": "0b7a68c3e572",
@@ -120,7 +120,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-brent-ryan-university-of-oxford/",
       "online": true,
-      "scraped_at": "2026-08-28T05:07:56.786370Z"
+      "scraped_at": "2026-08-29T03:05:32.382011Z"
     },
     {
       "id": "1ce089d00669",
@@ -135,7 +135,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/annelise-quig-molecular-sciences-division/",
       "online": true,
-      "scraped_at": "2026-08-28T05:07:57.928802Z"
+      "scraped_at": "2026-08-29T03:05:33.504482Z"
     },
     {
       "id": "6a37041f8ba0",
@@ -150,7 +150,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-ralph-grand-heidelberg-university/",
       "online": true,
-      "scraped_at": "2026-08-28T05:07:59.181621Z"
+      "scraped_at": "2026-08-29T03:05:34.524225Z"
     },
     {
       "id": "134170468b7e",
@@ -165,7 +165,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/gabrielle-white-molecular-sciences-division/",
       "online": true,
-      "scraped_at": "2026-08-28T05:08:00.354757Z"
+      "scraped_at": "2026-08-29T03:05:35.790075Z"
     },
     {
       "id": "87bc1245e362",
@@ -180,7 +180,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-bas-bloem-radboudumc-center-of-expertise-for-parkinson-movement-disorders/",
       "online": true,
-      "scraped_at": "2026-08-28T05:08:01.654771Z"
+      "scraped_at": "2026-08-29T03:05:37.120907Z"
     },
     {
       "id": "cb3005dfb0f2",
@@ -195,7 +195,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-tony-cesare-childrens-medical-research-institute/",
       "online": true,
-      "scraped_at": "2026-08-28T05:08:03.083699Z"
+      "scraped_at": "2026-08-29T03:05:38.306389Z"
     },
     {
       "id": "37a0fd206472",
@@ -210,7 +210,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/twist-bioscience-technical-and-networking-seminar/",
       "online": true,
-      "scraped_at": "2026-08-28T05:08:04.286823Z"
+      "scraped_at": "2026-08-29T03:05:39.544390Z"
     },
     {
       "id": "dc4462745d9c",
@@ -225,7 +225,7 @@
       "abstract": null,
       "url": "https://www.doherty.edu.au/event/world-flu-day-2026-symposium/",
       "online": true,
-      "scraped_at": "2026-08-28T05:08:10.779066Z"
+      "scraped_at": "2026-08-29T03:05:47.624338Z"
     }
   ]
 }
