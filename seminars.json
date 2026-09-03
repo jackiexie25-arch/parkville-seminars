@@ -1,7 +1,37 @@
 {
-  "generated_at": "2026-09-02T23:02:16.387269Z",
-  "total": 17,
+  "generated_at": "2026-09-03T23:01:25.893671Z",
+  "total": 19,
   "seminars": [
+    {
+      "id": "175eac46ec3a",
+      "institution": "Royal Melbourne Hospital",
+      "institution_color": "#0066CC",
+      "title": "Please, don't fall for scams",
+      "date": "2026-09-03",
+      "time": null,
+      "speaker": null,
+      "affiliation": null,
+      "location": null,
+      "abstract": null,
+      "url": "https://www.thermh.org.au",
+      "online": false,
+      "scraped_at": "2026-09-03T23:01:16.772651Z"
+    },
+    {
+      "id": "1e9eb53d454f",
+      "institution": "Royal Melbourne Hospital",
+      "institution_color": "#0066CC",
+      "title": "News and events",
+      "date": "2026-09-03",
+      "time": null,
+      "speaker": null,
+      "affiliation": null,
+      "location": null,
+      "abstract": null,
+      "url": "https://www.thermh.org.au/news",
+      "online": false,
+      "scraped_at": "2026-09-03T23:01:17.039987Z"
+    },
     {
       "id": "a1675de921a5",
       "institution": "WEHI",
@@ -15,7 +45,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-katherine-knight-loyola-university-chicago/",
       "online": true,
-      "scraped_at": "2026-09-02T23:01:20.411130Z"
+      "scraped_at": "2026-09-03T22:59:53.816793Z"
     },
     {
       "id": "c24206f08be9",
@@ -30,7 +60,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-john-mccauley-merck-sharp-and-dohme-usa/",
       "online": true,
-      "scraped_at": "2026-09-02T23:01:21.321005Z"
+      "scraped_at": "2026-09-03T22:59:55.008170Z"
     },
     {
       "id": "e64a688e03e5",
@@ -45,7 +75,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-indu-raman-immunity-division/",
       "online": true,
-      "scraped_at": "2026-09-02T23:01:22.237957Z"
+      "scraped_at": "2026-09-03T22:59:55.370201Z"
     },
     {
       "id": "e3156aaa9999",
@@ -60,7 +90,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-miles-horton-immunity-division/",
       "online": true,
-      "scraped_at": "2026-09-02T23:01:23.274890Z"
+      "scraped_at": "2026-09-03T22:59:56.273625Z"
     },
     {
       "id": "8891448103be",
@@ -75,7 +105,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-carolyn-sue-am-neuroscience-research-australia-neura/",
       "online": true,
-      "scraped_at": "2026-09-02T23:01:24.181377Z"
+      "scraped_at": "2026-09-03T22:59:57.191355Z"
     },
     {
       "id": "6e6a189519b9",
@@ -90,7 +120,7 @@
       "abstract": null,
       "url": "https://www.doherty.edu.au/event/hiv-cure-research-science-for-community-2/",
       "online": false,
-      "scraped_at": "2026-09-02T23:01:37.183937Z"
+      "scraped_at": "2026-09-03T23:00:14.590590Z"
     },
     {
       "id": "6a9a32759dc8",
@@ -105,7 +135,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/marilyn-jones-and-damian-doyle-mexec/",
       "online": true,
-      "scraped_at": "2026-09-02T23:01:25.104593Z"
+      "scraped_at": "2026-09-03T22:59:58.375105Z"
     },
     {
       "id": "0b7a68c3e572",
@@ -120,7 +150,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-brent-ryan-university-of-oxford/",
       "online": true,
-      "scraped_at": "2026-09-02T23:01:26.008842Z"
+      "scraped_at": "2026-09-03T22:59:59.579626Z"
     },
     {
       "id": "e48783c54d0c",
@@ -135,7 +165,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/esmaeel-azadian-immunity-division/",
       "online": true,
-      "scraped_at": "2026-09-02T23:01:27.109238Z"
+      "scraped_at": "2026-09-03T23:00:00.774314Z"
     },
     {
       "id": "1ce089d00669",
@@ -150,7 +180,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/annelise-quig-molecular-sciences-division/",
       "online": true,
-      "scraped_at": "2026-09-02T23:01:28.019078Z"
+      "scraped_at": "2026-09-03T23:00:02.215527Z"
     },
     {
       "id": "6a37041f8ba0",
@@ -165,7 +195,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-ralph-grand-heidelberg-university/",
       "online": true,
-      "scraped_at": "2026-09-02T23:01:28.424416Z"
+      "scraped_at": "2026-09-03T23:00:03.729010Z"
     },
     {
       "id": "704f8459f18f",
@@ -180,7 +210,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/jung-chi-liao-syncell/",
       "online": true,
-      "scraped_at": "2026-09-02T23:01:29.399108Z"
+      "scraped_at": "2026-09-03T23:00:04.964923Z"
     },
     {
       "id": "134170468b7e",
@@ -195,7 +225,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/gabrielle-white-molecular-sciences-division/",
       "online": true,
-      "scraped_at": "2026-09-02T23:01:30.374459Z"
+      "scraped_at": "2026-09-03T23:00:06.235550Z"
     },
     {
       "id": "87bc1245e362",
@@ -210,7 +240,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-bas-bloem-radboudumc-center-of-expertise-for-parkinson-movement-disorders/",
       "online": true,
-      "scraped_at": "2026-09-02T23:01:31.388411Z"
+      "scraped_at": "2026-09-03T23:00:07.720430Z"
     },
     {
       "id": "cb3005dfb0f2",
@@ -225,7 +255,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-tony-cesare-childrens-medical-research-institute/",
       "online": true,
-      "scraped_at": "2026-09-02T23:01:32.411532Z"
+      "scraped_at": "2026-09-03T23:00:09.072887Z"
     },
     {
       "id": "37a0fd206472",
@@ -240,7 +270,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/twist-bioscience-technical-and-networking-seminar/",
       "online": true,
-      "scraped_at": "2026-09-02T23:01:32.813887Z"
+      "scraped_at": "2026-09-03T23:00:09.681327Z"
     },
     {
       "id": "dc4462745d9c",
@@ -255,7 +285,7 @@
       "abstract": null,
       "url": "https://www.doherty.edu.au/event/world-flu-day-2026-symposium/",
       "online": true,
-      "scraped_at": "2026-09-02T23:01:38.868354Z"
+      "scraped_at": "2026-09-03T23:00:16.482370Z"
     }
   ]
 }
