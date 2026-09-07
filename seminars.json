@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T22:45:09.247528Z",
+  "generated_at": "2026-09-07T23:19:29.018077Z",
   "total": 14,
   "seminars": [
     {
@@ -15,7 +15,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-miles-horton-immunity-division/",
       "online": true,
-      "scraped_at": "2026-09-06T22:43:48.337081Z"
+      "scraped_at": "2026-09-07T23:18:21.005810Z"
     },
     {
       "id": "8891448103be",
@@ -30,7 +30,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-carolyn-sue-am-neuroscience-research-australia-neura/",
       "online": true,
-      "scraped_at": "2026-09-06T22:43:49.734910Z"
+      "scraped_at": "2026-09-07T23:18:21.274011Z"
     },
     {
       "id": "6e6a189519b9",
@@ -45,7 +45,7 @@
       "abstract": null,
       "url": "https://www.doherty.edu.au/event/hiv-cure-research-science-for-community-2/",
       "online": false,
-      "scraped_at": "2026-09-06T22:44:09.314371Z"
+      "scraped_at": "2026-09-07T23:18:35.849477Z"
     },
     {
       "id": "6a9a32759dc8",
@@ -60,7 +60,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/marilyn-jones-and-damian-doyle-mexec/",
       "online": true,
-      "scraped_at": "2026-09-06T22:43:50.165147Z"
+      "scraped_at": "2026-09-07T23:18:21.566012Z"
     },
     {
       "id": "0b7a68c3e572",
@@ -75,7 +75,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-brent-ryan-university-of-oxford/",
       "online": true,
-      "scraped_at": "2026-09-06T22:43:51.732174Z"
+      "scraped_at": "2026-09-07T23:18:22.644034Z"
     },
     {
       "id": "e48783c54d0c",
@@ -90,7 +90,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/esmaeel-azadian-immunity-division/",
       "online": true,
-      "scraped_at": "2026-09-06T22:43:53.187172Z"
+      "scraped_at": "2026-09-07T23:18:23.719018Z"
     },
     {
       "id": "1ce089d00669",
@@ -105,7 +105,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/annelise-quig-molecular-sciences-division/",
       "online": true,
-      "scraped_at": "2026-09-06T22:43:54.548931Z"
+      "scraped_at": "2026-09-07T23:18:24.860513Z"
     },
     {
       "id": "6a37041f8ba0",
@@ -120,7 +120,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-ralph-grand-heidelberg-university/",
       "online": true,
-      "scraped_at": "2026-09-06T22:43:56.004545Z"
+      "scraped_at": "2026-09-07T23:18:25.940514Z"
     },
     {
       "id": "704f8459f18f",
@@ -135,7 +135,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/jung-chi-liao-syncell/",
       "online": true,
-      "scraped_at": "2026-09-06T22:43:57.368404Z"
+      "scraped_at": "2026-09-07T23:18:27.032536Z"
     },
     {
       "id": "134170468b7e",
@@ -150,7 +150,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/gabrielle-white-molecular-sciences-division/",
       "online": true,
-      "scraped_at": "2026-09-06T22:43:59.021440Z"
+      "scraped_at": "2026-09-07T23:18:28.064017Z"
     },
     {
       "id": "87bc1245e362",
@@ -165,7 +165,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-bas-bloem-radboudumc-center-of-expertise-for-parkinson-movement-disorders/",
       "online": true,
-      "scraped_at": "2026-09-06T22:44:00.403370Z"
+      "scraped_at": "2026-09-07T23:18:28.490029Z"
     },
     {
       "id": "cb3005dfb0f2",
@@ -180,7 +180,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-tony-cesare-childrens-medical-research-institute/",
       "online": true,
-      "scraped_at": "2026-09-06T22:44:01.907330Z"
+      "scraped_at": "2026-09-07T23:18:29.559034Z"
     },
     {
       "id": "37a0fd206472",
@@ -195,7 +195,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/twist-bioscience-technical-and-networking-seminar/",
       "online": true,
-      "scraped_at": "2026-09-06T22:44:03.386717Z"
+      "scraped_at": "2026-09-07T23:18:30.594704Z"
     },
     {
       "id": "dc4462745d9c",
@@ -210,7 +210,7 @@
       "abstract": null,
       "url": "https://www.doherty.edu.au/event/world-flu-day-2026-symposium/",
       "online": true,
-      "scraped_at": "2026-09-06T22:44:11.505897Z"
+      "scraped_at": "2026-09-07T23:18:37.470741Z"
     }
   ]
 }
