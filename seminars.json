@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T23:13:55.488689Z",
+  "generated_at": "2026-09-09T22:59:59.889584Z",
   "total": 13,
   "seminars": [
     {
@@ -15,7 +15,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-carolyn-sue-am-neuroscience-research-australia-neura/",
       "online": true,
-      "scraped_at": "2026-09-08T23:13:06.040871Z"
+      "scraped_at": "2026-09-09T22:58:25.371276Z"
     },
     {
       "id": "6e6a189519b9",
@@ -30,7 +30,7 @@
       "abstract": null,
       "url": "https://www.doherty.edu.au/event/hiv-cure-research-science-for-community-2/",
       "online": false,
-      "scraped_at": "2026-09-08T23:13:20.043303Z"
+      "scraped_at": "2026-09-09T22:58:39.977241Z"
     },
     {
       "id": "6a9a32759dc8",
@@ -45,7 +45,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/marilyn-jones-and-damian-doyle-mexec/",
       "online": true,
-      "scraped_at": "2026-09-08T23:13:06.324859Z"
+      "scraped_at": "2026-09-09T22:58:25.783456Z"
     },
     {
       "id": "0b7a68c3e572",
@@ -60,7 +60,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-brent-ryan-university-of-oxford/",
       "online": true,
-      "scraped_at": "2026-09-08T23:13:06.614870Z"
+      "scraped_at": "2026-09-09T22:58:26.220855Z"
     },
     {
       "id": "e48783c54d0c",
@@ -75,7 +75,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/esmaeel-azadian-immunity-division/",
       "online": true,
-      "scraped_at": "2026-09-08T23:13:07.614610Z"
+      "scraped_at": "2026-09-09T22:58:26.645598Z"
     },
     {
       "id": "1ce089d00669",
@@ -90,7 +90,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/annelise-quig-molecular-sciences-division/",
       "online": true,
-      "scraped_at": "2026-09-08T23:13:07.890414Z"
+      "scraped_at": "2026-09-09T22:58:28.102885Z"
     },
     {
       "id": "6a37041f8ba0",
@@ -105,7 +105,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-ralph-grand-heidelberg-university/",
       "online": true,
-      "scraped_at": "2026-09-08T23:13:08.988999Z"
+      "scraped_at": "2026-09-09T22:58:28.517057Z"
     },
     {
       "id": "704f8459f18f",
@@ -120,7 +120,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/jung-chi-liao-syncell/",
       "online": true,
-      "scraped_at": "2026-09-08T23:13:10.272655Z"
+      "scraped_at": "2026-09-09T22:58:28.929314Z"
     },
     {
       "id": "134170468b7e",
@@ -135,7 +135,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/gabrielle-white-molecular-sciences-division/",
       "online": true,
-      "scraped_at": "2026-09-08T23:13:11.415021Z"
+      "scraped_at": "2026-09-09T22:58:29.940131Z"
     },
     {
       "id": "87bc1245e362",
@@ -150,7 +150,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-bas-bloem-radboudumc-center-of-expertise-for-parkinson-movement-disorders/",
       "online": true,
-      "scraped_at": "2026-09-08T23:13:12.619398Z"
+      "scraped_at": "2026-09-09T22:58:30.873199Z"
     },
     {
       "id": "cb3005dfb0f2",
@@ -165,7 +165,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-tony-cesare-childrens-medical-research-institute/",
       "online": true,
-      "scraped_at": "2026-09-08T23:13:13.775061Z"
+      "scraped_at": "2026-09-09T22:58:32.219859Z"
     },
     {
       "id": "37a0fd206472",
@@ -180,7 +180,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/twist-bioscience-technical-and-networking-seminar/",
       "online": true,
-      "scraped_at": "2026-09-08T23:13:14.851938Z"
+      "scraped_at": "2026-09-09T22:58:33.470966Z"
     },
     {
       "id": "dc4462745d9c",
@@ -195,7 +195,7 @@
       "abstract": null,
       "url": "https://www.doherty.edu.au/event/world-flu-day-2026-symposium/",
       "online": true,
-      "scraped_at": "2026-09-08T23:13:21.977834Z"
+      "scraped_at": "2026-09-09T22:58:42.574059Z"
     }
   ]
 }
