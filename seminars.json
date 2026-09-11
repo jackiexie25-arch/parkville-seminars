@@ -1,7 +1,37 @@
 {
-  "generated_at": "2026-09-10T22:58:17.949433Z",
-  "total": 13,
+  "generated_at": "2026-09-11T23:02:08.001529Z",
+  "total": 15,
   "seminars": [
+    {
+      "id": "3572569d064c",
+      "institution": "Royal Melbourne Hospital",
+      "institution_color": "#0066CC",
+      "title": "Please, don't fall for scams",
+      "date": "2026-09-11",
+      "time": null,
+      "speaker": null,
+      "affiliation": null,
+      "location": null,
+      "abstract": null,
+      "url": "https://www.thermh.org.au",
+      "online": false,
+      "scraped_at": "2026-09-11T23:01:54.190523Z"
+    },
+    {
+      "id": "87d3b41d3522",
+      "institution": "Royal Melbourne Hospital",
+      "institution_color": "#0066CC",
+      "title": "News and events",
+      "date": "2026-09-11",
+      "time": null,
+      "speaker": null,
+      "affiliation": null,
+      "location": null,
+      "abstract": null,
+      "url": "https://www.thermh.org.au/news",
+      "online": false,
+      "scraped_at": "2026-09-11T23:01:59.883453Z"
+    },
     {
       "id": "6e6a189519b9",
       "institution": "Doherty Institute",
@@ -15,7 +45,7 @@
       "abstract": null,
       "url": "https://www.doherty.edu.au/event/hiv-cure-research-science-for-community-2/",
       "online": false,
-      "scraped_at": "2026-09-10T22:57:27.313233Z"
+      "scraped_at": "2026-09-11T23:00:55.605681Z"
     },
     {
       "id": "6a9a32759dc8",
@@ -30,7 +60,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/marilyn-jones-and-damian-doyle-mexec/",
       "online": true,
-      "scraped_at": "2026-09-10T22:57:16.896727Z"
+      "scraped_at": "2026-09-11T23:00:44.593204Z"
     },
     {
       "id": "0b7a68c3e572",
@@ -45,7 +75,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-brent-ryan-university-of-oxford/",
       "online": true,
-      "scraped_at": "2026-09-10T22:57:17.187800Z"
+      "scraped_at": "2026-09-11T23:00:44.984211Z"
     },
     {
       "id": "e48783c54d0c",
@@ -60,7 +90,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/esmaeel-azadian-immunity-division/",
       "online": true,
-      "scraped_at": "2026-09-10T22:57:17.500777Z"
+      "scraped_at": "2026-09-11T23:00:46.091034Z"
     },
     {
       "id": "1ce089d00669",
@@ -75,7 +105,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/annelise-quig-molecular-sciences-division/",
       "online": true,
-      "scraped_at": "2026-09-10T22:57:17.790825Z"
+      "scraped_at": "2026-09-11T23:00:46.330767Z"
     },
     {
       "id": "8ad5a74c1994",
@@ -90,7 +120,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-timothy-patton-doherty-institute/",
       "online": true,
-      "scraped_at": "2026-09-10T22:57:18.079885Z"
+      "scraped_at": "2026-09-11T23:00:47.423247Z"
     },
     {
       "id": "6a37041f8ba0",
@@ -105,7 +135,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-ralph-grand-heidelberg-university/",
       "online": true,
-      "scraped_at": "2026-09-10T22:57:18.376529Z"
+      "scraped_at": "2026-09-11T23:00:48.432739Z"
     },
     {
       "id": "704f8459f18f",
@@ -120,7 +150,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/jung-chi-liao-syncell/",
       "online": true,
-      "scraped_at": "2026-09-10T22:57:18.672851Z"
+      "scraped_at": "2026-09-11T23:00:49.485787Z"
     },
     {
       "id": "134170468b7e",
@@ -135,7 +165,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/gabrielle-white-molecular-sciences-division/",
       "online": true,
-      "scraped_at": "2026-09-10T22:57:18.962284Z"
+      "scraped_at": "2026-09-11T23:00:49.881378Z"
     },
     {
       "id": "87bc1245e362",
@@ -150,7 +180,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-bas-bloem-radboudumc-center-of-expertise-for-parkinson-movement-disorders/",
       "online": true,
-      "scraped_at": "2026-09-10T22:57:19.256660Z"
+      "scraped_at": "2026-09-11T23:00:50.126985Z"
     },
     {
       "id": "cb3005dfb0f2",
@@ -165,7 +195,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-tony-cesare-childrens-medical-research-institute/",
       "online": true,
-      "scraped_at": "2026-09-10T22:57:19.542969Z"
+      "scraped_at": "2026-09-11T23:00:50.392392Z"
     },
     {
       "id": "37a0fd206472",
@@ -180,7 +210,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/twist-bioscience-technical-and-networking-seminar/",
       "online": true,
-      "scraped_at": "2026-09-10T22:57:19.840017Z"
+      "scraped_at": "2026-09-11T23:00:51.412775Z"
     },
     {
       "id": "dc4462745d9c",
@@ -195,7 +225,7 @@
       "abstract": null,
       "url": "https://www.doherty.edu.au/event/world-flu-day-2026-symposium/",
       "online": true,
-      "scraped_at": "2026-09-10T22:57:32.415155Z"
+      "scraped_at": "2026-09-11T23:00:57.293843Z"
     }
   ]
 }
