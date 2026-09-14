@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T22:56:55.780218Z",
-  "total": 12,
+  "generated_at": "2026-09-14T23:43:40.695904Z",
+  "total": 14,
   "seminars": [
     {
       "id": "6e6a189519b9",
@@ -15,22 +15,7 @@
       "abstract": null,
       "url": "https://www.doherty.edu.au/event/hiv-cure-research-science-for-community-2/",
       "online": false,
-      "scraped_at": "2026-09-13T22:55:38.597503Z"
-    },
-    {
-      "id": "0b7a68c3e572",
-      "institution": "WEHI",
-      "institution_color": "#003087",
-      "title": "Dr Brent Ryan – University of Oxford",
-      "date": "2026-09-15",
-      "time": "16:00",
-      "speaker": "Dr Brent Ryan",
-      "affiliation": "University of Oxford",
-      "location": "L7W Seminar Room",
-      "abstract": null,
-      "url": "https://www.wehi.edu.au/event/dr-brent-ryan-university-of-oxford/",
-      "online": true,
-      "scraped_at": "2026-09-13T22:55:29.273550Z"
+      "scraped_at": "2026-09-14T23:42:19.405826Z"
     },
     {
       "id": "e48783c54d0c",
@@ -45,7 +30,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/esmaeel-azadian-immunity-division/",
       "online": true,
-      "scraped_at": "2026-09-13T22:55:29.588447Z"
+      "scraped_at": "2026-09-14T23:42:03.747151Z"
     },
     {
       "id": "1ce089d00669",
@@ -60,7 +45,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/annelise-quig-molecular-sciences-division/",
       "online": true,
-      "scraped_at": "2026-09-13T22:55:29.937262Z"
+      "scraped_at": "2026-09-14T23:42:04.159412Z"
     },
     {
       "id": "8ad5a74c1994",
@@ -75,7 +60,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-timothy-patton-doherty-institute/",
       "online": true,
-      "scraped_at": "2026-09-13T22:55:30.253963Z"
+      "scraped_at": "2026-09-14T23:42:05.203053Z"
     },
     {
       "id": "6a37041f8ba0",
@@ -90,7 +75,22 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-ralph-grand-heidelberg-university/",
       "online": true,
-      "scraped_at": "2026-09-13T22:55:30.570790Z"
+      "scraped_at": "2026-09-14T23:42:06.678423Z"
+    },
+    {
+      "id": "64f4861cd9b9",
+      "institution": "WEHI",
+      "institution_color": "#003087",
+      "title": "Professor Jennifer Byrne – NSW Health & University of Sydney",
+      "date": "2026-09-22",
+      "time": "13:00",
+      "speaker": "Professor Jennifer Byrne",
+      "affiliation": "NSW Health & University of Sydney",
+      "location": "Davis Auditorium",
+      "abstract": null,
+      "url": "https://www.wehi.edu.au/event/professor-jennifer-byrne-nsw-health-university-of-sydney/",
+      "online": true,
+      "scraped_at": "2026-09-14T23:42:07.097717Z"
     },
     {
       "id": "704f8459f18f",
@@ -105,7 +105,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/jung-chi-liao-syncell/",
       "online": true,
-      "scraped_at": "2026-09-13T22:55:30.891542Z"
+      "scraped_at": "2026-09-14T23:42:07.511764Z"
     },
     {
       "id": "134170468b7e",
@@ -120,7 +120,22 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/gabrielle-white-molecular-sciences-division/",
       "online": true,
-      "scraped_at": "2026-09-13T22:55:31.213444Z"
+      "scraped_at": "2026-09-14T23:42:08.538289Z"
+    },
+    {
+      "id": "06a7afe98fb1",
+      "institution": "WEHI",
+      "institution_color": "#003087",
+      "title": "Dr Givanna Putri & Dr Pradeep Rajasekhar – Tech Sciences division",
+      "date": "2026-09-24",
+      "time": "12:00",
+      "speaker": "Dr Givanna Putri & Dr Pradeep Rajasekhar",
+      "affiliation": "Tech Sciences division",
+      "location": "Davis Auditorium",
+      "abstract": null,
+      "url": "https://www.wehi.edu.au/event/dr-givanna-putri-dr-pradeep-rajasekhar-tech-sciences-division/",
+      "online": true,
+      "scraped_at": "2026-09-14T23:42:09.911314Z"
     },
     {
       "id": "87bc1245e362",
@@ -135,7 +150,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-bas-bloem-radboudumc-center-of-expertise-for-parkinson-movement-disorders/",
       "online": true,
-      "scraped_at": "2026-09-13T22:55:31.532992Z"
+      "scraped_at": "2026-09-14T23:42:11.214013Z"
     },
     {
       "id": "cb3005dfb0f2",
@@ -150,7 +165,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-tony-cesare-childrens-medical-research-institute/",
       "online": true,
-      "scraped_at": "2026-09-13T22:55:31.859210Z"
+      "scraped_at": "2026-09-14T23:42:12.538676Z"
     },
     {
       "id": "37a0fd206472",
@@ -165,7 +180,22 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/twist-bioscience-technical-and-networking-seminar/",
       "online": true,
-      "scraped_at": "2026-09-13T22:55:32.179235Z"
+      "scraped_at": "2026-09-14T23:42:12.946111Z"
+    },
+    {
+      "id": "40c81bbcd856",
+      "institution": "WEHI",
+      "institution_color": "#003087",
+      "title": "Andreas Dumortier – WEHI and Hudston Institute",
+      "date": "2026-10-02",
+      "time": "12:00",
+      "speaker": "Andreas Dumortier",
+      "affiliation": "WEHI and Hudston Institute",
+      "location": "Davis Auditorium",
+      "abstract": null,
+      "url": "https://www.wehi.edu.au/event/andreas-dumortier-wehi-and-hudston-institute/",
+      "online": true,
+      "scraped_at": "2026-09-14T23:42:14.337428Z"
     },
     {
       "id": "dc4462745d9c",
@@ -180,7 +210,7 @@
       "abstract": null,
       "url": "https://www.doherty.edu.au/event/world-flu-day-2026-symposium/",
       "online": true,
-      "scraped_at": "2026-09-13T22:55:40.589807Z"
+      "scraped_at": "2026-09-14T23:42:21.960161Z"
     }
   ]
 }
