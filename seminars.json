@@ -1,37 +1,7 @@
 {
-  "generated_at": "2026-09-15T23:27:44.949988Z",
+  "generated_at": "2026-09-16T23:34:52.430758Z",
   "total": 12,
   "seminars": [
-    {
-      "id": "1ce089d00669",
-      "institution": "WEHI",
-      "institution_color": "#003087",
-      "title": "Annelise Quig – Molecular Sciences division",
-      "date": "2026-09-17",
-      "time": "11:00",
-      "speaker": "Annelise Quig",
-      "affiliation": "Molecular Sciences division",
-      "location": "Davis Auditorium",
-      "abstract": null,
-      "url": "https://www.wehi.edu.au/event/annelise-quig-molecular-sciences-division/",
-      "online": true,
-      "scraped_at": "2026-09-15T23:26:35.372779Z"
-    },
-    {
-      "id": "8ad5a74c1994",
-      "institution": "WEHI",
-      "institution_color": "#003087",
-      "title": "Dr Timothy Patton – Doherty Institute",
-      "date": "2026-09-17",
-      "time": "13:00",
-      "speaker": "Dr Timothy Patton",
-      "affiliation": "Doherty Institute",
-      "location": "Davis Auditorium",
-      "abstract": null,
-      "url": "https://www.wehi.edu.au/event/dr-timothy-patton-doherty-institute/",
-      "online": true,
-      "scraped_at": "2026-09-15T23:26:36.958166Z"
-    },
     {
       "id": "6a37041f8ba0",
       "institution": "WEHI",
@@ -45,7 +15,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-ralph-grand-heidelberg-university/",
       "online": true,
-      "scraped_at": "2026-09-15T23:26:38.603585Z"
+      "scraped_at": "2026-09-16T23:33:48.650485Z"
     },
     {
       "id": "64f4861cd9b9",
@@ -60,7 +30,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-jennifer-byrne-nsw-health-university-of-sydney/",
       "online": true,
-      "scraped_at": "2026-09-15T23:26:39.676356Z"
+      "scraped_at": "2026-09-16T23:33:49.175293Z"
     },
     {
       "id": "704f8459f18f",
@@ -75,7 +45,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/jung-chi-liao-syncell/",
       "online": true,
-      "scraped_at": "2026-09-15T23:26:40.787730Z"
+      "scraped_at": "2026-09-16T23:33:49.507386Z"
     },
     {
       "id": "134170468b7e",
@@ -90,7 +60,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/gabrielle-white-molecular-sciences-division/",
       "online": true,
-      "scraped_at": "2026-09-15T23:26:41.981880Z"
+      "scraped_at": "2026-09-16T23:33:49.887164Z"
     },
     {
       "id": "06a7afe98fb1",
@@ -105,7 +75,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-givanna-putri-dr-pradeep-rajasekhar-tech-sciences-division/",
       "online": true,
-      "scraped_at": "2026-09-15T23:26:43.173924Z"
+      "scraped_at": "2026-09-16T23:33:51.098705Z"
     },
     {
       "id": "87bc1245e362",
@@ -120,7 +90,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-bas-bloem-radboudumc-center-of-expertise-for-parkinson-movement-disorders/",
       "online": true,
-      "scraped_at": "2026-09-15T23:26:44.239572Z"
+      "scraped_at": "2026-09-16T23:33:52.323868Z"
     },
     {
       "id": "cb3005dfb0f2",
@@ -135,7 +105,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-tony-cesare-childrens-medical-research-institute/",
       "online": true,
-      "scraped_at": "2026-09-15T23:26:45.315761Z"
+      "scraped_at": "2026-09-16T23:33:53.570848Z"
     },
     {
       "id": "37a0fd206472",
@@ -150,7 +120,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/twist-bioscience-technical-and-networking-seminar/",
       "online": true,
-      "scraped_at": "2026-09-15T23:26:45.814656Z"
+      "scraped_at": "2026-09-16T23:33:54.397835Z"
     },
     {
       "id": "40c81bbcd856",
@@ -165,7 +135,37 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/andreas-dumortier-wehi-and-hudston-institute/",
       "online": true,
-      "scraped_at": "2026-09-15T23:26:46.921190Z"
+      "scraped_at": "2026-09-16T23:33:55.499951Z"
+    },
+    {
+      "id": "5bf5a5f3ebd5",
+      "institution": "WEHI",
+      "institution_color": "#003087",
+      "title": "Dr Hannah Coughlan – Technological Sciences division",
+      "date": "2026-10-21",
+      "time": "13:00",
+      "speaker": "Dr Hannah Coughlan",
+      "affiliation": "Technological Sciences division",
+      "location": "Davis Auditorium",
+      "abstract": null,
+      "url": "https://www.wehi.edu.au/event/dr-hannah-coughlan-technological-sciences-division/",
+      "online": true,
+      "scraped_at": "2026-09-16T23:33:56.762562Z"
+    },
+    {
+      "id": "5a0480cba5c6",
+      "institution": "WEHI",
+      "institution_color": "#003087",
+      "title": "Dr Raymond Yip – Inflammation division",
+      "date": "2026-10-28",
+      "time": "13:00",
+      "speaker": "Dr Raymond Yip",
+      "affiliation": "Inflammation division",
+      "location": "Davis Auditorium",
+      "abstract": null,
+      "url": "https://www.wehi.edu.au/event/dr-raymond-yip-inflammation-division/",
+      "online": true,
+      "scraped_at": "2026-09-16T23:33:57.290440Z"
     },
     {
       "id": "dc4462745d9c",
@@ -180,7 +180,7 @@
       "abstract": null,
       "url": "https://www.doherty.edu.au/event/world-flu-day-2026-symposium/",
       "online": true,
-      "scraped_at": "2026-09-15T23:26:54.131055Z"
+      "scraped_at": "2026-09-16T23:34:03.878408Z"
     }
   ]
 }
