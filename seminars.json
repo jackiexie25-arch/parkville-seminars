@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-09-16T23:34:52.430758Z",
-  "total": 12,
+  "generated_at": "2026-09-17T23:25:18.770505Z",
+  "total": 14,
   "seminars": [
     {
-      "id": "6a37041f8ba0",
-      "institution": "WEHI",
-      "institution_color": "#003087",
-      "title": "Dr Ralph Grand – Heidelberg University",
-      "date": "2026-09-18",
-      "time": "12:00",
-      "speaker": "Dr Ralph Grand",
-      "affiliation": "Heidelberg University",
-      "location": "L7W Seminar Room",
-      "abstract": null,
-      "url": "https://www.wehi.edu.au/event/dr-ralph-grand-heidelberg-university/",
+      "id": "980ec40ecf8f",
+      "institution": "Melbourne Bioinformatics",
+      "institution_color": "#005A8E",
+      "title": "Events",
+      "date": "2026-09-19",
+      "time": null,
+      "speaker": null,
+      "affiliation": null,
+      "location": "Online",
+      "abstract": "Museums and Collections at the University of Melbourne We warmly invite families, young people, members and allies of the deaf community to Science Gallery Melbourne’s free Deaf Art Science Festival on Saturday 19 September 2026.",
+      "url": "https://events.unimelb.edu.au/live/events/54773-deaf-art-science-festival",
       "online": true,
-      "scraped_at": "2026-09-16T23:33:48.650485Z"
+      "scraped_at": "2026-09-17T23:24:58.885184Z"
     },
     {
       "id": "64f4861cd9b9",
@@ -30,7 +30,22 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-jennifer-byrne-nsw-health-university-of-sydney/",
       "online": true,
-      "scraped_at": "2026-09-16T23:33:49.175293Z"
+      "scraped_at": "2026-09-17T23:24:19.274878Z"
+    },
+    {
+      "id": "a101442c7641",
+      "institution": "WEHI",
+      "institution_color": "#003087",
+      "title": "Dr Chelsea Mayoh – Children’s Cancer Institute",
+      "date": "2026-09-22",
+      "time": "14:00",
+      "speaker": "Dr Chelsea Mayoh",
+      "affiliation": "Children’s Cancer Institute",
+      "location": "L3C Seminar Room",
+      "abstract": null,
+      "url": "https://www.wehi.edu.au/event/dr-chelsea-mayoh-childrens-cancer-institute/",
+      "online": true,
+      "scraped_at": "2026-09-17T23:24:19.607998Z"
     },
     {
       "id": "704f8459f18f",
@@ -45,7 +60,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/jung-chi-liao-syncell/",
       "online": true,
-      "scraped_at": "2026-09-16T23:33:49.507386Z"
+      "scraped_at": "2026-09-17T23:24:19.952201Z"
     },
     {
       "id": "134170468b7e",
@@ -60,7 +75,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/gabrielle-white-molecular-sciences-division/",
       "online": true,
-      "scraped_at": "2026-09-16T23:33:49.887164Z"
+      "scraped_at": "2026-09-17T23:24:20.268920Z"
     },
     {
       "id": "06a7afe98fb1",
@@ -75,7 +90,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-givanna-putri-dr-pradeep-rajasekhar-tech-sciences-division/",
       "online": true,
-      "scraped_at": "2026-09-16T23:33:51.098705Z"
+      "scraped_at": "2026-09-17T23:24:20.627129Z"
     },
     {
       "id": "87bc1245e362",
@@ -90,7 +105,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-bas-bloem-radboudumc-center-of-expertise-for-parkinson-movement-disorders/",
       "online": true,
-      "scraped_at": "2026-09-16T23:33:52.323868Z"
+      "scraped_at": "2026-09-17T23:24:21.731228Z"
     },
     {
       "id": "cb3005dfb0f2",
@@ -105,7 +120,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-tony-cesare-childrens-medical-research-institute/",
       "online": true,
-      "scraped_at": "2026-09-16T23:33:53.570848Z"
+      "scraped_at": "2026-09-17T23:24:22.047432Z"
     },
     {
       "id": "37a0fd206472",
@@ -120,7 +135,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/twist-bioscience-technical-and-networking-seminar/",
       "online": true,
-      "scraped_at": "2026-09-16T23:33:54.397835Z"
+      "scraped_at": "2026-09-17T23:24:22.367418Z"
     },
     {
       "id": "40c81bbcd856",
@@ -135,7 +150,22 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/andreas-dumortier-wehi-and-hudston-institute/",
       "online": true,
-      "scraped_at": "2026-09-16T23:33:55.499951Z"
+      "scraped_at": "2026-09-17T23:24:22.684757Z"
+    },
+    {
+      "id": "dd3fbbb015b6",
+      "institution": "WEHI",
+      "institution_color": "#003087",
+      "title": "Professor Chen Dong – Westlake University",
+      "date": "2026-10-07",
+      "time": "15:00",
+      "speaker": "Professor Chen Dong",
+      "affiliation": "Westlake University",
+      "location": "Davis Auditorium",
+      "abstract": null,
+      "url": "https://www.wehi.edu.au/event/professor-chen-dong-westlake-university/",
+      "online": true,
+      "scraped_at": "2026-09-17T23:24:23.947951Z"
     },
     {
       "id": "5bf5a5f3ebd5",
@@ -150,7 +180,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-hannah-coughlan-technological-sciences-division/",
       "online": true,
-      "scraped_at": "2026-09-16T23:33:56.762562Z"
+      "scraped_at": "2026-09-17T23:24:25.115033Z"
     },
     {
       "id": "5a0480cba5c6",
@@ -165,7 +195,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-raymond-yip-inflammation-division/",
       "online": true,
-      "scraped_at": "2026-09-16T23:33:57.290440Z"
+      "scraped_at": "2026-09-17T23:24:26.386730Z"
     },
     {
       "id": "dc4462745d9c",
@@ -180,7 +210,7 @@
       "abstract": null,
       "url": "https://www.doherty.edu.au/event/world-flu-day-2026-symposium/",
       "online": true,
-      "scraped_at": "2026-09-16T23:34:03.878408Z"
+      "scraped_at": "2026-09-17T23:24:33.083653Z"
     }
   ]
 }
