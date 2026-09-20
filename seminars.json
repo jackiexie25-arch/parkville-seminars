@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T22:43:22.532187Z",
+  "generated_at": "2026-09-20T23:03:18.128643Z",
   "total": 14,
   "seminars": [
     {
@@ -15,7 +15,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-jennifer-byrne-nsw-health-university-of-sydney/",
       "online": true,
-      "scraped_at": "2026-09-19T22:42:25.808631Z"
+      "scraped_at": "2026-09-20T23:01:56.827536Z"
     },
     {
       "id": "a101442c7641",
@@ -30,7 +30,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-chelsea-mayoh-childrens-cancer-institute/",
       "online": true,
-      "scraped_at": "2026-09-19T22:42:26.934086Z"
+      "scraped_at": "2026-09-20T23:01:57.234856Z"
     },
     {
       "id": "704f8459f18f",
@@ -45,7 +45,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/jung-chi-liao-syncell/",
       "online": true,
-      "scraped_at": "2026-09-19T22:42:28.072863Z"
+      "scraped_at": "2026-09-20T23:01:58.288312Z"
     },
     {
       "id": "134170468b7e",
@@ -60,7 +60,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/gabrielle-white-molecular-sciences-division/",
       "online": true,
-      "scraped_at": "2026-09-19T22:42:29.116130Z"
+      "scraped_at": "2026-09-20T23:01:59.451387Z"
     },
     {
       "id": "06a7afe98fb1",
@@ -75,7 +75,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-givanna-putri-dr-pradeep-rajasekhar-tech-sciences-division/",
       "online": true,
-      "scraped_at": "2026-09-19T22:42:30.138972Z"
+      "scraped_at": "2026-09-20T23:01:59.885914Z"
     },
     {
       "id": "87bc1245e362",
@@ -90,7 +90,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-bas-bloem-radboudumc-center-of-expertise-for-parkinson-movement-disorders/",
       "online": true,
-      "scraped_at": "2026-09-19T22:42:30.618870Z"
+      "scraped_at": "2026-09-20T23:02:01.038339Z"
     },
     {
       "id": "cb3005dfb0f2",
@@ -105,7 +105,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-tony-cesare-childrens-medical-research-institute/",
       "online": true,
-      "scraped_at": "2026-09-19T22:42:31.705010Z"
+      "scraped_at": "2026-09-20T23:02:02.679653Z"
     },
     {
       "id": "37a0fd206472",
@@ -120,7 +120,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/twist-bioscience-technical-and-networking-seminar/",
       "online": true,
-      "scraped_at": "2026-09-19T22:42:32.764830Z"
+      "scraped_at": "2026-09-20T23:02:03.089683Z"
     },
     {
       "id": "40c81bbcd856",
@@ -135,7 +135,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/andreas-dumortier-wehi-and-hudston-institute/",
       "online": true,
-      "scraped_at": "2026-09-19T22:42:33.234921Z"
+      "scraped_at": "2026-09-20T23:02:04.229504Z"
     },
     {
       "id": "dd3fbbb015b6",
@@ -150,7 +150,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-chen-dong-westlake-university/",
       "online": true,
-      "scraped_at": "2026-09-19T22:42:34.313696Z"
+      "scraped_at": "2026-09-20T23:02:05.470393Z"
     },
     {
       "id": "5bf5a5f3ebd5",
@@ -165,7 +165,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-hannah-coughlan-technological-sciences-division/",
       "online": true,
-      "scraped_at": "2026-09-19T22:42:34.631329Z"
+      "scraped_at": "2026-09-20T23:02:06.765783Z"
     },
     {
       "id": "5a0480cba5c6",
@@ -180,7 +180,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-raymond-yip-inflammation-division/",
       "online": true,
-      "scraped_at": "2026-09-19T22:42:35.712703Z"
+      "scraped_at": "2026-09-20T23:02:08.129225Z"
     },
     {
       "id": "dc4462745d9c",
@@ -195,7 +195,7 @@
       "abstract": null,
       "url": "https://www.doherty.edu.au/event/world-flu-day-2026-symposium/",
       "online": true,
-      "scraped_at": "2026-09-19T22:42:42.930351Z"
+      "scraped_at": "2026-09-20T23:02:15.119685Z"
     },
     {
       "id": "5a721db9ba7b",
@@ -210,7 +210,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/2026-wehi-ai-ml-symposium/",
       "online": true,
-      "scraped_at": "2026-09-19T22:42:36.841660Z"
+      "scraped_at": "2026-09-20T23:02:09.186282Z"
     }
   ]
 }
