@@ -1,36 +1,21 @@
 {
-  "generated_at": "2026-09-22T23:32:03.811579Z",
-  "total": 10,
+  "generated_at": "2026-09-23T23:27:59.014001Z",
+  "total": 9,
   "seminars": [
     {
-      "id": "06a7afe98fb1",
+      "id": "b8766f4729e7",
       "institution": "WEHI",
       "institution_color": "#003087",
-      "title": "Dr Givanna Putri & Dr Pradeep Rajasekhar – Tech Sciences division",
-      "date": "2026-09-24",
-      "time": "12:00",
-      "speaker": "Dr Givanna Putri & Dr Pradeep Rajasekhar",
-      "affiliation": "Tech Sciences division",
-      "location": "Davis Auditorium",
-      "abstract": null,
-      "url": "https://www.wehi.edu.au/event/dr-givanna-putri-dr-pradeep-rajasekhar-tech-sciences-division/",
-      "online": true,
-      "scraped_at": "2026-09-22T23:30:35.742411Z"
-    },
-    {
-      "id": "87bc1245e362",
-      "institution": "WEHI",
-      "institution_color": "#003087",
-      "title": "Professor Bas Bloem – Radboudumc Center of Expertise for Parkinson & Movement Disorders",
-      "date": "2026-09-24",
-      "time": "16:00",
-      "speaker": "Professor Bas Bloem",
-      "affiliation": "Radboudumc Center of Expertise for Parkinson & Movement Disorders",
+      "title": "Dr Roshan Vasani – Leica Microsystems",
+      "date": "2026-09-29",
+      "time": "09:30",
+      "speaker": "Dr Roshan Vasani",
+      "affiliation": "Leica Microsystems",
       "location": "L7W Seminar Room",
       "abstract": null,
-      "url": "https://www.wehi.edu.au/event/professor-bas-bloem-radboudumc-center-of-expertise-for-parkinson-movement-disorders/",
+      "url": "https://www.wehi.edu.au/event/dr-roshan-vasani-leica-microsystems/",
       "online": true,
-      "scraped_at": "2026-09-22T23:30:36.246209Z"
+      "scraped_at": "2026-09-23T23:26:38.031642Z"
     },
     {
       "id": "cb3005dfb0f2",
@@ -45,7 +30,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-tony-cesare-childrens-medical-research-institute/",
       "online": true,
-      "scraped_at": "2026-09-22T23:30:37.513198Z"
+      "scraped_at": "2026-09-23T23:26:39.139434Z"
     },
     {
       "id": "37a0fd206472",
@@ -60,7 +45,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/twist-bioscience-technical-and-networking-seminar/",
       "online": true,
-      "scraped_at": "2026-09-22T23:30:37.806996Z"
+      "scraped_at": "2026-09-23T23:26:39.448716Z"
     },
     {
       "id": "40c81bbcd856",
@@ -75,7 +60,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/andreas-dumortier-wehi-and-hudston-institute/",
       "online": true,
-      "scraped_at": "2026-09-22T23:30:39.684376Z"
+      "scraped_at": "2026-09-23T23:26:40.648943Z"
     },
     {
       "id": "dd3fbbb015b6",
@@ -90,7 +75,22 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-chen-dong-westlake-university/",
       "online": true,
-      "scraped_at": "2026-09-22T23:30:40.916621Z"
+      "scraped_at": "2026-09-23T23:26:41.806432Z"
+    },
+    {
+      "id": "2d8e8b4b7e56",
+      "institution": "Doherty Institute",
+      "institution_color": "#00539B",
+      "title": "NCAS Seminar Series: Digital AMS",
+      "date": "2026-10-21",
+      "time": null,
+      "speaker": null,
+      "affiliation": null,
+      "location": "Online",
+      "abstract": null,
+      "url": "https://www.doherty.edu.au/event/ncas-seminar-series-digital-ams/",
+      "online": true,
+      "scraped_at": "2026-09-23T23:26:50.374642Z"
     },
     {
       "id": "5bf5a5f3ebd5",
@@ -105,7 +105,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-hannah-coughlan-technological-sciences-division/",
       "online": true,
-      "scraped_at": "2026-09-22T23:30:42.182097Z"
+      "scraped_at": "2026-09-23T23:26:42.937713Z"
     },
     {
       "id": "5a0480cba5c6",
@@ -120,22 +120,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-raymond-yip-inflammation-division/",
       "online": true,
-      "scraped_at": "2026-09-22T23:30:43.341964Z"
-    },
-    {
-      "id": "dc4462745d9c",
-      "institution": "Doherty Institute",
-      "institution_color": "#00539B",
-      "title": "World Flu Day 2026 Symposium",
-      "date": "2026-10-29",
-      "time": null,
-      "speaker": null,
-      "affiliation": null,
-      "location": "Online",
-      "abstract": null,
-      "url": "https://www.doherty.edu.au/event/world-flu-day-2026-symposium/",
-      "online": true,
-      "scraped_at": "2026-09-22T23:30:51.335377Z"
+      "scraped_at": "2026-09-23T23:26:44.037846Z"
     },
     {
       "id": "5a721db9ba7b",
@@ -150,7 +135,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/2026-wehi-ai-ml-symposium/",
       "online": true,
-      "scraped_at": "2026-09-22T23:30:44.484925Z"
+      "scraped_at": "2026-09-23T23:26:45.601733Z"
     }
   ]
 }
