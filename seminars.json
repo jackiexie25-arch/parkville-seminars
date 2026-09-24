@@ -1,7 +1,37 @@
 {
-  "generated_at": "2026-09-23T23:27:59.014001Z",
-  "total": 9,
+  "generated_at": "2026-09-24T23:48:38.981016Z",
+  "total": 11,
   "seminars": [
+    {
+      "id": "9a57ae960b81",
+      "institution": "Royal Melbourne Hospital",
+      "institution_color": "#0066CC",
+      "title": "Please, don't fall for scams",
+      "date": "2026-09-24",
+      "time": null,
+      "speaker": null,
+      "affiliation": null,
+      "location": null,
+      "abstract": null,
+      "url": "https://www.thermh.org.au",
+      "online": false,
+      "scraped_at": "2026-09-24T23:48:24.433138Z"
+    },
+    {
+      "id": "74abcf3f6815",
+      "institution": "Royal Melbourne Hospital",
+      "institution_color": "#0066CC",
+      "title": "News and events",
+      "date": "2026-09-24",
+      "time": null,
+      "speaker": null,
+      "affiliation": null,
+      "location": null,
+      "abstract": null,
+      "url": "https://www.thermh.org.au/news",
+      "online": false,
+      "scraped_at": "2026-09-24T23:48:29.273398Z"
+    },
     {
       "id": "b8766f4729e7",
       "institution": "WEHI",
@@ -15,22 +45,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-roshan-vasani-leica-microsystems/",
       "online": true,
-      "scraped_at": "2026-09-23T23:26:38.031642Z"
-    },
-    {
-      "id": "cb3005dfb0f2",
-      "institution": "WEHI",
-      "institution_color": "#003087",
-      "title": "Professor Tony Cesare – Children’s Medical Research Institute",
-      "date": "2026-09-30",
-      "time": "13:00",
-      "speaker": "Professor Tony Cesare",
-      "affiliation": "Children’s Medical Research Institute",
-      "location": "Davis Auditorium",
-      "abstract": null,
-      "url": "https://www.wehi.edu.au/event/professor-tony-cesare-childrens-medical-research-institute/",
-      "online": true,
-      "scraped_at": "2026-09-23T23:26:39.139434Z"
+      "scraped_at": "2026-09-24T23:47:08.739722Z"
     },
     {
       "id": "37a0fd206472",
@@ -41,11 +56,26 @@
       "time": "13:00",
       "speaker": null,
       "affiliation": null,
-      "location": "L3C Seminar Room",
+      "location": "Peter Mac Level 13",
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/twist-bioscience-technical-and-networking-seminar/",
       "online": true,
-      "scraped_at": "2026-09-23T23:26:39.448716Z"
+      "scraped_at": "2026-09-24T23:47:09.074195Z"
+    },
+    {
+      "id": "5fe101fc631c",
+      "institution": "WEHI",
+      "institution_color": "#003087",
+      "title": "Professor Aaron Jex – Immunity division",
+      "date": "2026-09-30",
+      "time": "13:00",
+      "speaker": "Professor Aaron Jex",
+      "affiliation": "Immunity division",
+      "location": "Davis Auditorium",
+      "abstract": null,
+      "url": "https://www.wehi.edu.au/event/professor-aaron-jex-immunity-division/",
+      "online": true,
+      "scraped_at": "2026-09-24T23:47:10.568489Z"
     },
     {
       "id": "40c81bbcd856",
@@ -60,7 +90,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/andreas-dumortier-wehi-and-hudston-institute/",
       "online": true,
-      "scraped_at": "2026-09-23T23:26:40.648943Z"
+      "scraped_at": "2026-09-24T23:47:10.895711Z"
     },
     {
       "id": "dd3fbbb015b6",
@@ -75,7 +105,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-chen-dong-westlake-university/",
       "online": true,
-      "scraped_at": "2026-09-23T23:26:41.806432Z"
+      "scraped_at": "2026-09-24T23:47:11.238067Z"
     },
     {
       "id": "2d8e8b4b7e56",
@@ -90,7 +120,7 @@
       "abstract": null,
       "url": "https://www.doherty.edu.au/event/ncas-seminar-series-digital-ams/",
       "online": true,
-      "scraped_at": "2026-09-23T23:26:50.374642Z"
+      "scraped_at": "2026-09-24T23:47:19.481218Z"
     },
     {
       "id": "5bf5a5f3ebd5",
@@ -105,7 +135,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-hannah-coughlan-technological-sciences-division/",
       "online": true,
-      "scraped_at": "2026-09-23T23:26:42.937713Z"
+      "scraped_at": "2026-09-24T23:47:12.533716Z"
     },
     {
       "id": "5a0480cba5c6",
@@ -120,7 +150,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-raymond-yip-inflammation-division/",
       "online": true,
-      "scraped_at": "2026-09-23T23:26:44.037846Z"
+      "scraped_at": "2026-09-24T23:47:13.877061Z"
     },
     {
       "id": "5a721db9ba7b",
@@ -135,7 +165,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/2026-wehi-ai-ml-symposium/",
       "online": true,
-      "scraped_at": "2026-09-23T23:26:45.601733Z"
+      "scraped_at": "2026-09-24T23:47:14.195094Z"
     }
   ]
 }
