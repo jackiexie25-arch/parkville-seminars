@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T23:25:12.134451Z",
+  "generated_at": "2026-09-27T23:42:21.964318Z",
   "total": 10,
   "seminars": [
     {
@@ -15,7 +15,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-roshan-vasani-leica-microsystems/",
       "online": true,
-      "scraped_at": "2026-09-26T23:23:39.169084Z"
+      "scraped_at": "2026-09-27T23:40:59.818324Z"
     },
     {
       "id": "37a0fd206472",
@@ -30,7 +30,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/twist-bioscience-technical-and-networking-seminar/",
       "online": true,
-      "scraped_at": "2026-09-26T23:23:39.554806Z"
+      "scraped_at": "2026-09-27T23:41:00.121816Z"
     },
     {
       "id": "5fe101fc631c",
@@ -45,7 +45,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-aaron-jex-immunity-division/",
       "online": true,
-      "scraped_at": "2026-09-26T23:23:40.601300Z"
+      "scraped_at": "2026-09-27T23:41:00.436607Z"
     },
     {
       "id": "40c81bbcd856",
@@ -60,7 +60,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/andreas-dumortier-wehi-and-hudston-institute/",
       "online": true,
-      "scraped_at": "2026-09-26T23:23:41.735331Z"
+      "scraped_at": "2026-09-27T23:41:01.721799Z"
     },
     {
       "id": "2ad0c710a603",
@@ -75,7 +75,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-julia-marchingo-cancer-division/",
       "online": true,
-      "scraped_at": "2026-09-26T23:23:42.771387Z"
+      "scraped_at": "2026-09-27T23:41:03.096364Z"
     },
     {
       "id": "dd3fbbb015b6",
@@ -90,7 +90,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-chen-dong-westlake-university/",
       "online": true,
-      "scraped_at": "2026-09-26T23:23:43.156106Z"
+      "scraped_at": "2026-09-27T23:41:04.227266Z"
     },
     {
       "id": "2d8e8b4b7e56",
@@ -105,7 +105,7 @@
       "abstract": null,
       "url": "https://www.doherty.edu.au/event/ncas-seminar-series-digital-ams/",
       "online": true,
-      "scraped_at": "2026-09-26T23:23:52.330630Z"
+      "scraped_at": "2026-09-27T23:41:11.996187Z"
     },
     {
       "id": "5bf5a5f3ebd5",
@@ -120,7 +120,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-hannah-coughlan-technological-sciences-division/",
       "online": true,
-      "scraped_at": "2026-09-26T23:23:44.586161Z"
+      "scraped_at": "2026-09-27T23:41:05.400738Z"
     },
     {
       "id": "5a0480cba5c6",
@@ -135,7 +135,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-raymond-yip-inflammation-division/",
       "online": true,
-      "scraped_at": "2026-09-26T23:23:46.163106Z"
+      "scraped_at": "2026-09-27T23:41:06.620587Z"
     },
     {
       "id": "5a721db9ba7b",
@@ -150,7 +150,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/2026-wehi-ai-ml-symposium/",
       "online": true,
-      "scraped_at": "2026-09-26T23:23:46.854527Z"
+      "scraped_at": "2026-09-27T23:41:07.119938Z"
     }
   ]
 }
