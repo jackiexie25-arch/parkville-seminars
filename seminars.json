@@ -1,21 +1,36 @@
 {
-  "generated_at": "2026-09-27T23:42:21.964318Z",
-  "total": 10,
+  "generated_at": "2026-09-29T00:52:01.286083Z",
+  "total": 13,
   "seminars": [
     {
-      "id": "b8766f4729e7",
-      "institution": "WEHI",
-      "institution_color": "#003087",
-      "title": "Dr Roshan Vasani – Leica Microsystems",
-      "date": "2026-09-29",
-      "time": "09:30",
-      "speaker": "Dr Roshan Vasani",
-      "affiliation": "Leica Microsystems",
-      "location": "L7W Seminar Room",
+      "id": "1aebd1f7e92d",
+      "institution": "Royal Melbourne Hospital",
+      "institution_color": "#0066CC",
+      "title": "Please, don't fall for scams",
+      "date": "2026-09-28",
+      "time": null,
+      "speaker": null,
+      "affiliation": null,
+      "location": null,
       "abstract": null,
-      "url": "https://www.wehi.edu.au/event/dr-roshan-vasani-leica-microsystems/",
-      "online": true,
-      "scraped_at": "2026-09-27T23:40:59.818324Z"
+      "url": "https://www.thermh.org.au",
+      "online": false,
+      "scraped_at": "2026-09-29T00:51:51.475994Z"
+    },
+    {
+      "id": "dcddc48eb480",
+      "institution": "Royal Melbourne Hospital",
+      "institution_color": "#0066CC",
+      "title": "News and events",
+      "date": "2026-09-28",
+      "time": null,
+      "speaker": null,
+      "affiliation": null,
+      "location": null,
+      "abstract": null,
+      "url": "https://www.thermh.org.au/news",
+      "online": false,
+      "scraped_at": "2026-09-29T00:51:51.729694Z"
     },
     {
       "id": "37a0fd206472",
@@ -30,7 +45,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/twist-bioscience-technical-and-networking-seminar/",
       "online": true,
-      "scraped_at": "2026-09-27T23:41:00.121816Z"
+      "scraped_at": "2026-09-29T00:50:38.066700Z"
     },
     {
       "id": "5fe101fc631c",
@@ -45,7 +60,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-aaron-jex-immunity-division/",
       "online": true,
-      "scraped_at": "2026-09-27T23:41:00.436607Z"
+      "scraped_at": "2026-09-29T00:50:39.234038Z"
     },
     {
       "id": "40c81bbcd856",
@@ -60,7 +75,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/andreas-dumortier-wehi-and-hudston-institute/",
       "online": true,
-      "scraped_at": "2026-09-27T23:41:01.721799Z"
+      "scraped_at": "2026-09-29T00:50:41.029144Z"
     },
     {
       "id": "2ad0c710a603",
@@ -75,7 +90,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-julia-marchingo-cancer-division/",
       "online": true,
-      "scraped_at": "2026-09-27T23:41:03.096364Z"
+      "scraped_at": "2026-09-29T00:50:41.471064Z"
     },
     {
       "id": "dd3fbbb015b6",
@@ -90,7 +105,22 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-chen-dong-westlake-university/",
       "online": true,
-      "scraped_at": "2026-09-27T23:41:04.227266Z"
+      "scraped_at": "2026-09-29T00:50:42.903354Z"
+    },
+    {
+      "id": "50f738334e0f",
+      "institution": "WEHI",
+      "institution_color": "#003087",
+      "title": "Dr Harry Robertson – University of Sydney",
+      "date": "2026-10-14",
+      "time": "14:00",
+      "speaker": "Dr Harry Robertson",
+      "affiliation": "University of Sydney",
+      "location": "Davis Auditorium",
+      "abstract": null,
+      "url": "https://www.wehi.edu.au/event/dr-harry-robertson-university-of-sydney/",
+      "online": true,
+      "scraped_at": "2026-09-29T00:50:43.307625Z"
     },
     {
       "id": "2d8e8b4b7e56",
@@ -105,7 +135,7 @@
       "abstract": null,
       "url": "https://www.doherty.edu.au/event/ncas-seminar-series-digital-ams/",
       "online": true,
-      "scraped_at": "2026-09-27T23:41:11.996187Z"
+      "scraped_at": "2026-09-29T00:50:50.991564Z"
     },
     {
       "id": "5bf5a5f3ebd5",
@@ -120,7 +150,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-hannah-coughlan-technological-sciences-division/",
       "online": true,
-      "scraped_at": "2026-09-27T23:41:05.400738Z"
+      "scraped_at": "2026-09-29T00:50:44.497571Z"
     },
     {
       "id": "5a0480cba5c6",
@@ -135,7 +165,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-raymond-yip-inflammation-division/",
       "online": true,
-      "scraped_at": "2026-09-27T23:41:06.620587Z"
+      "scraped_at": "2026-09-29T00:50:44.757978Z"
     },
     {
       "id": "5a721db9ba7b",
@@ -150,7 +180,22 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/2026-wehi-ai-ml-symposium/",
       "online": true,
-      "scraped_at": "2026-09-27T23:41:07.119938Z"
+      "scraped_at": "2026-09-29T00:50:46.075306Z"
+    },
+    {
+      "id": "b5de38843456",
+      "institution": "WEHI",
+      "institution_color": "#003087",
+      "title": "Professor Kalle Gehring – McGill University",
+      "date": "2026-12-04",
+      "time": "09:30",
+      "speaker": "Professor Kalle Gehring",
+      "affiliation": "McGill University",
+      "location": "Davis Auditorium",
+      "abstract": null,
+      "url": "https://www.wehi.edu.au/event/professor-kalle-gehring-mcgill-university/",
+      "online": true,
+      "scraped_at": "2026-09-29T00:50:46.518883Z"
     }
   ]
 }
