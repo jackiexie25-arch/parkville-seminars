@@ -1,37 +1,7 @@
 {
-  "generated_at": "2026-10-02T00:34:50.961569Z",
-  "total": 14,
+  "generated_at": "2026-10-03T00:13:08.899562Z",
+  "total": 12,
   "seminars": [
-    {
-      "id": "c11042795e49",
-      "institution": "Royal Melbourne Hospital",
-      "institution_color": "#0066CC",
-      "title": "Please, don't fall for scams",
-      "date": "2026-10-01",
-      "time": null,
-      "speaker": null,
-      "affiliation": null,
-      "location": null,
-      "abstract": null,
-      "url": "https://www.thermh.org.au",
-      "online": false,
-      "scraped_at": "2026-10-02T00:34:42.273120Z"
-    },
-    {
-      "id": "88fb0d33c301",
-      "institution": "Royal Melbourne Hospital",
-      "institution_color": "#0066CC",
-      "title": "News and events",
-      "date": "2026-10-01",
-      "time": null,
-      "speaker": null,
-      "affiliation": null,
-      "location": null,
-      "abstract": null,
-      "url": "https://www.thermh.org.au/news",
-      "online": false,
-      "scraped_at": "2026-10-02T00:34:42.502231Z"
-    },
     {
       "id": "927ce247a373",
       "institution": "WEHI",
@@ -45,7 +15,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-dawson-ling-centre-for-dynamic-imaging-immunity-division/",
       "online": true,
-      "scraped_at": "2026-10-02T00:33:55.677202Z"
+      "scraped_at": "2026-10-03T00:11:38.260328Z"
     },
     {
       "id": "0693faae9fb3",
@@ -60,7 +30,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-tong-pan-saigenci/",
       "online": true,
-      "scraped_at": "2026-10-02T00:33:56.089977Z"
+      "scraped_at": "2026-10-03T00:11:38.576566Z"
     },
     {
       "id": "2ad0c710a603",
@@ -75,7 +45,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-julia-marchingo-cancer-division/",
       "online": true,
-      "scraped_at": "2026-10-02T00:33:57.300650Z"
+      "scraped_at": "2026-10-03T00:11:38.887445Z"
     },
     {
       "id": "dd3fbbb015b6",
@@ -90,7 +60,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-chen-dong-westlake-university/",
       "online": true,
-      "scraped_at": "2026-10-02T00:33:57.560222Z"
+      "scraped_at": "2026-10-03T00:11:40.109758Z"
     },
     {
       "id": "388ab631422b",
@@ -105,7 +75,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/maria-zyulina-university-of-melbourne-university-of-bonn/",
       "online": true,
-      "scraped_at": "2026-10-02T00:33:58.798109Z"
+      "scraped_at": "2026-10-03T00:11:41.231376Z"
     },
     {
       "id": "50f738334e0f",
@@ -120,7 +90,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-harry-robertson-university-of-sydney/",
       "online": true,
-      "scraped_at": "2026-10-02T00:33:59.036842Z"
+      "scraped_at": "2026-10-03T00:11:42.579246Z"
     },
     {
       "id": "2d8e8b4b7e56",
@@ -135,7 +105,7 @@
       "abstract": null,
       "url": "https://www.doherty.edu.au/event/ncas-seminar-series-digital-ams/",
       "online": true,
-      "scraped_at": "2026-10-02T00:34:09.711075Z"
+      "scraped_at": "2026-10-03T00:11:53.034175Z"
     },
     {
       "id": "5bf5a5f3ebd5",
@@ -150,7 +120,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-hannah-coughlan-technological-sciences-division/",
       "online": true,
-      "scraped_at": "2026-10-02T00:34:00.199718Z"
+      "scraped_at": "2026-10-03T00:11:43.842947Z"
     },
     {
       "id": "5a0480cba5c6",
@@ -165,7 +135,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-raymond-yip-inflammation-division/",
       "online": true,
-      "scraped_at": "2026-10-02T00:34:01.283512Z"
+      "scraped_at": "2026-10-03T00:11:44.980771Z"
     },
     {
       "id": "df6d09c239b3",
@@ -180,7 +150,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-david-ireland-the-australian-e-health-research-centre-csiro/",
       "online": true,
-      "scraped_at": "2026-10-02T00:34:02.596009Z"
+      "scraped_at": "2026-10-03T00:11:46.108419Z"
     },
     {
       "id": "5a721db9ba7b",
@@ -195,7 +165,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/2026-wehi-ai-ml-symposium/",
       "online": true,
-      "scraped_at": "2026-10-02T00:34:03.871801Z"
+      "scraped_at": "2026-10-03T00:11:47.270526Z"
     },
     {
       "id": "b5de38843456",
@@ -210,7 +180,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-kalle-gehring-mcgill-university/",
       "online": true,
-      "scraped_at": "2026-10-02T00:34:04.969720Z"
+      "scraped_at": "2026-10-03T00:11:47.765841Z"
     }
   ]
 }
