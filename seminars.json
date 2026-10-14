@@ -1,37 +1,7 @@
 {
-  "generated_at": "2026-10-13T02:28:00.766354Z",
-  "total": 12,
+  "generated_at": "2026-10-14T00:11:12.102919Z",
+  "total": 10,
   "seminars": [
-    {
-      "id": "cf85146cc9dd",
-      "institution": "WEHI",
-      "institution_color": "#003087",
-      "title": "Professor David Ashley – Cancer division",
-      "date": "2026-10-14",
-      "time": "13:00",
-      "speaker": "Professor David Ashley",
-      "affiliation": "Cancer division",
-      "location": "Davis Auditorium",
-      "abstract": null,
-      "url": "https://www.wehi.edu.au/event/professor-david-ashley-cancer-division/",
-      "online": true,
-      "scraped_at": "2026-10-13T02:26:32.845876Z"
-    },
-    {
-      "id": "50f738334e0f",
-      "institution": "WEHI",
-      "institution_color": "#003087",
-      "title": "Dr Harry Robertson – University of Sydney",
-      "date": "2026-10-14",
-      "time": "14:00",
-      "speaker": "Dr Harry Robertson",
-      "affiliation": "University of Sydney",
-      "location": "Davis Auditorium",
-      "abstract": null,
-      "url": "https://www.wehi.edu.au/event/dr-harry-robertson-university-of-sydney/",
-      "online": true,
-      "scraped_at": "2026-10-13T02:26:33.910384Z"
-    },
     {
       "id": "33dd483e8a67",
       "institution": "WEHI",
@@ -45,7 +15,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-meagan-mcgrath-biomedicine-discovery-institute/",
       "online": true,
-      "scraped_at": "2026-10-13T02:26:34.319244Z"
+      "scraped_at": "2026-10-14T00:09:45.585388Z"
     },
     {
       "id": "2d8e8b4b7e56",
@@ -60,7 +30,7 @@
       "abstract": null,
       "url": "https://www.doherty.edu.au/event/ncas-seminar-series-digital-ams/",
       "online": true,
-      "scraped_at": "2026-10-13T02:26:47.647318Z"
+      "scraped_at": "2026-10-14T00:10:00.739076Z"
     },
     {
       "id": "5bf5a5f3ebd5",
@@ -75,7 +45,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-hannah-coughlan-technological-sciences-division/",
       "online": true,
-      "scraped_at": "2026-10-13T02:26:34.568488Z"
+      "scraped_at": "2026-10-14T00:09:47.077232Z"
     },
     {
       "id": "5a0480cba5c6",
@@ -90,7 +60,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-raymond-yip-inflammation-division/",
       "online": true,
-      "scraped_at": "2026-10-13T02:26:35.692770Z"
+      "scraped_at": "2026-10-14T00:09:48.583499Z"
     },
     {
       "id": "4a9a13c27ed8",
@@ -105,7 +75,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/imalki-kariyawasam-cancer-division/",
       "online": true,
-      "scraped_at": "2026-10-13T02:26:36.769278Z"
+      "scraped_at": "2026-10-14T00:09:50.079566Z"
     },
     {
       "id": "df6d09c239b3",
@@ -120,7 +90,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-david-ireland-the-australian-e-health-research-centre-csiro/",
       "online": true,
-      "scraped_at": "2026-10-13T02:26:37.776618Z"
+      "scraped_at": "2026-10-14T00:09:51.546279Z"
     },
     {
       "id": "04284060bb48",
@@ -135,7 +105,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-shuai-huang-cancer-division/",
       "online": true,
-      "scraped_at": "2026-10-13T02:26:38.835668Z"
+      "scraped_at": "2026-10-14T00:09:52.292522Z"
     },
     {
       "id": "5a721db9ba7b",
@@ -150,7 +120,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/2026-wehi-ai-ml-symposium/",
       "online": true,
-      "scraped_at": "2026-10-13T02:26:40.067010Z"
+      "scraped_at": "2026-10-14T00:09:53.760567Z"
     },
     {
       "id": "b8fe16950bd6",
@@ -165,7 +135,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-somi-kordafshari-cancer-division/",
       "online": true,
-      "scraped_at": "2026-10-13T02:26:41.222929Z"
+      "scraped_at": "2026-10-14T00:09:54.186725Z"
     },
     {
       "id": "b5de38843456",
@@ -180,7 +150,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-kalle-gehring-mcgill-university/",
       "online": true,
-      "scraped_at": "2026-10-13T02:26:42.252360Z"
+      "scraped_at": "2026-10-14T00:09:55.700584Z"
     }
   ]
 }
