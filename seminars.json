@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-20T23:40:20.237111Z",
-  "total": 8,
+  "generated_at": "2026-10-21T23:56:40.479393Z",
+  "total": 12,
   "seminars": [
     {
       "id": "2d8e8b4b7e56",
@@ -15,22 +15,37 @@
       "abstract": null,
       "url": "https://www.doherty.edu.au/event/ncas-seminar-series-digital-ams/",
       "online": true,
-      "scraped_at": "2026-10-20T23:39:08.339245Z"
+      "scraped_at": "2026-10-21T23:55:06.867660Z"
     },
     {
-      "id": "5a0480cba5c6",
+      "id": "b5d707efff66",
       "institution": "WEHI",
       "institution_color": "#003087",
-      "title": "Dr Raymond Yip – Inflammation division",
+      "title": "Associate Professor Claire Shepherd – Neuroscience Research Australia (NeuRA)",
+      "date": "2026-10-26",
+      "time": "10:30",
+      "speaker": "Associate Professor Claire Shepherd",
+      "affiliation": "Neuroscience Research Australia (NeuRA)",
+      "location": "L7W Seminar Room",
+      "abstract": null,
+      "url": "https://www.wehi.edu.au/event/associate-professor-claire-shepherd-neuroscience-research-australia-neura/",
+      "online": true,
+      "scraped_at": "2026-10-21T23:54:49.794156Z"
+    },
+    {
+      "id": "e20b42e26799",
+      "institution": "WEHI",
+      "institution_color": "#003087",
+      "title": "Dr Raymond Yip – Immunity division",
       "date": "2026-10-28",
       "time": "13:00",
       "speaker": "Dr Raymond Yip",
-      "affiliation": "Inflammation division",
+      "affiliation": "Immunity division",
       "location": "Davis Auditorium",
       "abstract": null,
-      "url": "https://www.wehi.edu.au/event/dr-raymond-yip-inflammation-division/",
+      "url": "https://www.wehi.edu.au/event/dr-raymond-yip-immunity-division/",
       "online": true,
-      "scraped_at": "2026-10-20T23:38:57.830131Z"
+      "scraped_at": "2026-10-21T23:54:50.222082Z"
     },
     {
       "id": "4a9a13c27ed8",
@@ -45,7 +60,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/imalki-kariyawasam-cancer-division/",
       "online": true,
-      "scraped_at": "2026-10-20T23:38:58.237662Z"
+      "scraped_at": "2026-10-21T23:54:51.345928Z"
     },
     {
       "id": "df6d09c239b3",
@@ -60,7 +75,52 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-david-ireland-the-australian-e-health-research-centre-csiro/",
       "online": true,
-      "scraped_at": "2026-10-20T23:38:58.662774Z"
+      "scraped_at": "2026-10-21T23:54:51.791017Z"
+    },
+    {
+      "id": "08bb1b2223e4",
+      "institution": "WEHI",
+      "institution_color": "#003087",
+      "title": "Dr Matthias Friedrich – University of Oxford",
+      "date": "2026-10-30",
+      "time": "12:00",
+      "speaker": "Dr Matthias Friedrich",
+      "affiliation": "University of Oxford",
+      "location": "Davis Auditorium",
+      "abstract": null,
+      "url": "https://www.wehi.edu.au/event/dr-matthias-friedrich-university-of-oxford/",
+      "online": true,
+      "scraped_at": "2026-10-21T23:54:52.225348Z"
+    },
+    {
+      "id": "4a83eaca7bee",
+      "institution": "WEHI",
+      "institution_color": "#003087",
+      "title": "Dr Craig Crews – Yale University",
+      "date": "2026-11-06",
+      "time": "12:00",
+      "speaker": "Dr Craig Crews",
+      "affiliation": "Yale University",
+      "location": "Davis Auditorium",
+      "abstract": null,
+      "url": "https://www.wehi.edu.au/event/dr-craig-crews-yale-university/",
+      "online": true,
+      "scraped_at": "2026-10-21T23:54:53.826897Z"
+    },
+    {
+      "id": "c8afa285db35",
+      "institution": "WEHI",
+      "institution_color": "#003087",
+      "title": "Welcome to the 21st International Celiac Disease Symposium",
+      "date": "2026-11-17",
+      "time": "09:00",
+      "speaker": null,
+      "affiliation": null,
+      "location": "Melbourne Convention Centre",
+      "abstract": null,
+      "url": "https://www.wehi.edu.au/event/welcome-to-the-21st-international-celiac-disease-symposium/",
+      "online": true,
+      "scraped_at": "2026-10-21T23:54:55.165234Z"
     },
     {
       "id": "04284060bb48",
@@ -75,7 +135,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-shuai-huang-cancer-division/",
       "online": true,
-      "scraped_at": "2026-10-20T23:38:59.079593Z"
+      "scraped_at": "2026-10-21T23:54:56.510742Z"
     },
     {
       "id": "5a721db9ba7b",
@@ -90,7 +150,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/2026-wehi-ai-ml-symposium/",
       "online": true,
-      "scraped_at": "2026-10-20T23:38:59.478760Z"
+      "scraped_at": "2026-10-21T23:54:57.813808Z"
     },
     {
       "id": "b8fe16950bd6",
@@ -105,7 +165,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-somi-kordafshari-cancer-division/",
       "online": true,
-      "scraped_at": "2026-10-20T23:39:00.960091Z"
+      "scraped_at": "2026-10-21T23:54:59.201187Z"
     },
     {
       "id": "b5de38843456",
@@ -120,7 +180,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-kalle-gehring-mcgill-university/",
       "online": true,
-      "scraped_at": "2026-10-20T23:39:02.748212Z"
+      "scraped_at": "2026-10-21T23:55:00.566564Z"
     }
   ]
 }
