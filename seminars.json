@@ -1,22 +1,7 @@
 {
-  "generated_at": "2026-10-28T00:17:32.117510Z",
+  "generated_at": "2026-10-29T00:38:35.263106Z",
   "total": 8,
   "seminars": [
-    {
-      "id": "df6d09c239b3",
-      "institution": "WEHI",
-      "institution_color": "#003087",
-      "title": "Dr David Ireland – The Australian e-Health Research Centre, CSIRO",
-      "date": "2026-10-29",
-      "time": "12:00",
-      "speaker": "Dr David Ireland",
-      "affiliation": "The Australian e-Health Research Centre, CSIRO",
-      "location": "Online",
-      "abstract": null,
-      "url": "https://www.wehi.edu.au/event/dr-david-ireland-the-australian-e-health-research-centre-csiro/",
-      "online": true,
-      "scraped_at": "2026-10-28T00:16:13.728261Z"
-    },
     {
       "id": "08bb1b2223e4",
       "institution": "WEHI",
@@ -30,7 +15,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-matthias-friedrich-university-of-oxford/",
       "online": true,
-      "scraped_at": "2026-10-28T00:16:15.023203Z"
+      "scraped_at": "2026-10-29T00:37:35.292129Z"
     },
     {
       "id": "4a83eaca7bee",
@@ -45,7 +30,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-craig-crews-yale-university/",
       "online": true,
-      "scraped_at": "2026-10-28T00:16:16.457121Z"
+      "scraped_at": "2026-10-29T00:37:36.477856Z"
     },
     {
       "id": "c8afa285db35",
@@ -60,7 +45,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/welcome-to-the-21st-international-celiac-disease-symposium/",
       "online": true,
-      "scraped_at": "2026-10-28T00:16:16.997862Z"
+      "scraped_at": "2026-10-29T00:37:37.685937Z"
     },
     {
       "id": "04284060bb48",
@@ -75,7 +60,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-shuai-huang-cancer-division/",
       "online": true,
-      "scraped_at": "2026-10-28T00:16:18.398859Z"
+      "scraped_at": "2026-10-29T00:37:38.817899Z"
     },
     {
       "id": "5a721db9ba7b",
@@ -90,7 +75,22 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/2026-wehi-ai-ml-symposium/",
       "online": true,
-      "scraped_at": "2026-10-28T00:16:18.697405Z"
+      "scraped_at": "2026-10-29T00:37:39.261670Z"
+    },
+    {
+      "id": "50b82e17cd71",
+      "institution": "WEHI",
+      "institution_color": "#003087",
+      "title": "Dr Juliana Yeung – Bioeconomy Science Institute",
+      "date": "2026-11-25",
+      "time": "11:00",
+      "speaker": "Dr Juliana Yeung",
+      "affiliation": "Bioeconomy Science Institute",
+      "location": "L3C Seminar Room",
+      "abstract": null,
+      "url": "https://www.wehi.edu.au/event/dr-juliana-yeung-bioeconomy-science-institute/",
+      "online": true,
+      "scraped_at": "2026-10-29T00:37:39.512282Z"
     },
     {
       "id": "b8fe16950bd6",
@@ -105,7 +105,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-somi-kordafshari-cancer-division/",
       "online": true,
-      "scraped_at": "2026-10-28T00:16:19.853312Z"
+      "scraped_at": "2026-10-29T00:37:40.704607Z"
     },
     {
       "id": "b5de38843456",
@@ -120,7 +120,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-kalle-gehring-mcgill-university/",
       "online": true,
-      "scraped_at": "2026-10-28T00:16:21.115919Z"
+      "scraped_at": "2026-10-29T00:37:41.934018Z"
     }
   ]
 }
