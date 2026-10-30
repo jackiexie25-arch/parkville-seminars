@@ -1,22 +1,7 @@
 {
-  "generated_at": "2026-10-29T00:38:35.263106Z",
+  "generated_at": "2026-10-30T00:39:22.401281Z",
   "total": 8,
   "seminars": [
-    {
-      "id": "08bb1b2223e4",
-      "institution": "WEHI",
-      "institution_color": "#003087",
-      "title": "Dr Matthias Friedrich – University of Oxford",
-      "date": "2026-10-30",
-      "time": "12:00",
-      "speaker": "Dr Matthias Friedrich",
-      "affiliation": "University of Oxford",
-      "location": "Davis Auditorium",
-      "abstract": null,
-      "url": "https://www.wehi.edu.au/event/dr-matthias-friedrich-university-of-oxford/",
-      "online": true,
-      "scraped_at": "2026-10-29T00:37:35.292129Z"
-    },
     {
       "id": "4a83eaca7bee",
       "institution": "WEHI",
@@ -30,7 +15,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-craig-crews-yale-university/",
       "online": true,
-      "scraped_at": "2026-10-29T00:37:36.477856Z"
+      "scraped_at": "2026-10-30T00:38:24.686167Z"
     },
     {
       "id": "c8afa285db35",
@@ -45,7 +30,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/welcome-to-the-21st-international-celiac-disease-symposium/",
       "online": true,
-      "scraped_at": "2026-10-29T00:37:37.685937Z"
+      "scraped_at": "2026-10-30T00:38:25.903129Z"
     },
     {
       "id": "04284060bb48",
@@ -60,7 +45,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-shuai-huang-cancer-division/",
       "online": true,
-      "scraped_at": "2026-10-29T00:37:38.817899Z"
+      "scraped_at": "2026-10-30T00:38:27.052211Z"
     },
     {
       "id": "5a721db9ba7b",
@@ -75,7 +60,22 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/2026-wehi-ai-ml-symposium/",
       "online": true,
-      "scraped_at": "2026-10-29T00:37:39.261670Z"
+      "scraped_at": "2026-10-30T00:38:27.646920Z"
+    },
+    {
+      "id": "78dfc8013ce6",
+      "institution": "WEHI",
+      "institution_color": "#003087",
+      "title": "Professor Di Yu – Frazer Institute",
+      "date": "2026-11-20",
+      "time": "10:00",
+      "speaker": "Professor Di Yu",
+      "affiliation": "Frazer Institute",
+      "location": "L7W Seminar Room",
+      "abstract": null,
+      "url": "https://www.wehi.edu.au/event/professor-di-yu-frazer-institute/",
+      "online": true,
+      "scraped_at": "2026-10-30T00:38:27.960033Z"
     },
     {
       "id": "50b82e17cd71",
@@ -90,7 +90,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-juliana-yeung-bioeconomy-science-institute/",
       "online": true,
-      "scraped_at": "2026-10-29T00:37:39.512282Z"
+      "scraped_at": "2026-10-30T00:38:28.269078Z"
     },
     {
       "id": "b8fe16950bd6",
@@ -105,7 +105,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-somi-kordafshari-cancer-division/",
       "online": true,
-      "scraped_at": "2026-10-29T00:37:40.704607Z"
+      "scraped_at": "2026-10-30T00:38:29.549905Z"
     },
     {
       "id": "b5de38843456",
@@ -120,7 +120,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-kalle-gehring-mcgill-university/",
       "online": true,
-      "scraped_at": "2026-10-29T00:37:41.934018Z"
+      "scraped_at": "2026-10-30T00:38:30.753072Z"
     }
   ]
 }
