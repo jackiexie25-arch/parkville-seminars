@@ -1,7 +1,52 @@
 {
-  "generated_at": "2026-10-30T00:39:22.401281Z",
-  "total": 8,
+  "generated_at": "2026-10-31T00:27:01.891099Z",
+  "total": 11,
   "seminars": [
+    {
+      "id": "ddb50f4ed6ab",
+      "institution": "Royal Melbourne Hospital",
+      "institution_color": "#0066CC",
+      "title": "Please, don't fall for scams",
+      "date": "2026-10-30",
+      "time": null,
+      "speaker": null,
+      "affiliation": null,
+      "location": "Online",
+      "abstract": null,
+      "url": "https://www.thermh.org.au",
+      "online": true,
+      "scraped_at": "2026-10-31T00:26:52.235243Z"
+    },
+    {
+      "id": "f5af9b5bb638",
+      "institution": "Royal Melbourne Hospital",
+      "institution_color": "#0066CC",
+      "title": "News and events",
+      "date": "2026-10-30",
+      "time": null,
+      "speaker": null,
+      "affiliation": null,
+      "location": null,
+      "abstract": null,
+      "url": "https://www.thermh.org.au/news",
+      "online": false,
+      "scraped_at": "2026-10-31T00:26:52.482226Z"
+    },
+    {
+      "id": "49de1f47696e",
+      "institution": "Doherty Institute",
+      "institution_color": "#00539B",
+      "title": "SPARKLE International One Health Day Symposium",
+      "date": "2026-11-04",
+      "time": null,
+      "speaker": null,
+      "affiliation": null,
+      "location": null,
+      "abstract": null,
+      "url": "https://www.doherty.edu.au/event/sparkle-international-one-health-day-symposium/",
+      "online": false,
+      "scraped_at": "2026-10-31T00:26:23.599372Z"
+    },
     {
       "id": "4a83eaca7bee",
       "institution": "WEHI",
@@ -15,7 +60,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-craig-crews-yale-university/",
       "online": true,
-      "scraped_at": "2026-10-30T00:38:24.686167Z"
+      "scraped_at": "2026-10-31T00:26:11.491484Z"
     },
     {
       "id": "c8afa285db35",
@@ -30,7 +75,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/welcome-to-the-21st-international-celiac-disease-symposium/",
       "online": true,
-      "scraped_at": "2026-10-30T00:38:25.903129Z"
+      "scraped_at": "2026-10-31T00:26:11.906636Z"
     },
     {
       "id": "04284060bb48",
@@ -45,7 +90,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-shuai-huang-cancer-division/",
       "online": true,
-      "scraped_at": "2026-10-30T00:38:27.052211Z"
+      "scraped_at": "2026-10-31T00:26:12.211069Z"
     },
     {
       "id": "5a721db9ba7b",
@@ -60,7 +105,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/2026-wehi-ai-ml-symposium/",
       "online": true,
-      "scraped_at": "2026-10-30T00:38:27.646920Z"
+      "scraped_at": "2026-10-31T00:26:12.456573Z"
     },
     {
       "id": "78dfc8013ce6",
@@ -75,7 +120,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-di-yu-frazer-institute/",
       "online": true,
-      "scraped_at": "2026-10-30T00:38:27.960033Z"
+      "scraped_at": "2026-10-31T00:26:13.799533Z"
     },
     {
       "id": "50b82e17cd71",
@@ -90,7 +135,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-juliana-yeung-bioeconomy-science-institute/",
       "online": true,
-      "scraped_at": "2026-10-30T00:38:28.269078Z"
+      "scraped_at": "2026-10-31T00:26:15.184270Z"
     },
     {
       "id": "b8fe16950bd6",
@@ -105,7 +150,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-somi-kordafshari-cancer-division/",
       "online": true,
-      "scraped_at": "2026-10-30T00:38:29.549905Z"
+      "scraped_at": "2026-10-31T00:26:16.333211Z"
     },
     {
       "id": "b5de38843456",
@@ -120,7 +165,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-kalle-gehring-mcgill-university/",
       "online": true,
-      "scraped_at": "2026-10-30T00:38:30.753072Z"
+      "scraped_at": "2026-10-31T00:26:17.436683Z"
     }
   ]
 }
