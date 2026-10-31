@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T00:27:01.891099Z",
+  "generated_at": "2026-10-31T23:58:21.795433Z",
   "total": 11,
   "seminars": [
     {
@@ -15,7 +15,7 @@
       "abstract": null,
       "url": "https://www.thermh.org.au",
       "online": true,
-      "scraped_at": "2026-10-31T00:26:52.235243Z"
+      "scraped_at": "2026-10-31T23:58:13.350929Z"
     },
     {
       "id": "f5af9b5bb638",
@@ -30,7 +30,7 @@
       "abstract": null,
       "url": "https://www.thermh.org.au/news",
       "online": false,
-      "scraped_at": "2026-10-31T00:26:52.482226Z"
+      "scraped_at": "2026-10-31T23:58:13.660250Z"
     },
     {
       "id": "49de1f47696e",
@@ -45,7 +45,7 @@
       "abstract": null,
       "url": "https://www.doherty.edu.au/event/sparkle-international-one-health-day-symposium/",
       "online": false,
-      "scraped_at": "2026-10-31T00:26:23.599372Z"
+      "scraped_at": "2026-10-31T23:57:43.373699Z"
     },
     {
       "id": "4a83eaca7bee",
@@ -60,7 +60,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-craig-crews-yale-university/",
       "online": true,
-      "scraped_at": "2026-10-31T00:26:11.491484Z"
+      "scraped_at": "2026-10-31T23:57:31.720712Z"
     },
     {
       "id": "c8afa285db35",
@@ -75,7 +75,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/welcome-to-the-21st-international-celiac-disease-symposium/",
       "online": true,
-      "scraped_at": "2026-10-31T00:26:11.906636Z"
+      "scraped_at": "2026-10-31T23:57:32.869828Z"
     },
     {
       "id": "04284060bb48",
@@ -90,7 +90,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-shuai-huang-cancer-division/",
       "online": true,
-      "scraped_at": "2026-10-31T00:26:12.211069Z"
+      "scraped_at": "2026-10-31T23:57:33.282851Z"
     },
     {
       "id": "5a721db9ba7b",
@@ -105,7 +105,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/2026-wehi-ai-ml-symposium/",
       "online": true,
-      "scraped_at": "2026-10-31T00:26:12.456573Z"
+      "scraped_at": "2026-10-31T23:57:34.461078Z"
     },
     {
       "id": "78dfc8013ce6",
@@ -120,7 +120,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-di-yu-frazer-institute/",
       "online": true,
-      "scraped_at": "2026-10-31T00:26:13.799533Z"
+      "scraped_at": "2026-10-31T23:57:35.510148Z"
     },
     {
       "id": "50b82e17cd71",
@@ -135,7 +135,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-juliana-yeung-bioeconomy-science-institute/",
       "online": true,
-      "scraped_at": "2026-10-31T00:26:15.184270Z"
+      "scraped_at": "2026-10-31T23:57:36.634273Z"
     },
     {
       "id": "b8fe16950bd6",
@@ -150,7 +150,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-somi-kordafshari-cancer-division/",
       "online": true,
-      "scraped_at": "2026-10-31T00:26:16.333211Z"
+      "scraped_at": "2026-10-31T23:57:37.824645Z"
     },
     {
       "id": "b5de38843456",
@@ -165,7 +165,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-kalle-gehring-mcgill-university/",
       "online": true,
-      "scraped_at": "2026-10-31T00:26:17.436683Z"
+      "scraped_at": "2026-10-31T23:57:39.022922Z"
     }
   ]
 }
