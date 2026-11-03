@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-02T00:20:26.810916Z",
-  "total": 9,
+  "generated_at": "2026-11-03T02:48:18.568437Z",
+  "total": 10,
   "seminars": [
     {
       "id": "49de1f47696e",
@@ -15,7 +15,7 @@
       "abstract": null,
       "url": "https://www.doherty.edu.au/event/sparkle-international-one-health-day-symposium/",
       "online": false,
-      "scraped_at": "2026-11-02T00:19:04.565903Z"
+      "scraped_at": "2026-11-03T02:47:09.444804Z"
     },
     {
       "id": "4a83eaca7bee",
@@ -30,7 +30,22 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-craig-crews-yale-university/",
       "online": true,
-      "scraped_at": "2026-11-02T00:18:53.809060Z"
+      "scraped_at": "2026-11-03T02:46:59.405807Z"
+    },
+    {
+      "id": "d459e036de68",
+      "institution": "WEHI",
+      "institution_color": "#003087",
+      "title": "Krishneel Prasad – Brain Cancer Centre",
+      "date": "2026-11-11",
+      "time": "13:00",
+      "speaker": "Krishneel Prasad",
+      "affiliation": "Brain Cancer Centre",
+      "location": "Davis Auditorium",
+      "abstract": null,
+      "url": "https://www.wehi.edu.au/event/krishneel-prasad-brain-cancer-centre-2/",
+      "online": true,
+      "scraped_at": "2026-11-03T02:46:59.836446Z"
     },
     {
       "id": "c8afa285db35",
@@ -45,7 +60,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/welcome-to-the-21st-international-celiac-disease-symposium/",
       "online": true,
-      "scraped_at": "2026-11-02T00:18:54.828531Z"
+      "scraped_at": "2026-11-03T02:47:00.112078Z"
     },
     {
       "id": "04284060bb48",
@@ -60,7 +75,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-shuai-huang-cancer-division/",
       "online": true,
-      "scraped_at": "2026-11-02T00:18:55.220990Z"
+      "scraped_at": "2026-11-03T02:47:01.260939Z"
     },
     {
       "id": "5a721db9ba7b",
@@ -75,7 +90,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/2026-wehi-ai-ml-symposium/",
       "online": true,
-      "scraped_at": "2026-11-02T00:18:55.470381Z"
+      "scraped_at": "2026-11-03T02:47:01.553295Z"
     },
     {
       "id": "78dfc8013ce6",
@@ -90,7 +105,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-di-yu-frazer-institute/",
       "online": true,
-      "scraped_at": "2026-11-02T00:18:56.637691Z"
+      "scraped_at": "2026-11-03T02:47:02.991344Z"
     },
     {
       "id": "50b82e17cd71",
@@ -105,7 +120,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-juliana-yeung-bioeconomy-science-institute/",
       "online": true,
-      "scraped_at": "2026-11-02T00:18:57.654645Z"
+      "scraped_at": "2026-11-03T02:47:04.044288Z"
     },
     {
       "id": "b8fe16950bd6",
@@ -120,7 +135,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-somi-kordafshari-cancer-division/",
       "online": true,
-      "scraped_at": "2026-11-02T00:18:58.723524Z"
+      "scraped_at": "2026-11-03T02:47:04.476577Z"
     },
     {
       "id": "b5de38843456",
@@ -135,7 +150,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-kalle-gehring-mcgill-university/",
       "online": true,
-      "scraped_at": "2026-11-02T00:18:59.831799Z"
+      "scraped_at": "2026-11-03T02:47:04.772178Z"
     }
   ]
 }
