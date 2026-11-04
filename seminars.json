@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T02:48:18.568437Z",
+  "generated_at": "2026-11-04T01:05:19.974678Z",
   "total": 10,
   "seminars": [
     {
@@ -15,7 +15,7 @@
       "abstract": null,
       "url": "https://www.doherty.edu.au/event/sparkle-international-one-health-day-symposium/",
       "online": false,
-      "scraped_at": "2026-11-03T02:47:09.444804Z"
+      "scraped_at": "2026-11-04T01:04:10.372746Z"
     },
     {
       "id": "4a83eaca7bee",
@@ -30,7 +30,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-craig-crews-yale-university/",
       "online": true,
-      "scraped_at": "2026-11-03T02:46:59.405807Z"
+      "scraped_at": "2026-11-04T01:03:56.974346Z"
     },
     {
       "id": "d459e036de68",
@@ -45,7 +45,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/krishneel-prasad-brain-cancer-centre-2/",
       "online": true,
-      "scraped_at": "2026-11-03T02:46:59.836446Z"
+      "scraped_at": "2026-11-04T01:03:57.253168Z"
     },
     {
       "id": "c8afa285db35",
@@ -60,7 +60,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/welcome-to-the-21st-international-celiac-disease-symposium/",
       "online": true,
-      "scraped_at": "2026-11-03T02:47:00.112078Z"
+      "scraped_at": "2026-11-04T01:03:57.535843Z"
     },
     {
       "id": "04284060bb48",
@@ -75,7 +75,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-shuai-huang-cancer-division/",
       "online": true,
-      "scraped_at": "2026-11-03T02:47:01.260939Z"
+      "scraped_at": "2026-11-04T01:03:58.704523Z"
     },
     {
       "id": "5a721db9ba7b",
@@ -90,7 +90,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/2026-wehi-ai-ml-symposium/",
       "online": true,
-      "scraped_at": "2026-11-03T02:47:01.553295Z"
+      "scraped_at": "2026-11-04T01:03:59.951401Z"
     },
     {
       "id": "78dfc8013ce6",
@@ -105,7 +105,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-di-yu-frazer-institute/",
       "online": true,
-      "scraped_at": "2026-11-03T02:47:02.991344Z"
+      "scraped_at": "2026-11-04T01:04:01.039253Z"
     },
     {
       "id": "50b82e17cd71",
@@ -120,7 +120,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-juliana-yeung-bioeconomy-science-institute/",
       "online": true,
-      "scraped_at": "2026-11-03T02:47:04.044288Z"
+      "scraped_at": "2026-11-04T01:04:02.441455Z"
     },
     {
       "id": "b8fe16950bd6",
@@ -135,7 +135,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-somi-kordafshari-cancer-division/",
       "online": true,
-      "scraped_at": "2026-11-03T02:47:04.476577Z"
+      "scraped_at": "2026-11-04T01:04:03.785346Z"
     },
     {
       "id": "b5de38843456",
@@ -150,7 +150,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-kalle-gehring-mcgill-university/",
       "online": true,
-      "scraped_at": "2026-11-03T02:47:04.772178Z"
+      "scraped_at": "2026-11-04T01:04:05.194541Z"
     }
   ]
 }
