@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-04T01:05:19.974678Z",
-  "total": 10,
+  "generated_at": "2026-11-05T01:20:27.022985Z",
+  "total": 12,
   "seminars": [
     {
       "id": "49de1f47696e",
@@ -15,7 +15,7 @@
       "abstract": null,
       "url": "https://www.doherty.edu.au/event/sparkle-international-one-health-day-symposium/",
       "online": false,
-      "scraped_at": "2026-11-04T01:04:10.372746Z"
+      "scraped_at": "2026-11-05T01:19:12.613864Z"
     },
     {
       "id": "4a83eaca7bee",
@@ -30,7 +30,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-craig-crews-yale-university/",
       "online": true,
-      "scraped_at": "2026-11-04T01:03:56.974346Z"
+      "scraped_at": "2026-11-05T01:18:57.143598Z"
     },
     {
       "id": "d459e036de68",
@@ -45,7 +45,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/krishneel-prasad-brain-cancer-centre-2/",
       "online": true,
-      "scraped_at": "2026-11-04T01:03:57.253168Z"
+      "scraped_at": "2026-11-05T01:18:58.227652Z"
     },
     {
       "id": "c8afa285db35",
@@ -60,7 +60,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/welcome-to-the-21st-international-celiac-disease-symposium/",
       "online": true,
-      "scraped_at": "2026-11-04T01:03:57.535843Z"
+      "scraped_at": "2026-11-05T01:18:58.517149Z"
     },
     {
       "id": "04284060bb48",
@@ -75,7 +75,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-shuai-huang-cancer-division/",
       "online": true,
-      "scraped_at": "2026-11-04T01:03:58.704523Z"
+      "scraped_at": "2026-11-05T01:18:59.661939Z"
     },
     {
       "id": "5a721db9ba7b",
@@ -90,7 +90,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/2026-wehi-ai-ml-symposium/",
       "online": true,
-      "scraped_at": "2026-11-04T01:03:59.951401Z"
+      "scraped_at": "2026-11-05T01:18:59.934680Z"
     },
     {
       "id": "78dfc8013ce6",
@@ -105,7 +105,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-di-yu-frazer-institute/",
       "online": true,
-      "scraped_at": "2026-11-04T01:04:01.039253Z"
+      "scraped_at": "2026-11-05T01:19:01.122736Z"
     },
     {
       "id": "50b82e17cd71",
@@ -120,7 +120,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-juliana-yeung-bioeconomy-science-institute/",
       "online": true,
-      "scraped_at": "2026-11-04T01:04:02.441455Z"
+      "scraped_at": "2026-11-05T01:19:02.788950Z"
     },
     {
       "id": "b8fe16950bd6",
@@ -135,7 +135,22 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-somi-kordafshari-cancer-division/",
       "online": true,
-      "scraped_at": "2026-11-04T01:04:03.785346Z"
+      "scraped_at": "2026-11-05T01:19:04.509035Z"
+    },
+    {
+      "id": "9f4ded12bee5",
+      "institution": "WEHI",
+      "institution_color": "#003087",
+      "title": "Professor Angelika Harbauer – MPI für Biologische Intelligenz and Technical University Munich (TUM)",
+      "date": "2026-12-03",
+      "time": "09:30",
+      "speaker": "Professor Angelika Harbauer",
+      "affiliation": "MPI für Biologische Intelligenz and Technical University Munich (TUM)",
+      "location": "Davis Auditorium",
+      "abstract": null,
+      "url": "https://www.wehi.edu.au/event/professor-angelika-harbauer-mpi-fur-biologische-intelligenz-and-technical-university-munich-tum/",
+      "online": true,
+      "scraped_at": "2026-11-05T01:19:04.964209Z"
     },
     {
       "id": "b5de38843456",
@@ -150,7 +165,22 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-kalle-gehring-mcgill-university/",
       "online": true,
-      "scraped_at": "2026-11-04T01:04:05.194541Z"
+      "scraped_at": "2026-11-05T01:19:06.668829Z"
+    },
+    {
+      "id": "0a015a94250a",
+      "institution": "WEHI",
+      "institution_color": "#003087",
+      "title": "Professor Rick Drake – Medical University of South Carolina",
+      "date": "2026-12-11",
+      "time": "10:30",
+      "speaker": "Professor Rick Drake",
+      "affiliation": "Medical University of South Carolina",
+      "location": "Davis Auditorium",
+      "abstract": null,
+      "url": "https://www.wehi.edu.au/event/professor-rick-drake-medical-university-of-south-carolina/",
+      "online": true,
+      "scraped_at": "2026-11-05T01:19:07.114913Z"
     }
   ]
 }
