@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T00:39:18.115087Z",
+  "generated_at": "2026-11-08T00:14:07.795950Z",
   "total": 11,
   "seminars": [
     {
@@ -15,7 +15,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-ivanhoe-leung-bio21-institute/",
       "online": true,
-      "scraped_at": "2026-11-07T00:38:22.647586Z"
+      "scraped_at": "2026-11-08T00:13:16.282283Z"
     },
     {
       "id": "d459e036de68",
@@ -30,7 +30,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/krishneel-prasad-brain-cancer-centre-2/",
       "online": true,
-      "scraped_at": "2026-11-07T00:38:23.065725Z"
+      "scraped_at": "2026-11-08T00:13:16.609575Z"
     },
     {
       "id": "c8afa285db35",
@@ -45,7 +45,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/welcome-to-the-21st-international-celiac-disease-symposium/",
       "online": true,
-      "scraped_at": "2026-11-07T00:38:23.323190Z"
+      "scraped_at": "2026-11-08T00:13:16.936545Z"
     },
     {
       "id": "04284060bb48",
@@ -60,7 +60,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-shuai-huang-cancer-division/",
       "online": true,
-      "scraped_at": "2026-11-07T00:38:24.516575Z"
+      "scraped_at": "2026-11-08T00:13:17.255494Z"
     },
     {
       "id": "5a721db9ba7b",
@@ -75,7 +75,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/2026-wehi-ai-ml-symposium/",
       "online": true,
-      "scraped_at": "2026-11-07T00:38:24.793682Z"
+      "scraped_at": "2026-11-08T00:13:17.667451Z"
     },
     {
       "id": "78dfc8013ce6",
@@ -90,7 +90,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-di-yu-frazer-institute/",
       "online": true,
-      "scraped_at": "2026-11-07T00:38:25.996048Z"
+      "scraped_at": "2026-11-08T00:13:18.008325Z"
     },
     {
       "id": "50b82e17cd71",
@@ -105,7 +105,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-juliana-yeung-bioeconomy-science-institute/",
       "online": true,
-      "scraped_at": "2026-11-07T00:38:27.201356Z"
+      "scraped_at": "2026-11-08T00:13:18.317654Z"
     },
     {
       "id": "b8fe16950bd6",
@@ -120,7 +120,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-somi-kordafshari-cancer-division/",
       "online": true,
-      "scraped_at": "2026-11-07T00:38:28.281013Z"
+      "scraped_at": "2026-11-08T00:13:18.636988Z"
     },
     {
       "id": "9f4ded12bee5",
@@ -135,7 +135,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-angelika-harbauer-mpi-fur-biologische-intelligenz-and-technical-university-munich-tum/",
       "online": true,
-      "scraped_at": "2026-11-07T00:38:29.404136Z"
+      "scraped_at": "2026-11-08T00:13:18.936910Z"
     },
     {
       "id": "b5de38843456",
@@ -150,7 +150,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-kalle-gehring-mcgill-university/",
       "online": true,
-      "scraped_at": "2026-11-07T00:38:30.475554Z"
+      "scraped_at": "2026-11-08T00:13:20.206159Z"
     },
     {
       "id": "0a015a94250a",
@@ -165,7 +165,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-rick-drake-medical-university-of-south-carolina/",
       "online": true,
-      "scraped_at": "2026-11-07T00:38:31.628597Z"
+      "scraped_at": "2026-11-08T00:13:20.505242Z"
     }
   ]
 }
