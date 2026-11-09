@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-08T00:14:07.795950Z",
-  "total": 11,
+  "generated_at": "2026-11-09T00:35:38.526615Z",
+  "total": 12,
   "seminars": [
     {
       "id": "c12fd43cc769",
@@ -15,7 +15,22 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-ivanhoe-leung-bio21-institute/",
       "online": true,
-      "scraped_at": "2026-11-08T00:13:16.282283Z"
+      "scraped_at": "2026-11-09T00:34:38.853561Z"
+    },
+    {
+      "id": "743c52e725a2",
+      "institution": "Melbourne Bioinformatics",
+      "institution_color": "#005A8E",
+      "title": "Events",
+      "date": "2026-11-11",
+      "time": null,
+      "speaker": null,
+      "affiliation": null,
+      "location": "University of Melbourne, Parkville campus, G06 Theatre, Ground floor, Elisabeth Murdoch Building, Blg 134 (venue map) Read more >Events for future studentsFirst Nations EventsAll public lectures",
+      "abstract": "Faculty of Arts at the University of Melbourne Join Dr Jemma Purdey, Adjunct Fellow at the Australia-Indonesia Centre, as she explores how partnerships between Australian and Indonesian researchers, educators, activists, artists and media professionals are more crucial than ever.",
+      "url": "https://events.unimelb.edu.au/live/events/55862-partnership-as-practice-knowledge-making-public",
+      "online": true,
+      "scraped_at": "2026-11-09T00:35:19.189660Z"
     },
     {
       "id": "d459e036de68",
@@ -30,7 +45,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/krishneel-prasad-brain-cancer-centre-2/",
       "online": true,
-      "scraped_at": "2026-11-08T00:13:16.609575Z"
+      "scraped_at": "2026-11-09T00:34:39.224797Z"
     },
     {
       "id": "c8afa285db35",
@@ -45,7 +60,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/welcome-to-the-21st-international-celiac-disease-symposium/",
       "online": true,
-      "scraped_at": "2026-11-08T00:13:16.936545Z"
+      "scraped_at": "2026-11-09T00:34:40.271123Z"
     },
     {
       "id": "04284060bb48",
@@ -60,7 +75,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-shuai-huang-cancer-division/",
       "online": true,
-      "scraped_at": "2026-11-08T00:13:17.255494Z"
+      "scraped_at": "2026-11-09T00:34:40.639136Z"
     },
     {
       "id": "5a721db9ba7b",
@@ -75,7 +90,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/2026-wehi-ai-ml-symposium/",
       "online": true,
-      "scraped_at": "2026-11-08T00:13:17.667451Z"
+      "scraped_at": "2026-11-09T00:34:41.018512Z"
     },
     {
       "id": "78dfc8013ce6",
@@ -90,7 +105,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-di-yu-frazer-institute/",
       "online": true,
-      "scraped_at": "2026-11-08T00:13:18.008325Z"
+      "scraped_at": "2026-11-09T00:34:41.383620Z"
     },
     {
       "id": "50b82e17cd71",
@@ -105,7 +120,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-juliana-yeung-bioeconomy-science-institute/",
       "online": true,
-      "scraped_at": "2026-11-08T00:13:18.317654Z"
+      "scraped_at": "2026-11-09T00:34:41.754912Z"
     },
     {
       "id": "b8fe16950bd6",
@@ -120,7 +135,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-somi-kordafshari-cancer-division/",
       "online": true,
-      "scraped_at": "2026-11-08T00:13:18.636988Z"
+      "scraped_at": "2026-11-09T00:34:42.116870Z"
     },
     {
       "id": "9f4ded12bee5",
@@ -135,7 +150,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-angelika-harbauer-mpi-fur-biologische-intelligenz-and-technical-university-munich-tum/",
       "online": true,
-      "scraped_at": "2026-11-08T00:13:18.936910Z"
+      "scraped_at": "2026-11-09T00:34:43.544067Z"
     },
     {
       "id": "b5de38843456",
@@ -150,7 +165,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-kalle-gehring-mcgill-university/",
       "online": true,
-      "scraped_at": "2026-11-08T00:13:20.206159Z"
+      "scraped_at": "2026-11-09T00:34:44.916801Z"
     },
     {
       "id": "0a015a94250a",
@@ -165,7 +180,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-rick-drake-medical-university-of-south-carolina/",
       "online": true,
-      "scraped_at": "2026-11-08T00:13:20.505242Z"
+      "scraped_at": "2026-11-09T00:34:46.201064Z"
     }
   ]
 }
