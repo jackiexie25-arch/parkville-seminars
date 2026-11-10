@@ -1,22 +1,7 @@
 {
-  "generated_at": "2026-11-09T00:35:38.526615Z",
-  "total": 12,
+  "generated_at": "2026-11-10T03:13:58.991822Z",
+  "total": 14,
   "seminars": [
-    {
-      "id": "c12fd43cc769",
-      "institution": "WEHI",
-      "institution_color": "#003087",
-      "title": "Dr Ivanhoe Leung – Bio21 Institute",
-      "date": "2026-11-10",
-      "time": "12:15",
-      "speaker": "Dr Ivanhoe Leung",
-      "affiliation": "Bio21 Institute",
-      "location": "L7W Seminar Room",
-      "abstract": null,
-      "url": "https://www.wehi.edu.au/event/dr-ivanhoe-leung-bio21-institute/",
-      "online": true,
-      "scraped_at": "2026-11-09T00:34:38.853561Z"
-    },
     {
       "id": "743c52e725a2",
       "institution": "Melbourne Bioinformatics",
@@ -26,11 +11,11 @@
       "time": null,
       "speaker": null,
       "affiliation": null,
-      "location": "University of Melbourne, Parkville campus, G06 Theatre, Ground floor, Elisabeth Murdoch Building, Blg 134 (venue map) Read more >Events for future studentsFirst Nations EventsAll public lectures",
-      "abstract": "Faculty of Arts at the University of Melbourne Join Dr Jemma Purdey, Adjunct Fellow at the Australia-Indonesia Centre, as she explores how partnerships between Australian and Indonesian researchers, educators, activists, artists and media professionals are more crucial than ever.",
-      "url": "https://events.unimelb.edu.au/live/events/55862-partnership-as-practice-knowledge-making-public",
+      "location": "University of Melbourne, Parkville campus, G06 Theatre, Ground floor, Elisabeth Murdoch Building, Blg 134 (venue map) Read more > Big Science Pitch Date Nov11 Time 6:00pm - 7:30pm Categories Seminar or Forum Our exciting young scientists will pitch their big ideas to an expert panel of judges for the chance to win research funding. Each scientist will have 3 minutes to deliver their pitch, and this will be followed by a live Q&A, and interactive games while the judges deliberate, all in a family friendly format that you can take part in from the comfort of your own home. You also get a say in who receives funding by voting for the People’s Choice award. With $100k up for grabs, who will you choose? Events for future studentsFirst Nations EventsAll public lectures",
+      "abstract": "Melbourne Energy Institute at the University of Melbourne The Melbourne Energy Institute (MEI), together with Melbourne Initiative for Quantum Technology (MIQT) are partnering to bring together experts from the University of Melbourne, industry, and government to explore one of the defining technological frontiers of our time: Quantum.",
+      "url": "https://events.unimelb.edu.au/live/events/56157-how-can-quantum-support-the-energy-transition",
       "online": true,
-      "scraped_at": "2026-11-09T00:35:19.189660Z"
+      "scraped_at": "2026-11-10T03:13:42.042383Z"
     },
     {
       "id": "d459e036de68",
@@ -45,7 +30,22 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/krishneel-prasad-brain-cancer-centre-2/",
       "online": true,
-      "scraped_at": "2026-11-09T00:34:39.224797Z"
+      "scraped_at": "2026-11-10T03:13:03.968009Z"
+    },
+    {
+      "id": "3d79fce2583e",
+      "institution": "Doherty Institute",
+      "institution_color": "#00539B",
+      "title": "Doherty Institute Community Engagement Symposium 2026",
+      "date": "2026-11-12",
+      "time": null,
+      "speaker": null,
+      "affiliation": null,
+      "location": "Online",
+      "abstract": null,
+      "url": "https://www.doherty.edu.au/event/doherty-institute-community-engagement-symposium-2026/",
+      "online": true,
+      "scraped_at": "2026-11-10T03:13:18.106494Z"
     },
     {
       "id": "c8afa285db35",
@@ -60,7 +60,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/welcome-to-the-21st-international-celiac-disease-symposium/",
       "online": true,
-      "scraped_at": "2026-11-09T00:34:40.271123Z"
+      "scraped_at": "2026-11-10T03:13:05.096745Z"
     },
     {
       "id": "04284060bb48",
@@ -75,7 +75,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-shuai-huang-cancer-division/",
       "online": true,
-      "scraped_at": "2026-11-09T00:34:40.639136Z"
+      "scraped_at": "2026-11-10T03:13:05.527126Z"
     },
     {
       "id": "5a721db9ba7b",
@@ -90,7 +90,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/2026-wehi-ai-ml-symposium/",
       "online": true,
-      "scraped_at": "2026-11-09T00:34:41.018512Z"
+      "scraped_at": "2026-11-10T03:13:05.768203Z"
     },
     {
       "id": "78dfc8013ce6",
@@ -105,7 +105,22 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-di-yu-frazer-institute/",
       "online": true,
-      "scraped_at": "2026-11-09T00:34:41.383620Z"
+      "scraped_at": "2026-11-10T03:13:06.842767Z"
+    },
+    {
+      "id": "8ee67b01020b",
+      "institution": "WEHI",
+      "institution_color": "#003087",
+      "title": "Assoc Prof Leonard Goldstein – Garvan Institute of Medical Research",
+      "date": "2026-11-24",
+      "time": "11:00",
+      "speaker": "Assoc Prof Leonard Goldstein",
+      "affiliation": "Garvan Institute of Medical Research",
+      "location": "Davis Auditorium",
+      "abstract": null,
+      "url": "https://www.wehi.edu.au/event/assoc-prof-leonard-goldstein-garvan-institute-of-medical-research/",
+      "online": true,
+      "scraped_at": "2026-11-10T03:13:07.869063Z"
     },
     {
       "id": "50b82e17cd71",
@@ -120,7 +135,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-juliana-yeung-bioeconomy-science-institute/",
       "online": true,
-      "scraped_at": "2026-11-09T00:34:41.754912Z"
+      "scraped_at": "2026-11-10T03:13:09.063624Z"
     },
     {
       "id": "b8fe16950bd6",
@@ -135,7 +150,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-somi-kordafshari-cancer-division/",
       "online": true,
-      "scraped_at": "2026-11-09T00:34:42.116870Z"
+      "scraped_at": "2026-11-10T03:13:10.366366Z"
     },
     {
       "id": "9f4ded12bee5",
@@ -150,7 +165,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-angelika-harbauer-mpi-fur-biologische-intelligenz-and-technical-university-munich-tum/",
       "online": true,
-      "scraped_at": "2026-11-09T00:34:43.544067Z"
+      "scraped_at": "2026-11-10T03:13:10.768111Z"
     },
     {
       "id": "b5de38843456",
@@ -165,7 +180,22 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-kalle-gehring-mcgill-university/",
       "online": true,
-      "scraped_at": "2026-11-09T00:34:44.916801Z"
+      "scraped_at": "2026-11-10T03:13:11.859084Z"
+    },
+    {
+      "id": "5bbd09e10f97",
+      "institution": "WEHI",
+      "institution_color": "#003087",
+      "title": "Dhanya Lakshmi Narayanan – Hudson Institute of Medical Research",
+      "date": "2026-12-04",
+      "time": "12:00",
+      "speaker": "Dhanya Lakshmi Narayanan",
+      "affiliation": "Hudson Institute of Medical Research",
+      "location": "Online",
+      "abstract": null,
+      "url": "https://www.wehi.edu.au/event/dhanya-lakshmi-narayanan-hudson-institute-of-medical-research/",
+      "online": true,
+      "scraped_at": "2026-11-10T03:13:12.986637Z"
     },
     {
       "id": "0a015a94250a",
@@ -180,7 +210,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-rick-drake-medical-university-of-south-carolina/",
       "online": true,
-      "scraped_at": "2026-11-09T00:34:46.201064Z"
+      "scraped_at": "2026-11-10T03:13:13.373784Z"
     }
   ]
 }
