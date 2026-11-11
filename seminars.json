@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T03:13:58.991822Z",
+  "generated_at": "2026-11-11T01:04:20.116427Z",
   "total": 14,
   "seminars": [
     {
@@ -15,22 +15,7 @@
       "abstract": "Melbourne Energy Institute at the University of Melbourne The Melbourne Energy Institute (MEI), together with Melbourne Initiative for Quantum Technology (MIQT) are partnering to bring together experts from the University of Melbourne, industry, and government to explore one of the defining technological frontiers of our time: Quantum.",
       "url": "https://events.unimelb.edu.au/live/events/56157-how-can-quantum-support-the-energy-transition",
       "online": true,
-      "scraped_at": "2026-11-10T03:13:42.042383Z"
-    },
-    {
-      "id": "d459e036de68",
-      "institution": "WEHI",
-      "institution_color": "#003087",
-      "title": "Krishneel Prasad – Brain Cancer Centre",
-      "date": "2026-11-11",
-      "time": "13:00",
-      "speaker": "Krishneel Prasad",
-      "affiliation": "Brain Cancer Centre",
-      "location": "Davis Auditorium",
-      "abstract": null,
-      "url": "https://www.wehi.edu.au/event/krishneel-prasad-brain-cancer-centre-2/",
-      "online": true,
-      "scraped_at": "2026-11-10T03:13:03.968009Z"
+      "scraped_at": "2026-11-11T01:04:01.608809Z"
     },
     {
       "id": "3d79fce2583e",
@@ -45,7 +30,7 @@
       "abstract": null,
       "url": "https://www.doherty.edu.au/event/doherty-institute-community-engagement-symposium-2026/",
       "online": true,
-      "scraped_at": "2026-11-10T03:13:18.106494Z"
+      "scraped_at": "2026-11-11T01:02:40.493493Z"
     },
     {
       "id": "c8afa285db35",
@@ -60,7 +45,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/welcome-to-the-21st-international-celiac-disease-symposium/",
       "online": true,
-      "scraped_at": "2026-11-10T03:13:05.096745Z"
+      "scraped_at": "2026-11-11T01:02:23.798636Z"
     },
     {
       "id": "04284060bb48",
@@ -75,7 +60,22 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-shuai-huang-cancer-division/",
       "online": true,
-      "scraped_at": "2026-11-10T03:13:05.527126Z"
+      "scraped_at": "2026-11-11T01:02:24.280064Z"
+    },
+    {
+      "id": "d8e979ac00f9",
+      "institution": "Doherty Institute",
+      "institution_color": "#00539B",
+      "title": "Bridging lab, data and patients: Digital approaches to AMS and AMR",
+      "date": "2026-11-20",
+      "time": null,
+      "speaker": null,
+      "affiliation": null,
+      "location": "Online",
+      "abstract": null,
+      "url": "https://www.doherty.edu.au/event/bridging-lab-data-and-patients-digital-approaches-to-ams-and-amr/",
+      "online": true,
+      "scraped_at": "2026-11-11T01:02:39.374775Z"
     },
     {
       "id": "5a721db9ba7b",
@@ -90,7 +90,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/2026-wehi-ai-ml-symposium/",
       "online": true,
-      "scraped_at": "2026-11-10T03:13:05.768203Z"
+      "scraped_at": "2026-11-11T01:02:24.572521Z"
     },
     {
       "id": "78dfc8013ce6",
@@ -105,7 +105,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-di-yu-frazer-institute/",
       "online": true,
-      "scraped_at": "2026-11-10T03:13:06.842767Z"
+      "scraped_at": "2026-11-11T01:02:25.929745Z"
     },
     {
       "id": "8ee67b01020b",
@@ -120,7 +120,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/assoc-prof-leonard-goldstein-garvan-institute-of-medical-research/",
       "online": true,
-      "scraped_at": "2026-11-10T03:13:07.869063Z"
+      "scraped_at": "2026-11-11T01:02:26.228608Z"
     },
     {
       "id": "50b82e17cd71",
@@ -135,7 +135,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-juliana-yeung-bioeconomy-science-institute/",
       "online": true,
-      "scraped_at": "2026-11-10T03:13:09.063624Z"
+      "scraped_at": "2026-11-11T01:02:26.520779Z"
     },
     {
       "id": "b8fe16950bd6",
@@ -150,7 +150,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-somi-kordafshari-cancer-division/",
       "online": true,
-      "scraped_at": "2026-11-10T03:13:10.366366Z"
+      "scraped_at": "2026-11-11T01:02:27.918457Z"
     },
     {
       "id": "9f4ded12bee5",
@@ -165,7 +165,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-angelika-harbauer-mpi-fur-biologische-intelligenz-and-technical-university-munich-tum/",
       "online": true,
-      "scraped_at": "2026-11-10T03:13:10.768111Z"
+      "scraped_at": "2026-11-11T01:02:29.094969Z"
     },
     {
       "id": "b5de38843456",
@@ -180,7 +180,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-kalle-gehring-mcgill-university/",
       "online": true,
-      "scraped_at": "2026-11-10T03:13:11.859084Z"
+      "scraped_at": "2026-11-11T01:02:30.331858Z"
     },
     {
       "id": "5bbd09e10f97",
@@ -195,7 +195,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dhanya-lakshmi-narayanan-hudson-institute-of-medical-research/",
       "online": true,
-      "scraped_at": "2026-11-10T03:13:12.986637Z"
+      "scraped_at": "2026-11-11T01:02:31.542911Z"
     },
     {
       "id": "0a015a94250a",
@@ -210,7 +210,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-rick-drake-medical-university-of-south-carolina/",
       "online": true,
-      "scraped_at": "2026-11-10T03:13:13.373784Z"
+      "scraped_at": "2026-11-11T01:02:32.907843Z"
     }
   ]
 }
