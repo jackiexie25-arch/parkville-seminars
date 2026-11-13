@@ -1,89 +1,89 @@
 {
-  "generated_at": "2026-11-12T02:08:50.008750Z",
+  "generated_at": "2026-11-13T01:42:42.144423Z",
   "scrapers": {
     "wehi": {
       "name": "WEHI",
       "status": "ok",
       "count": 14,
-      "duration_s": 11.3,
-      "last_run": "2026-11-12T02:07:57.485916Z"
+      "duration_s": 19.6,
+      "last_run": "2026-11-13T01:41:54.639660Z"
     },
     "doherty": {
       "name": "Doherty Institute",
       "status": "ok",
       "count": 26,
-      "duration_s": 9.5,
-      "last_run": "2026-11-12T02:08:07.032888Z"
+      "duration_s": 9.8,
+      "last_run": "2026-11-13T01:42:04.423634Z"
     },
     "peter_mac": {
       "name": "Peter MacCallum",
       "status": "empty",
       "count": 0,
-      "duration_s": 0.7,
-      "last_run": "2026-11-12T02:08:07.702317Z"
+      "duration_s": 0.8,
+      "last_run": "2026-11-13T01:42:05.193858Z"
     },
     "mcri": {
       "name": "MCRI",
       "status": "ok",
       "count": 1,
-      "duration_s": 8.1,
-      "last_run": "2026-11-12T02:08:15.845847Z"
+      "duration_s": 1.9,
+      "last_run": "2026-11-13T01:42:07.133189Z"
     },
     "florey": {
       "name": "Florey Institute",
       "status": "empty",
       "count": 0,
-      "duration_s": 2.4,
-      "last_run": "2026-11-12T02:08:18.277366Z"
+      "duration_s": 2.1,
+      "last_run": "2026-11-13T01:42:09.235010Z"
     },
     "bio21": {
       "name": "Bio21 Institute",
       "status": "empty",
       "count": 0,
-      "duration_s": 3.8,
-      "last_run": "2026-11-12T02:08:22.043768Z"
+      "duration_s": 4.3,
+      "last_run": "2026-11-13T01:42:13.487554Z"
     },
     "orygen": {
       "name": "Orygen",
       "status": "ok",
       "count": 1,
-      "duration_s": 9.3,
-      "last_run": "2026-11-12T02:08:31.323386Z"
+      "duration_s": 9.6,
+      "last_run": "2026-11-13T01:42:23.130093Z"
     },
     "melbourne_bioinformatics": {
       "name": "Melbourne Bioinformatics",
       "status": "ok",
       "count": 1,
-      "duration_s": 5.1,
-      "last_run": "2026-11-12T02:08:36.395586Z"
+      "duration_s": 3.7,
+      "last_run": "2026-11-13T01:42:26.790916Z"
     },
     "melbourne_brain_centre": {
       "name": "Melbourne Brain Centre",
       "status": "empty",
       "count": 0,
-      "duration_s": 1.4,
-      "last_run": "2026-11-12T02:08:37.843845Z"
+      "duration_s": 2.6,
+      "last_run": "2026-11-13T01:42:29.424574Z"
     },
     "rmh": {
       "name": "Royal Melbourne Hospital",
       "status": "ok",
       "count": 2,
-      "duration_s": 3.5,
-      "last_run": "2026-11-12T02:08:41.328782Z"
+      "duration_s": 3.1,
+      "last_run": "2026-11-13T01:42:32.558267Z"
     },
     "cera": {
       "name": "CERA",
       "status": "empty",
       "count": 0,
-      "duration_s": 8.2,
-      "last_run": "2026-11-12T02:08:49.566561Z"
+      "duration_s": 9.1,
+      "last_run": "2026-11-13T01:42:41.672024Z"
     },
     "bionics": {
       "name": "Bionics Institute",
       "status": "empty",
       "count": 0,
-      "duration_s": 0.4,
-      "last_run": "2026-11-12T02:08:50.007814Z"
+      "duration_s": 0.5,
+      "last_run": "2026-11-13T01:42:42.143263Z"
     }
   }
 }
