@@ -1,37 +1,7 @@
 {
-  "generated_at": "2026-11-17T03:27:12.713119Z",
-  "total": 16,
+  "generated_at": "2026-11-18T02:46:27.763124Z",
+  "total": 14,
   "seminars": [
-    {
-      "id": "04284060bb48",
-      "institution": "WEHI",
-      "institution_color": "#003087",
-      "title": "Dr Shuai Huang – Cancer division",
-      "date": "2026-11-18",
-      "time": "13:00",
-      "speaker": "Dr Shuai Huang",
-      "affiliation": "Cancer division",
-      "location": "Davis Auditorium",
-      "abstract": null,
-      "url": "https://www.wehi.edu.au/event/dr-shuai-huang-cancer-division/",
-      "online": true,
-      "scraped_at": "2026-11-17T03:26:09.435097Z"
-    },
-    {
-      "id": "0b6e4a8a5a9a",
-      "institution": "WEHI",
-      "institution_color": "#003087",
-      "title": "Expansion Microscopy Symposium",
-      "date": "2026-11-18",
-      "time": "14:00",
-      "speaker": null,
-      "affiliation": null,
-      "location": "L7W Seminar Room",
-      "abstract": null,
-      "url": "https://www.wehi.edu.au/event/expansion-microscopy-symposium/",
-      "online": true,
-      "scraped_at": "2026-11-17T03:26:10.973572Z"
-    },
     {
       "id": "e952eda6449c",
       "institution": "WEHI",
@@ -45,7 +15,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/fireside-chat-with-nobel-laureate-drew-weissman-and-suzanne-cory/",
       "online": true,
-      "scraped_at": "2026-11-17T03:26:12.676716Z"
+      "scraped_at": "2026-11-18T02:45:00.940574Z"
     },
     {
       "id": "d8e979ac00f9",
@@ -60,7 +30,7 @@
       "abstract": null,
       "url": "https://www.doherty.edu.au/event/bridging-lab-data-and-patients-digital-approaches-to-ams-and-amr/",
       "online": true,
-      "scraped_at": "2026-11-17T03:26:33.316053Z"
+      "scraped_at": "2026-11-18T02:45:10.164253Z"
     },
     {
       "id": "5a721db9ba7b",
@@ -75,7 +45,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/2026-wehi-ai-ml-symposium/",
       "online": true,
-      "scraped_at": "2026-11-17T03:26:14.943540Z"
+      "scraped_at": "2026-11-18T02:45:01.251781Z"
     },
     {
       "id": "78dfc8013ce6",
@@ -90,7 +60,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-di-yu-frazer-institute/",
       "online": true,
-      "scraped_at": "2026-11-17T03:26:16.888060Z"
+      "scraped_at": "2026-11-18T02:45:01.565828Z"
     },
     {
       "id": "8ee67b01020b",
@@ -105,7 +75,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/assoc-prof-leonard-goldstein-garvan-institute-of-medical-research/",
       "online": true,
-      "scraped_at": "2026-11-17T03:26:19.207449Z"
+      "scraped_at": "2026-11-18T02:45:01.882081Z"
     },
     {
       "id": "48d844bfdef5",
@@ -120,7 +90,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/beyond-the-genome-with-multiomics/",
       "online": true,
-      "scraped_at": "2026-11-17T03:26:20.823469Z"
+      "scraped_at": "2026-11-18T02:45:02.187274Z"
     },
     {
       "id": "50b82e17cd71",
@@ -135,7 +105,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-juliana-yeung-bioeconomy-science-institute/",
       "online": true,
-      "scraped_at": "2026-11-17T03:26:21.319984Z"
+      "scraped_at": "2026-11-18T02:45:02.491246Z"
     },
     {
       "id": "b8fe16950bd6",
@@ -150,7 +120,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-somi-kordafshari-cancer-division/",
       "online": true,
-      "scraped_at": "2026-11-17T03:26:22.478758Z"
+      "scraped_at": "2026-11-18T02:45:02.797350Z"
     },
     {
       "id": "edf13f9565c2",
@@ -165,7 +135,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/felicia-bongiovanni-immunity-division/",
       "online": true,
-      "scraped_at": "2026-11-17T03:26:22.766739Z"
+      "scraped_at": "2026-11-18T02:45:03.106944Z"
     },
     {
       "id": "9f4ded12bee5",
@@ -180,7 +150,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-angelika-harbauer-mpi-fur-biologische-intelligenz-and-technical-university-munich-tum/",
       "online": true,
-      "scraped_at": "2026-11-17T03:26:23.064217Z"
+      "scraped_at": "2026-11-18T02:45:03.406255Z"
     },
     {
       "id": "b5de38843456",
@@ -195,7 +165,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-kalle-gehring-mcgill-university/",
       "online": true,
-      "scraped_at": "2026-11-17T03:26:24.654077Z"
+      "scraped_at": "2026-11-18T02:45:03.692333Z"
     },
     {
       "id": "5bbd09e10f97",
@@ -210,7 +180,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dhanya-lakshmi-narayanan-hudson-institute-of-medical-research/",
       "online": true,
-      "scraped_at": "2026-11-17T03:26:26.219884Z"
+      "scraped_at": "2026-11-18T02:45:03.978757Z"
     },
     {
       "id": "caf70045d7ef",
@@ -225,7 +195,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-simona-seizova-immunity-division/",
       "online": true,
-      "scraped_at": "2026-11-17T03:26:27.517607Z"
+      "scraped_at": "2026-11-18T02:45:04.261459Z"
     },
     {
       "id": "0a015a94250a",
@@ -240,7 +210,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-rick-drake-medical-university-of-south-carolina/",
       "online": true,
-      "scraped_at": "2026-11-17T03:26:29.009190Z"
+      "scraped_at": "2026-11-18T02:45:04.577252Z"
     }
   ]
 }
