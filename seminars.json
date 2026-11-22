@@ -1,22 +1,7 @@
 {
-  "generated_at": "2026-11-21T02:00:23.616757Z",
-  "total": 12,
+  "generated_at": "2026-11-22T01:00:14.437656Z",
+  "total": 11,
   "seminars": [
-    {
-      "id": "d8e979ac00f9",
-      "institution": "Doherty Institute",
-      "institution_color": "#00539B",
-      "title": "Bridging lab, data and patients: Digital approaches to AMS and AMR",
-      "date": "2026-11-20",
-      "time": null,
-      "speaker": null,
-      "affiliation": null,
-      "location": "Online",
-      "abstract": null,
-      "url": "https://www.doherty.edu.au/event/bridging-lab-data-and-patients-digital-approaches-to-ams-and-amr/",
-      "online": true,
-      "scraped_at": "2026-11-21T01:59:17.069367Z"
-    },
     {
       "id": "8ee67b01020b",
       "institution": "WEHI",
@@ -30,7 +15,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/assoc-prof-leonard-goldstein-garvan-institute-of-medical-research/",
       "online": true,
-      "scraped_at": "2026-11-21T01:59:09.577301Z"
+      "scraped_at": "2026-11-22T00:58:52.986325Z"
     },
     {
       "id": "48d844bfdef5",
@@ -45,7 +30,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/beyond-the-genome-with-multiomics/",
       "online": true,
-      "scraped_at": "2026-11-21T01:59:09.838509Z"
+      "scraped_at": "2026-11-22T00:58:53.281041Z"
     },
     {
       "id": "50b82e17cd71",
@@ -60,7 +45,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-juliana-yeung-bioeconomy-science-institute/",
       "online": true,
-      "scraped_at": "2026-11-21T01:59:10.123241Z"
+      "scraped_at": "2026-11-22T00:58:53.888649Z"
     },
     {
       "id": "b8fe16950bd6",
@@ -75,7 +60,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-somi-kordafshari-cancer-division/",
       "online": true,
-      "scraped_at": "2026-11-21T01:59:10.387566Z"
+      "scraped_at": "2026-11-22T00:58:54.182597Z"
     },
     {
       "id": "edf13f9565c2",
@@ -90,7 +75,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/felicia-bongiovanni-immunity-division/",
       "online": true,
-      "scraped_at": "2026-11-21T01:59:10.650345Z"
+      "scraped_at": "2026-11-22T00:58:54.479977Z"
     },
     {
       "id": "9f4ded12bee5",
@@ -105,7 +90,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-angelika-harbauer-mpi-fur-biologische-intelligenz-and-technical-university-munich-tum/",
       "online": true,
-      "scraped_at": "2026-11-21T01:59:10.912942Z"
+      "scraped_at": "2026-11-22T00:58:54.782876Z"
     },
     {
       "id": "5389f642f30a",
@@ -120,7 +105,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/changqing-wang-technology-sciences-division/",
       "online": true,
-      "scraped_at": "2026-11-21T01:59:11.177041Z"
+      "scraped_at": "2026-11-22T00:58:55.075467Z"
     },
     {
       "id": "b5de38843456",
@@ -135,7 +120,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-kalle-gehring-mcgill-university/",
       "online": true,
-      "scraped_at": "2026-11-21T01:59:11.785770Z"
+      "scraped_at": "2026-11-22T00:58:55.366964Z"
     },
     {
       "id": "5bbd09e10f97",
@@ -150,7 +135,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dhanya-lakshmi-narayanan-hudson-institute-of-medical-research/",
       "online": true,
-      "scraped_at": "2026-11-21T01:59:12.339806Z"
+      "scraped_at": "2026-11-22T00:58:55.662458Z"
     },
     {
       "id": "caf70045d7ef",
@@ -165,7 +150,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-simona-seizova-immunity-division/",
       "online": true,
-      "scraped_at": "2026-11-21T01:59:12.605814Z"
+      "scraped_at": "2026-11-22T00:58:55.964230Z"
     },
     {
       "id": "0a015a94250a",
@@ -180,7 +165,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-rick-drake-medical-university-of-south-carolina/",
       "online": true,
-      "scraped_at": "2026-11-21T01:59:12.869450Z"
+      "scraped_at": "2026-11-22T00:58:56.254713Z"
     }
   ]
 }
