@@ -1,37 +1,7 @@
 {
-  "generated_at": "2026-11-24T05:09:38.858648Z",
-  "total": 11,
+  "generated_at": "2026-11-25T03:58:43.320486Z",
+  "total": 9,
   "seminars": [
-    {
-      "id": "50b82e17cd71",
-      "institution": "WEHI",
-      "institution_color": "#003087",
-      "title": "Dr Juliana Yeung – Bioeconomy Science Institute",
-      "date": "2026-11-25",
-      "time": "11:00",
-      "speaker": "Dr Juliana Yeung",
-      "affiliation": "Bioeconomy Science Institute",
-      "location": "L3C Seminar Room",
-      "abstract": null,
-      "url": "https://www.wehi.edu.au/event/dr-juliana-yeung-bioeconomy-science-institute/",
-      "online": true,
-      "scraped_at": "2026-11-24T05:08:48.728662Z"
-    },
-    {
-      "id": "b8fe16950bd6",
-      "institution": "WEHI",
-      "institution_color": "#003087",
-      "title": "Dr Somi Kordafshari – Cancer division",
-      "date": "2026-11-25",
-      "time": "13:00",
-      "speaker": "Dr Somi Kordafshari",
-      "affiliation": "Cancer division",
-      "location": "Davis Auditorium",
-      "abstract": null,
-      "url": "https://www.wehi.edu.au/event/dr-somi-kordafshari-cancer-division/",
-      "online": true,
-      "scraped_at": "2026-11-24T05:08:48.975903Z"
-    },
     {
       "id": "edf13f9565c2",
       "institution": "WEHI",
@@ -45,7 +15,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/felicia-bongiovanni-immunity-division/",
       "online": true,
-      "scraped_at": "2026-11-24T05:08:49.233482Z"
+      "scraped_at": "2026-11-25T03:57:48.520015Z"
     },
     {
       "id": "61414ebc5431",
@@ -60,7 +30,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-rashmi-agrata-ubiquitin-signalling-centre/",
       "online": true,
-      "scraped_at": "2026-11-24T05:08:49.772759Z"
+      "scraped_at": "2026-11-25T03:57:49.357109Z"
     },
     {
       "id": "9f4ded12bee5",
@@ -75,7 +45,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-angelika-harbauer-mpi-fur-biologische-intelligenz-and-technical-university-munich-tum/",
       "online": true,
-      "scraped_at": "2026-11-24T05:08:50.358115Z"
+      "scraped_at": "2026-11-25T03:57:50.255249Z"
     },
     {
       "id": "5389f642f30a",
@@ -90,7 +60,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/changqing-wang-technology-sciences-division/",
       "online": true,
-      "scraped_at": "2026-11-24T05:08:50.891279Z"
+      "scraped_at": "2026-11-25T03:57:50.589967Z"
     },
     {
       "id": "b5de38843456",
@@ -105,7 +75,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-kalle-gehring-mcgill-university/",
       "online": true,
-      "scraped_at": "2026-11-24T05:08:51.509205Z"
+      "scraped_at": "2026-11-25T03:57:50.918013Z"
     },
     {
       "id": "5bbd09e10f97",
@@ -120,7 +90,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dhanya-lakshmi-narayanan-hudson-institute-of-medical-research/",
       "online": true,
-      "scraped_at": "2026-11-24T05:08:51.754070Z"
+      "scraped_at": "2026-11-25T03:57:51.537971Z"
     },
     {
       "id": "d4d4b728f208",
@@ -135,7 +105,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/david-vincent-romero-immunity-division/",
       "online": true,
-      "scraped_at": "2026-11-24T05:08:51.989567Z"
+      "scraped_at": "2026-11-25T03:57:51.865192Z"
     },
     {
       "id": "caf70045d7ef",
@@ -150,7 +120,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/dr-simona-seizova-immunity-division/",
       "online": true,
-      "scraped_at": "2026-11-24T05:08:52.237600Z"
+      "scraped_at": "2026-11-25T03:57:52.522599Z"
     },
     {
       "id": "0a015a94250a",
@@ -165,7 +135,7 @@
       "abstract": null,
       "url": "https://www.wehi.edu.au/event/professor-rick-drake-medical-university-of-south-carolina/",
       "online": true,
-      "scraped_at": "2026-11-24T05:08:52.477147Z"
+      "scraped_at": "2026-11-25T03:57:53.129760Z"
     }
   ]
 }
